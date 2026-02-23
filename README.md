@@ -1,6 +1,6 @@
 # EPA Ireland Beach Water Quality Checker
 
-A Python script that queries the [EPA Ireland Bathing Water API](https://data.epa.ie/bw/api/v1/) to retrieve the latest water quality measurement for a specified Irish beach.
+A Python script that queries the [EPA Ireland Bathing Water API](https://data.epa.ie/api-list/bathing-water-open-data/) to retrieve the latest water quality measurement for a specified Irish beach.
 
 ## Features
 - Searches both in-season and out-of-season EPA measurement endpoints
