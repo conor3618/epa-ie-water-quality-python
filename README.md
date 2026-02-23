@@ -46,7 +46,7 @@ Full record saved to: Garrylucas,_White_Strand_latest.json
 4. Prints a formatted summary and saves the full record as a JSON file
 
 ## beaches.json
-`beaches.json` contains a full reference list of all EPA-monitored Irish beaches and their corresponding beach IDs. Use this file to look up the correct ID before running the script.
+`beaches.json` contains a full reference list of all EPA-monitored Irish beaches and their corresponding beach IDs. Use this file to look up the correct ID before running the script. To regenerate beaches.json with the latest EPA beach list, run generate_beaches.py.
 
 ## Data Source
 All water quality data is sourced from the [EPA Ireland Open Data Portal](https://data.epa.ie).
