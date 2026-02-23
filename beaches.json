@@ -1,1906 +1,240 @@
 {
-  "Loughrea Lake": {
-    "beach_id": "IEWEBWL29_194_0100",
-    "county": "Galway",
-    "latitude": 53.18591,
-    "longitude": -8.56323,
-    "easting": 162397,
-    "northing": 215167
-  },
-  "Garrylucas, White Strand": {
-    "beach_id": "IESWBWC090_0000_0300",
-    "county": "Cork",
-    "latitude": 51.64011,
-    "longitude": -8.56946,
-    "easting": 160627,
-    "northing": 43157
-  },
-  "Garryvoe": {
-    "beach_id": "IESWBWC040_0000_0100",
-    "county": "Cork",
-    "latitude": 51.85775,
-    "longitude": -8.00232,
-    "easting": 199890,
-    "northing": 67220
-  },
-  "Ballymoney, North Beach": {
-    "beach_id": "IESEBWC010_0000_0500",
-    "county": "Wexford",
-    "latitude": 52.68022,
-    "longitude": -6.20098,
-    "easting": 321720,
-    "northing": 160261
-  },
-  "Morriscastle": {
-    "beach_id": "IESEBWC010_0000_0300",
-    "county": "Wexford",
-    "latitude": 52.51373,
-    "longitude": -6.23808,
-    "easting": 319664,
-    "northing": 141674
-  },
-  "Port, Lurganboy": {
-    "beach_id": "IENBBWC025_0000_0300",
-    "county": "Louth",
-    "latitude": 53.82705,
-    "longitude": -6.25743,
-    "easting": 314791,
-    "northing": 287787
-  },
-  "Brittas Bay North": {
-    "beach_id": "IEEABWC140_0000_0300",
-    "county": "Wicklow",
-    "latitude": 52.88215,
-    "longitude": -6.05677,
-    "easting": 330865,
-    "northing": 182983
-  },
-  "The Cut, Lough Lene": {
-    "beach_id": "IEEABWL07_274_0100",
-    "county": "Westmeath",
-    "latitude": 53.65943,
-    "longitude": -7.19581,
-    "easting": 253215,
-    "northing": 268022
-  },
-  "Ballyallia Lake, Ennis": {
-    "beach_id": "IESHBWL27_72_0100",
-    "county": "Clare",
-    "latitude": 52.87509,
-    "longitude": -8.97123,
-    "easting": 134654,
-    "northing": 180870
-  },
-  "Ballycuggeran": {
-    "beach_id": "IESHBWL25_191a_0300",
-    "county": "Clare",
-    "latitude": 52.83779,
-    "longitude": -8.4644,
-    "easting": 168753,
-    "northing": 176378
-  },
-  "Bathing Place at Portumna": {
-    "beach_id": "IESHBWL25_191a_0100",
-    "county": "Galway",
-    "latitude": 53.08216,
-    "longitude": -8.21041,
-    "easting": 185949,
-    "northing": 203493
-  },
-  "Keeldra Lough": {
-    "beach_id": "IESHBWL26_624_0100",
-    "county": "Leitrim",
-    "latitude": 53.91903,
-    "longitude": -7.77289,
-    "easting": 214971,
-    "northing": 296640
-  },
-  "Kilkee": {
-    "beach_id": "IESHBWC070_0000_0400",
-    "county": "Clare",
-    "latitude": 52.68052,
-    "longitude": -9.65015,
-    "easting": 88447,
-    "northing": 160053
-  },
-  "Lilliput, Lough Ennell": {
-    "beach_id": "IESHBWL25_188_0100",
-    "county": "Westmeath",
-    "latitude": 53.44869,
-    "longitude": -7.43403,
-    "easting": 237653,
-    "northing": 244415
-  },
-  "Mountshannon, Lough Derg": {
-    "beach_id": "IESHBWL25_191a_0200",
-    "county": "Clare",
-    "latitude": 52.9293,
-    "longitude": -8.42816,
-    "easting": 171256,
-    "northing": 186547
-  },
-  "Portnashangan, Lough Owel": {
-    "beach_id": "IESHBWL26_703_0100",
-    "county": "Westmeath",
-    "latitude": 53.57522,
-    "longitude": -7.36791,
-    "easting": 241921,
-    "northing": 258535
-  },
-  "An Trá Mór, Coill Rua, Indreabhán": {
-    "beach_id": "IEWEBWC010_0000_0300",
-    "county": "Galway",
-    "latitude": 53.24092,
-    "longitude": -9.35627,
-    "easting": 109500,
-    "northing": 222000
-  },
-  "Céibh an Spidéil": {
-    "beach_id": "IEWEBWT180_0100_0100",
-    "county": "Galway",
-    "latitude": 53.24063,
-    "longitude": -9.30967,
-    "easting": 112610,
-    "northing": 221910
-  },
-  "Bertra Beach, Murrisk": {
-    "beach_id": "IEWEBWC350_0000_0100",
-    "county": "Mayo",
-    "latitude": 53.78931,
-    "longitude": -9.6612,
-    "easting": 90566,
-    "northing": 283458
-  },
-  "Bishopsquarter": {
-    "beach_id": "IEWEBWC110_0000_0100",
-    "county": "Clare",
-    "latitude": 53.13441,
-    "longitude": -9.12595,
-    "easting": 124690,
-    "northing": 209880
-  },
-  "Carrowmore Beach, Louisburgh": {
-    "beach_id": "IEWEBWC340_0000_0400",
-    "county": "Mayo",
-    "latitude": 53.77105,
-    "longitude": -9.82449,
-    "easting": 79753,
-    "northing": 281689
-  },
-  "Cill Mhuirbhigh, Inis Mór": {
-    "beach_id": "IEWEBWC010_0000_0200",
-    "county": "Galway",
-    "latitude": 53.13174,
-    "longitude": -9.7491,
-    "easting": 82978,
-    "northing": 210420
-  },
-  "Dooega Beach, Achill Island": {
-    "beach_id": "IEWEBWC250_0000_0300",
-    "county": "Mayo",
-    "latitude": 53.92073,
-    "longitude": -10.02027,
-    "easting": 67320,
-    "northing": 298696
-  },
-  "Dugort Beach, Achill Island": {
-    "beach_id": "IEWEBWC360_0000_0400",
-    "county": "Mayo",
-    "latitude": 54.01273,
-    "longitude": -10.02413,
-    "easting": 67359,
-    "northing": 308942
-  },
-  "Elly Bay, Belmullet": {
-    "beach_id": "IEWEBWC360_0000_0200",
-    "county": "Mayo",
-    "latitude": 54.16184,
-    "longitude": -10.0872,
-    "easting": 63715,
-    "northing": 325656
-  },
-  "Enniscrone Beach": {
-    "beach_id": "IEWEBWC420_0000_0100",
-    "county": "Sligo",
-    "latitude": 54.21237,
-    "longitude": -9.10371,
-    "easting": 128040,
-    "northing": 329830
-  },
-  "Golden Strand, Achill Island": {
-    "beach_id": "IEWEBWC360_0000_0300",
-    "county": "Mayo",
-    "latitude": 54.01423,
-    "longitude": -9.99465,
-    "easting": 69296,
-    "northing": 309054
-  },
-  "Goirtín, Cloch na Rón": {
-    "beach_id": "IEWEBWC230_0000_0100",
-    "county": "Galway",
-    "latitude": 53.37631,
-    "longitude": -9.9597,
-    "easting": 69630,
-    "northing": 238000
-  },
-  "Keel Beach, Achill Island": {
-    "beach_id": "IEWEBWC250_0000_0200",
-    "county": "Mayo",
-    "latitude": 53.97184,
-    "longitude": -10.07699,
-    "easting": 63761,
-    "northing": 304492
-  },
-  "Keem Beach, Achill Island": {
-    "beach_id": "IEWEBWC250_0000_0100",
-    "county": "Mayo",
-    "latitude": 53.96655,
-    "longitude": -10.19365,
-    "easting": 56089,
-    "northing": 304134
-  },
-  "Ross Beach, Killala": {
-    "beach_id": "IEWEBWC420_0000_0200",
-    "county": "Mayo",
-    "latitude": 54.23198,
-    "longitude": -9.1979,
-    "easting": 121932,
-    "northing": 332113
-  },
-  "Old Head Beach, Louisburgh": {
-    "beach_id": "IEWEBWC340_0000_0300",
-    "county": "Mayo",
-    "latitude": 53.77718,
-    "longitude": -9.76858,
-    "easting": 83456,
-    "northing": 282278
-  },
-  "Mullaghroe Beach, Belmullet": {
-    "beach_id": "IEWEBWC360_0000_0100",
-    "county": "Mayo",
-    "latitude": 54.13867,
-    "longitude": -10.07538,
-    "easting": 64411,
-    "northing": 323055
-  },
-  "Mulranny Beach": {
-    "beach_id": "IEWEBWC340_0000_0200",
-    "county": "Mayo",
-    "latitude": 53.89717,
-    "longitude": -9.7847,
-    "easting": 82729,
-    "northing": 295659
-  },
-  "Trá na bhForbacha, Na Forbacha": {
-    "beach_id": "IEWEBWC100_0000_0100",
-    "county": "Galway",
-    "latitude": 53.24746,
-    "longitude": -9.22539,
-    "easting": 118250,
-    "northing": 222570
-  },
-  "Rinroe Beach, Carrowtigue": {
-    "beach_id": "IEWEBWC400_0000_0100",
-    "county": "Mayo",
-    "latitude": 54.302,
-    "longitude": -9.84306,
-    "easting": 80067,
-    "northing": 340811
-  },
-  "Rosses Point Beach": {
-    "beach_id": "IEWEBWC450_0000_0100",
-    "county": "Sligo",
-    "latitude": 54.30898,
-    "longitude": -8.5744,
-    "easting": 162660,
-    "northing": 340174
-  },
-  "Salthill Beach": {
-    "beach_id": "IEWEBWC170_0000_0200",
-    "county": "Galway",
-    "latitude": 53.25451,
-    "longitude": -9.09222,
-    "easting": 127151,
-    "northing": 223210
-  },
-  "Silverstrand Beach": {
-    "beach_id": "IEWEBWC170_0000_0100",
-    "county": "Galway",
-    "latitude": 53.24981,
-    "longitude": -9.12652,
-    "easting": 124854,
-    "northing": 222723
-  },
-  "Trá na mBan, An Spidéal": {
-    "beach_id": "IEWEBWC010_0000_0400",
-    "county": "Galway",
-    "latitude": 53.24321,
-    "longitude": -9.29642,
-    "easting": 113500,
-    "northing": 222180
-  },
-  "Clare Island, Louisburgh": {
-    "beach_id": "IEWEBWC340_0000_0100",
-    "county": "Mayo",
-    "latitude": 53.8007,
-    "longitude": -9.95249,
-    "easting": 71405,
-    "northing": 285214
-  },
-  "Trá an Dóilín, An Ceathrú Rua": {
-    "beach_id": "IEWEBWC200_0000_0100",
-    "county": "Galway",
-    "latitude": 53.24693,
-    "longitude": -9.62973,
-    "easting": 91259,
-    "northing": 223050
-  },
-  "Trá Chaladh Fínis, Carna": {
-    "beach_id": "IEWEBWC010_0000_0100",
-    "county": "Galway",
-    "latitude": 53.30103,
-    "longitude": -9.78252,
-    "easting": 81211,
-    "northing": 229313
-  },
-  "Traught, Kinvara": {
-    "beach_id": "IEWEBWC160_0000_0100",
-    "county": "Galway",
-    "latitude": 53.17105,
-    "longitude": -8.98813,
-    "easting": 133970,
-    "northing": 213821
-  },
-  "Baile an Sceilg (Ballinskelligs)": {
-    "beach_id": "IESWBWC200_0000_0100",
-    "county": "Kerry",
-    "latitude": 51.82147,
-    "longitude": -10.27094,
-    "easting": 43471,
-    "northing": 65622
-  },
-  "Barley Cove": {
-    "beach_id": "IESWBWC150_0000_0200",
-    "county": "Cork",
-    "latitude": 51.46648,
-    "longitude": -9.7768,
-    "easting": 76578,
-    "northing": 25183
-  },
-  "Youghal Claycastle": {
-    "beach_id": "IESWBWC020_0000_0200",
-    "county": "Cork",
-    "latitude": 51.93342,
-    "longitude": -7.85599,
-    "easting": 209955,
-    "northing": 75650
-  },
-  "Coolmaine": {
-    "beach_id": "IESWBWC090_0000_0100",
-    "county": "Cork",
-    "latitude": 51.64529,
-    "longitude": -8.66627,
-    "easting": 153930,
-    "northing": 43790
-  },
-  "Doire Fhíonáin (Derrynane)": {
-    "beach_id": "IESWBWC150_0000_0100",
-    "county": "Kerry",
-    "latitude": 51.75899,
-    "longitude": -10.1383,
-    "easting": 52411,
-    "northing": 58395
-  },
-  "Fountainstown": {
-    "beach_id": "IESWBWC050_0000_0100",
-    "county": "Cork",
-    "latitude": 51.77475,
-    "longitude": -8.31047,
-    "easting": 178620,
-    "northing": 58030
-  },
-  "Garretstown": {
-    "beach_id": "IESWBWC090_0000_0200",
-    "county": "Cork",
-    "latitude": 51.64231,
-    "longitude": -8.57948,
-    "easting": 159935,
-    "northing": 43408
-  },
-  "Inch": {
-    "beach_id": "BPNBF050000220001",
-    "county": "Cork",
-    "latitude": 51.79561,
-    "longitude": -8.17921,
-    "easting": 187686,
-    "northing": 60321
-  },
-  "Inchydoney West Beach": {
-    "beach_id": "IESWBWC100_0000_0100",
-    "county": "Cork",
-    "latitude": 51.59493,
-    "longitude": -8.86381,
-    "easting": 140190,
-    "northing": 38330
-  },
-  "Trá na hUíne (Inny Strand, Waterville)": {
-    "beach_id": "IESWBWC200_0000_0200",
-    "county": "Kerry",
-    "latitude": 51.83956,
-    "longitude": -10.20758,
-    "easting": 47900,
-    "northing": 67500
-  },
-  "Kells": {
-    "beach_id": "IESWBWC230_0000_0400",
-    "county": "Kerry",
-    "latitude": 52.02578,
-    "longitude": -10.10435,
-    "easting": 55613,
-    "northing": 88007
-  },
-  "Owenahincha, Little Island Strand": {
-    "beach_id": "IESWBWC110_0000_0200",
-    "county": "Cork",
-    "latitude": 51.56343,
-    "longitude": -8.99261,
-    "easting": 131217,
-    "northing": 34939
-  },
-  "Redbarn": {
-    "beach_id": "IESWBWC020_0000_0100",
-    "county": "Cork",
-    "latitude": 51.92432,
-    "longitude": -7.87091,
-    "easting": 208931,
-    "northing": 74635
-  },
-  "Rossbeigh, White Strand": {
-    "beach_id": "IESWBWC230_0000_0300",
-    "county": "Kerry",
-    "latitude": 52.06192,
-    "longitude": -9.97729,
-    "easting": 64443,
-    "northing": 91783
-  },
-  "Tragumna": {
-    "beach_id": "IESWBWC010_0000_0100",
-    "county": "Cork",
-    "latitude": 51.50149,
-    "longitude": -9.26585,
-    "easting": 112150,
-    "northing": 28340
-  },
-  "Fionntrá (Ventry)": {
-    "beach_id": "IESWBWC230_0000_0100",
-    "county": "Kerry",
-    "latitude": 52.13048,
-    "longitude": -10.36331,
-    "easting": 38220,
-    "northing": 100201
-  },
-  "Warren, Cregane Strand": {
-    "beach_id": "IESWBWC110_0000_0100",
-    "county": "Cork",
-    "latitude": 51.56485,
-    "longitude": -9.01325,
-    "easting": 129788,
-    "northing": 35117
-  },
-  "White Strand, Caherciveen": {
-    "beach_id": "IESWBWC220_0000_0100",
-    "county": "Kerry",
-    "latitude": 51.94371,
-    "longitude": -10.27629,
-    "easting": 43527,
-    "northing": 79233
-  },
-  "Youghal Front Strand Beach": {
-    "beach_id": "IESWBWC020_0000_0300",
-    "county": "Cork",
-    "latitude": 51.93835,
-    "longitude": -7.84733,
-    "easting": 210550,
-    "northing": 76200
-  },
-  "Ardmore Beach": {
-    "beach_id": "IESEBWC050_0000_0100",
-    "county": "Waterford",
-    "latitude": 51.9543,
-    "longitude": -7.72145,
-    "easting": 219200,
-    "northing": 78000
-  },
-  "Bunmahon Beach": {
-    "beach_id": "IESEBWC050_0000_0200",
-    "county": "Waterford",
-    "latitude": 52.13806,
-    "longitude": -7.36686,
-    "easting": 243400,
-    "northing": 98600
-  },
-  "Clonea Beach": {
-    "beach_id": "IESEBWC140_0000_0100",
-    "county": "Waterford",
-    "latitude": 52.09663,
-    "longitude": -7.54109,
-    "easting": 231500,
-    "northing": 93900
-  },
-  "Courtown, North Beach": {
-    "beach_id": "IESEBWC010_0000_0400",
-    "county": "Wexford",
-    "latitude": 52.64783,
-    "longitude": -6.22563,
-    "easting": 320142,
-    "northing": 156616
-  },
-  "Curracloe": {
-    "beach_id": "IESEBWC010_0000_0200",
-    "county": "Wexford",
-    "latitude": 52.38826,
-    "longitude": -6.36201,
-    "easting": 311568,
-    "northing": 127515
-  },
-  "Duncannon": {
-    "beach_id": "IESEBWT100_0100_0100",
-    "county": "Wexford",
-    "latitude": 52.21987,
-    "longitude": -6.93347,
-    "easting": 272939,
-    "northing": 108050
-  },
-  "Counsellors' Strand, Dunmore East": {
-    "beach_id": "IESEBWC100_0000_0100",
-    "county": "Waterford",
-    "latitude": 52.15567,
-    "longitude": -6.9911,
-    "easting": 269100,
-    "northing": 100850
-  },
-  "Dunmore Strand, Dunmore East": {
-    "beach_id": "IESEBWC100_0000_0200",
-    "county": "Waterford",
-    "latitude": 52.15434,
-    "longitude": -6.99405,
-    "easting": 268900,
-    "northing": 100700
-  },
-  "Rosslare Strand": {
-    "beach_id": "IESEBWC010_0000_0100",
-    "county": "Wexford",
-    "latitude": 52.27331,
-    "longitude": -6.38534,
-    "easting": 310265,
-    "northing": 114690
-  },
-  "Tramore Beach": {
-    "beach_id": "IESEBWC110_0000_0100",
-    "county": "Waterford",
-    "latitude": 52.15823,
-    "longitude": -7.14447,
-    "easting": 258600,
-    "northing": 101000
-  },
-  "Balbriggan, Front Strand Beach": {
-    "beach_id": "IEEABWC020_0000_0600",
-    "county": "Dublin",
-    "latitude": 53.61272,
-    "longitude": -6.18242,
-    "easting": 320340,
-    "northing": 264059
-  },
-  "Bray South Promenade": {
-    "beach_id": "IEEABWC100_0000_0300",
-    "county": "Wicklow",
-    "latitude": 53.2023,
-    "longitude": -6.09575,
-    "easting": 327295,
-    "northing": 218538
-  },
-  "Brittas Bay South": {
-    "beach_id": "IEEABWC140_0000_0200",
-    "county": "Wicklow",
-    "latitude": 52.87759,
-    "longitude": -6.06017,
-    "easting": 330650,
-    "northing": 182470
-  },
-  "Clogga": {
-    "beach_id": "IEEABWC140_0000_0100",
-    "county": "Wicklow",
-    "latitude": 52.76203,
-    "longitude": -6.14557,
-    "easting": 325233,
-    "northing": 169459
-  },
-  "Dollymount Strand": {
-    "beach_id": "IEEABWC090_0000_0400",
-    "county": "Dublin",
-    "latitude": 53.36627,
-    "longitude": -6.1486,
-    "easting": 323291,
-    "northing": 236691
-  },
-  "Donabate, Balcarrick Beach": {
-    "beach_id": "IEEABWC020_0000_0100",
-    "county": "Dublin",
-    "latitude": 53.4764,
-    "longitude": -6.11579,
-    "easting": 325151,
-    "northing": 249004
-  },
-  "Greystones South": {
-    "beach_id": "IEEABWC100_0000_0200",
-    "county": "Wicklow",
-    "latitude": 53.14276,
-    "longitude": -6.05795,
-    "easting": 330000,
-    "northing": 211980
-  },
-  "Killiney": {
-    "beach_id": "IEEABWC100_0000_0400",
-    "county": "Dublin",
-    "latitude": 53.25722,
-    "longitude": -6.1114,
-    "easting": 326088,
-    "northing": 224621
-  },
-  "Laytown/Bettystown": {
-    "beach_id": "IEEABWC020_0000_0700",
-    "county": "Meath",
-    "latitude": 53.70053,
-    "longitude": -6.23739,
-    "easting": 316460,
-    "northing": 273740
-  },
-  "Loughshinny Beach": {
-    "beach_id": "IEEABWC020_0000_0400",
-    "county": "Dublin",
-    "latitude": 53.54628,
-    "longitude": -6.08082,
-    "easting": 327263,
-    "northing": 256842
-  },
-  "Portmarnock, Velvet Strand Beach": {
-    "beach_id": "IEEABWC070_0000_0200",
-    "county": "Dublin",
-    "latitude": 53.43281,
-    "longitude": -6.1219,
-    "easting": 324873,
-    "northing": 244142
-  },
-  "Portrane, the Brook Beach": {
-    "beach_id": "IEEABWC020_0000_0200",
-    "county": "Dublin",
-    "latitude": 53.49514,
-    "longitude": -6.10722,
-    "easting": 325664,
-    "northing": 251104
-  },
-  "Rush, South Beach": {
-    "beach_id": "IEEABWC020_0000_0300",
-    "county": "Dublin",
-    "latitude": 53.51532,
-    "longitude": -6.09502,
-    "easting": 326414,
-    "northing": 253372
-  },
-  "Sandymount Strand": {
-    "beach_id": "IEEABWC090_0000_0300",
-    "county": "Dublin",
-    "latitude": 53.32529,
-    "longitude": -6.20652,
-    "easting": 319550,
-    "northing": 232033
-  },
-  "Seapoint": {
-    "beach_id": "IENBBWC025_0000_0100",
-    "county": "Louth",
-    "latitude": 53.75614,
-    "longitude": -6.24172,
-    "easting": 316021,
-    "northing": 279921
-  },
-  "Silver Strand": {
-    "beach_id": "IEEABWC100_0000_0100",
-    "county": "Wicklow",
-    "latitude": 52.95334,
-    "longitude": -6.01195,
-    "easting": 333663,
-    "northing": 190987
-  },
-  "Skerries, South Beach": {
-    "beach_id": "IEEABWC020_0000_0500",
-    "county": "Dublin",
-    "latitude": 53.5826,
-    "longitude": -6.10277,
-    "easting": 325700,
-    "northing": 260845
-  },
-  "Sutton, Burrow Beach": {
-    "beach_id": "IEEABWC070_0000_0100",
-    "county": "Dublin",
-    "latitude": 53.39315,
-    "longitude": -6.09696,
-    "easting": 326648,
-    "northing": 239773
-  },
-  "Clogherhead": {
-    "beach_id": "IENBBWC025_0000_0200",
-    "county": "Louth",
-    "latitude": 53.78561,
-    "longitude": -6.2346,
-    "easting": 316409,
-    "northing": 283213
-  },
-  "Shelling Hill/Templetown": {
-    "beach_id": "IENBBWC040_0000_0100",
-    "county": "Louth",
-    "latitude": 53.98108,
-    "longitude": -6.1473,
-    "easting": 321594,
-    "northing": 305113
-  },
-  "Ballyhiernan, Fanad": {
-    "beach_id": "IENWBWC100_0000_0100",
-    "county": "Donegal",
-    "latitude": 55.24982,
-    "longitude": -7.7031,
-    "easting": 218930,
-    "northing": 444800
-  },
-  "Bundoran": {
-    "beach_id": "IENWBWC020_0000_0100",
-    "county": "Donegal",
-    "latitude": 54.48259,
-    "longitude": -8.27834,
-    "easting": 182007,
-    "northing": 359383
-  },
-  "Carrickfinn": {
-    "beach_id": "IENWBWC160_0000_0200",
-    "county": "Donegal",
-    "latitude": 55.04245,
-    "longitude": -8.34823,
-    "easting": 177786,
-    "northing": 421728
-  },
-  "Culdaff": {
-    "beach_id": "IENWBWC230_0000_0200",
-    "county": "Donegal",
-    "latitude": 55.29397,
-    "longitude": -7.14634,
-    "easting": 254278,
-    "northing": 450007
-  },
-  "Downings": {
-    "beach_id": "IENWBWC190_0000_0100",
-    "county": "Donegal",
-    "latitude": 55.1929,
-    "longitude": -7.84176,
-    "easting": 210126,
-    "northing": 438434
-  },
-  "Drumnatinny": {
-    "beach_id": "IENWBWC100_0000_0200",
-    "county": "Donegal",
-    "latitude": 55.16298,
-    "longitude": -8.08749,
-    "easting": 194472,
-    "northing": 435095
-  },
-  "Fintra": {
-    "beach_id": "IENWBWC070_0000_0100",
-    "county": "Donegal",
-    "latitude": 54.63513,
-    "longitude": -8.48784,
-    "easting": 168546,
-    "northing": 376437
-  },
-  "Portnablagh": {
-    "beach_id": "IENWBWC190_0000_0300",
-    "county": "Donegal",
-    "latitude": 55.18103,
-    "longitude": -7.92723,
-    "easting": 204684,
-    "northing": 437103
-  },
-  "Lady's Bay, Buncrana": {
-    "beach_id": "IENWBWT220_0400_0100",
-    "county": "Donegal",
-    "latitude": 55.13144,
-    "longitude": -7.46349,
-    "easting": 234270,
-    "northing": 431711
-  },
-  "Lisfannon": {
-    "beach_id": "IENWBWC220_0000_0100",
-    "county": "Donegal",
-    "latitude": 55.09752,
-    "longitude": -7.48146,
-    "easting": 233152,
-    "northing": 427927
-  },
-  "Marble Hill": {
-    "beach_id": "IENWBWC190_0000_0200",
-    "county": "Donegal",
-    "latitude": 55.17681,
-    "longitude": -7.89916,
-    "easting": 206473,
-    "northing": 436636
-  },
-  "Mullaghmore Beach": {
-    "beach_id": "IENWBWC010_0000_0300",
-    "county": "Sligo",
-    "latitude": 54.46029,
-    "longitude": -8.44869,
-    "easting": 170950,
-    "northing": 356957
-  },
-  "Rossnowlagh": {
-    "beach_id": "IENWBWC010_0000_0200",
-    "county": "Donegal",
-    "latitude": 54.5536,
-    "longitude": -8.21526,
-    "easting": 186120,
-    "northing": 367273
-  },
-  "Murvagh": {
-    "beach_id": "IENWBWC010_0000_0100",
-    "county": "Donegal",
-    "latitude": 54.6049,
-    "longitude": -8.16614,
-    "easting": 189312,
-    "northing": 372975
-  },
-  "Naran": {
-    "beach_id": "IENWBWC120_0000_0100",
-    "county": "Donegal",
-    "latitude": 54.84058,
-    "longitude": -8.45068,
-    "easting": 171092,
-    "northing": 399292
-  },
-  "Portarthur, Derrybeg": {
-    "beach_id": "IENWBWC160_0000_0100",
-    "county": "Donegal",
-    "latitude": 55.09997,
-    "longitude": -8.31465,
-    "easting": 179962,
-    "northing": 428121
-  },
-  "Killahoey": {
-    "beach_id": "IENWBWC190_0000_0400",
-    "county": "Donegal",
-    "latitude": 55.187,
-    "longitude": -7.95246,
-    "easting": 203076,
-    "northing": 437766
-  },
-  "Portsalon": {
-    "beach_id": "IENWBWC220_0000_0300",
-    "county": "Donegal",
-    "latitude": 55.19088,
-    "longitude": -7.60747,
-    "easting": 225049,
-    "northing": 438268
-  },
-  "Rathmullan": {
-    "beach_id": "IENWBWC220_0000_0200",
-    "county": "Donegal",
-    "latitude": 55.09663,
-    "longitude": -7.52973,
-    "easting": 230071,
-    "northing": 427806
-  },
-  "Stroove": {
-    "beach_id": "IENWBWC230_0000_0100",
-    "county": "Donegal",
-    "latitude": 55.22735,
-    "longitude": -6.92767,
-    "easting": 268283,
-    "northing": 442783
-  },
-  "Ballybunnion North ": {
-    "beach_id": "IESHBWC060_0000_0200",
-    "county": "Kerry",
-    "latitude": 52.51348,
-    "longitude": -9.67945,
-    "easting": 86033,
-    "northing": 141512
-  },
-  "Ballybunnion South": {
-    "beach_id": "IESHBWC060_0000_0300",
-    "county": "Kerry",
-    "latitude": 52.51063,
-    "longitude": -9.68249,
-    "easting": 85819,
-    "northing": 141200
-  },
-  "Ballyheigue": {
-    "beach_id": "IESHBWC040_0000_0100",
-    "county": "Kerry",
-    "latitude": 52.38722,
-    "longitude": -9.83943,
-    "easting": 74815,
-    "northing": 127728
-  },
-  "Banna Strand": {
-    "beach_id": "IESHBWC040_0000_0200",
-    "county": "Kerry",
-    "latitude": 52.33837,
-    "longitude": -9.83776,
-    "easting": 74791,
-    "northing": 122290
-  },
-  "Cappagh Pier, Kilrush": {
-    "beach_id": "IESHBWC060_0000_0100",
-    "county": "Clare",
-    "latitude": 52.62835,
-    "longitude": -9.49946,
-    "easting": 98517,
-    "northing": 154025
-  },
-  "Castlegregory": {
-    "beach_id": "IESHBWC040_0000_0300",
-    "county": "Kerry",
-    "latitude": 52.26115,
-    "longitude": -10.01158,
-    "easting": 62706,
-    "northing": 114014
-  },
-  "Fanore": {
-    "beach_id": "IESHBWC070_0000_0100",
-    "county": "Clare",
-    "latitude": 53.11971,
-    "longitude": -9.28982,
-    "easting": 113693,
-    "northing": 208429
-  },
-  "Fenit": {
-    "beach_id": "IESHBWC040_0000_0250",
-    "county": "Kerry",
-    "latitude": 52.27555,
-    "longitude": -9.86686,
-    "easting": 72627,
-    "northing": 115351
-  },
-  "Lahinch": {
-    "beach_id": "IESHBWC100_0000_0100",
-    "county": "Clare",
-    "latitude": 52.93346,
-    "longitude": -9.34975,
-    "easting": 109291,
-    "northing": 187776
-  },
-  "Maharabeg": {
-    "beach_id": "IESHBWC040_0000_0400",
-    "county": "Kerry",
-    "latitude": 52.2759,
-    "longitude": -10.02407,
-    "easting": 61899,
-    "northing": 115678
-  },
-  "Spanish Point": {
-    "beach_id": "IESHBWC070_0000_0300",
-    "county": "Clare",
-    "latitude": 52.84211,
-    "longitude": -9.43491,
-    "easting": 103362,
-    "northing": 177722
-  },
-  "White Strand, Doonbeg": {
-    "beach_id": "IESHBWC080_0000_0100",
-    "county": "Clare",
-    "latitude": 52.74805,
-    "longitude": -9.54891,
-    "easting": 95455,
-    "northing": 167415
-  },
-  "White Strand, Miltown Malbay": {
-    "beach_id": "IESHBWC070_0000_0200",
-    "county": "Clare",
-    "latitude": 52.86829,
-    "longitude": -9.42891,
-    "easting": 103824,
-    "northing": 180627
-  },
-  "Grattan Road Beach": {
-    "beach_id": "IEWEBWT170_0700_0100",
-    "county": "Galway",
-    "latitude": 53.25931,
-    "longitude": -9.06602,
-    "easting": 128908,
-    "northing": 223718
-  },
-  "Ballyloughane Beach": {
-    "beach_id": "IEWEBWT170_0700_0200",
-    "county": "Galway",
-    "latitude": 53.26741,
-    "longitude": -9.01832,
-    "easting": 132104,
-    "northing": 224573
-  },
-  "Carrowniskey, Louisburgh": {
-    "beach_id": "IEWEBWC250_0000_0350",
-    "county": "Mayo",
-    "latitude": 53.73532,
-    "longitude": -9.89397,
-    "easting": 75066,
-    "northing": 277833
-  },
-  "Dunmoran Beach": {
-    "beach_id": "IEWEBWC450_0000_0200",
-    "county": "Sligo",
-    "latitude": 54.26383,
-    "longitude": -8.72709,
-    "easting": 152670,
-    "northing": 335240
-  },
-  "Streedagh Beach": {
-    "beach_id": "IEWEBWC430_0000_0100",
-    "county": "Sligo",
-    "latitude": 54.40613,
-    "longitude": -8.55959,
-    "easting": 163710,
-    "northing": 350980
-  },
-  "Claremont Beach": {
-    "beach_id": "IEEABWC070_0000_0500",
-    "county": "Dublin",
-    "latitude": 53.39034,
-    "longitude": -6.07655,
-    "easting": 328014,
-    "northing": 239497
-  },
-  "Trá Inis Oírr (Main Beach)": {
-    "beach_id": "IEWEBWC010_0000_0250",
-    "county": "Galway",
-    "latitude": 53.06597,
-    "longitude": -9.51919,
-    "easting": 98210,
-    "northing": 202750
-  },
-  "Ballinesker": {
-    "beach_id": "IESEBWC010_0000_0250",
-    "county": "Wexford",
-    "latitude": 52.39953,
-    "longitude": -6.35755,
-    "easting": 311843,
-    "northing": 128776
-  },
-  "Rush North Beach": {
-    "beach_id": "IEEABWC020_0000_0350",
-    "county": "Dublin",
-    "latitude": 53.52616,
-    "longitude": -6.08268,
-    "easting": 327200,
-    "northing": 254600
-  },
-  "Magheraroarty": {
-    "beach_id": "IENWBWC100_0000_0300",
-    "county": "Donegal",
-    "latitude": 55.14596,
-    "longitude": -8.17154,
-    "easting": 189110,
-    "northing": 433210
-  },
-  "Dooey": {
-    "beach_id": "IENWBWC120_0000_0200",
-    "county": "Donegal",
-    "latitude": 54.87346,
-    "longitude": -8.39158,
-    "easting": 174910,
-    "northing": 402930
-  },
-  "Carne": {
-    "beach_id": "IESEBWC050_0000_0300",
-    "county": "Wexford",
-    "latitude": 52.19971,
-    "longitude": -6.34871,
-    "easting": 312952,
-    "northing": 106557
-  },
-  "Seafield, Quilty": {
-    "beach_id": "IESHBWC070_0000_0350",
-    "county": "Clare",
-    "latitude": 52.80665,
-    "longitude": -9.49361,
-    "easting": 99325,
-    "northing": 173857
-  },
-  "Ballyrisode": {
-    "beach_id": "BPNBF050000140001",
-    "county": "Cork",
-    "latitude": 51.51187,
-    "longitude": -9.66132,
-    "easting": 84717,
-    "northing": 30044
-  },
-  "Galley Cove": {
-    "beach_id": "BPNBF050000150001",
-    "county": "Cork",
-    "latitude": 51.46123,
-    "longitude": -9.74361,
-    "easting": 78870,
-    "northing": 24543
-  },
-  "Red Strand": {
-    "beach_id": "BPNBF050000170001",
-    "county": "Cork",
-    "latitude": 51.54717,
-    "longitude": -8.92689,
-    "easting": 135751,
-    "northing": 33070
-  },
-  "Cadogans strand, Schull": {
-    "beach_id": "BPNBF050000200001",
-    "county": "Cork",
-    "latitude": 51.53034,
-    "longitude": -9.53537,
-    "easting": 93503,
-    "northing": 31908
-  },
-  "Garnish": {
-    "beach_id": "BPNBF050000210001",
-    "county": "Cork",
-    "latitude": 51.61709,
-    "longitude": -10.13475,
-    "easting": 52195,
-    "northing": 42602
-  },
-  "Ring (Greenlands Strand)": {
-    "beach_id": "BPNBF050000230001",
-    "county": "Cork",
-    "latitude": 51.89354,
-    "longitude": -7.88664,
-    "easting": 207854,
-    "northing": 71208
-  },
-  "Dooneen Pier": {
-    "beach_id": "BPNBF050000280001",
-    "county": "Cork",
-    "latitude": 51.5646,
-    "longitude": -9.73052,
-    "easting": 80052,
-    "northing": 36022
-  },
-  "Oysterhaven": {
-    "beach_id": "BPNBF050000300001",
-    "county": "Cork",
-    "latitude": 51.70239,
-    "longitude": -8.43854,
-    "easting": 169732,
-    "northing": 50024
-  },
-  "Rocky Bay": {
-    "beach_id": "BPNBF050000320001",
-    "county": "Cork",
-    "latitude": 51.7339,
-    "longitude": -8.33073,
-    "easting": 177201,
-    "northing": 53491
-  },
-  "Ardnahinch": {
-    "beach_id": "BPNBF050000330001",
-    "county": "Cork",
-    "latitude": 51.84756,
-    "longitude": -8.01775,
-    "easting": 198827,
-    "northing": 66086
-  },
-  "Dog's Bay, Roundstone": {
-    "beach_id": "BPNBF120000140001",
-    "county": "Galway",
-    "latitude": 53.37899,
-    "longitude": -9.96293,
-    "easting": 69423,
-    "northing": 238304
-  },
-  "Dumhach": {
-    "beach_id": "BPNBF120000150001",
-    "county": "Galway",
-    "latitude": 53.61476,
-    "longitude": -10.18064,
-    "easting": 55740,
-    "northing": 264960
-  },
-  "East End Inisbofin": {
-    "beach_id": "BPNBF120000160001",
-    "county": "Galway",
-    "latitude": 53.62286,
-    "longitude": -10.18917,
-    "easting": 55203,
-    "northing": 265878
-  },
-  "An Trá Mór, Gorumna Island": {
-    "beach_id": "BPNBF120000180001",
-    "county": "Galway",
-    "latitude": 53.25834,
-    "longitude": -9.64304,
-    "easting": 90400,
-    "northing": 224340
-  },
-  "Mannin Bay, Ballyconneely": {
-    "beach_id": "BPNBF120000190001",
-    "county": "Galway",
-    "latitude": 53.44271,
-    "longitude": -10.06363,
-    "easting": 62928,
-    "northing": 245583
-  },
-  "Esker, Banagher": {
-    "beach_id": "BPNBF120000200001",
-    "county": "Galway",
-    "latitude": 53.19882,
-    "longitude": -8.03343,
-    "easting": 197815,
-    "northing": 216457
-  },
-  "Glassilaun, Killary": {
-    "beach_id": "BPNBF120000210001",
-    "county": "Galway",
-    "latitude": 53.61487,
-    "longitude": -9.87853,
-    "easting": 75731,
-    "northing": 264402
-  },
-  "Renvyle": {
-    "beach_id": "BPNBF120000220001",
-    "county": "Galway",
-    "latitude": 53.60712,
-    "longitude": -9.98457,
-    "easting": 68690,
-    "northing": 263730
-  },
-  "Omey Island Strand": {
-    "beach_id": "BPNBF120000230001",
-    "county": "Galway",
-    "latitude": 53.53539,
-    "longitude": -10.14906,
-    "easting": 57563,
-    "northing": 256064
-  },
-  "Trá Poll na gCaorach Inis Oirr": {
-    "beach_id": "BPNBF120000240001",
-    "county": "Galway",
-    "latitude": 53.05549,
-    "longitude": -9.50701,
-    "easting": 99002,
-    "northing": 201566
-  },
-  "Béal Bán": {
-    "beach_id": "BPNBF130000160001",
-    "county": "Kerry",
-    "latitude": 52.18088,
-    "longitude": -10.40677,
-    "easting": 35431,
-    "northing": 105906
-  },
-  "Derrymore": {
-    "beach_id": "BPNBF130000170001",
-    "county": "Kerry",
-    "latitude": 52.23749,
-    "longitude": -9.85903,
-    "easting": 73053,
-    "northing": 111103
-  },
-  "Waterville Town Beach": {
-    "beach_id": "BPNBF130000200001",
-    "county": "Kerry",
-    "latitude": 51.82788,
-    "longitude": -10.17426,
-    "easting": 50157,
-    "northing": 66132
-  },
-  "Mornington": {
-    "beach_id": "BPNBF230000020001",
-    "county": "Meath",
-    "latitude": 53.7188,
-    "longitude": -6.24317,
-    "easting": 316028,
-    "northing": 275763
-  },
-  "Annestown": {
-    "beach_id": "BPNBF310000100001",
-    "county": "Waterford",
-    "latitude": 52.13924,
-    "longitude": -7.27182,
-    "easting": 249906,
-    "northing": 98792
-  },
-  "Ballyquin": {
-    "beach_id": "BPNBF310000110001",
-    "county": "Waterford",
-    "latitude": 51.97275,
-    "longitude": -7.7009,
-    "easting": 220605,
-    "northing": 80058
-  },
-  "Ballyvooney": {
-    "beach_id": "BPNBF310000120001",
-    "county": "Waterford",
-    "latitude": 52.12719,
-    "longitude": -7.44259,
-    "easting": 238224,
-    "northing": 97348
-  },
-  "Boatstrand": {
-    "beach_id": "BPNBF310000130001",
-    "county": "Waterford",
-    "latitude": 52.13561,
-    "longitude": -7.30856,
-    "easting": 247394,
-    "northing": 98364
-  },
-  "Curragh": {
-    "beach_id": "BPNBF310000140001",
-    "county": "Waterford",
-    "latitude": 51.96599,
-    "longitude": -7.7104,
-    "easting": 219955,
-    "northing": 79304
-  },
-  "Goat Island": {
-    "beach_id": "BPNBF310000150001",
-    "county": "Waterford",
-    "latitude": 51.94555,
-    "longitude": -7.76137,
-    "easting": 216459,
-    "northing": 77017
-  },
-  "Guillamene": {
-    "beach_id": "BPNBF310000160001",
-    "county": "Waterford",
-    "latitude": 52.14416,
-    "longitude": -7.16493,
-    "easting": 257218,
-    "northing": 99419
-  },
-  "Kilfarrassey": {
-    "beach_id": "BPNBF310000170001",
-    "county": "Waterford",
-    "latitude": 52.13355,
-    "longitude": -7.23162,
-    "easting": 252665,
-    "northing": 98187
-  },
-  "Newtown Cove": {
-    "beach_id": "BPNBF310000180001",
-    "county": "Waterford",
-    "latitude": 52.14314,
-    "longitude": -7.16631,
-    "easting": 257125,
-    "northing": 99304
-  },
-  "Whiting Bay": {
-    "beach_id": "BPNBF310000190001",
-    "county": "Waterford",
-    "latitude": 51.95184,
-    "longitude": -7.77127,
-    "easting": 215776,
-    "northing": 77714
-  },
-  "Woodstown": {
-    "beach_id": "BPNBF310000200001",
-    "county": "Waterford",
-    "latitude": 52.19108,
-    "longitude": -6.98305,
-    "easting": 269596,
-    "northing": 104798
-  },
-  "Stradbally": {
-    "beach_id": "BPNBF310000210001",
-    "county": "Waterford",
-    "latitude": 52.12253,
-    "longitude": -7.46045,
-    "easting": 237005,
-    "northing": 96820
-  },
-  "Cullenstown": {
-    "beach_id": "BPNBF330000130001",
-    "county": "Wexford",
-    "latitude": 52.21616,
-    "longitude": -6.72055,
-    "easting": 287497,
-    "northing": 107873
-  },
-  "Old Bawn": {
-    "beach_id": "BPNBF330000140001",
-    "county": "Wexford",
-    "latitude": 52.54768,
-    "longitude": -6.20227,
-    "easting": 322001,
-    "northing": 145512
-  },
-  "Culletons Gap": {
-    "beach_id": "BPNBF330000150001",
-    "county": "Wexford",
-    "latitude": 52.37938,
-    "longitude": -6.36404,
-    "easting": 311452,
-    "northing": 126524
-  },
-  "Cahore": {
-    "beach_id": "BPNBF330000180001",
-    "county": "Wexford",
-    "latitude": 52.56959,
-    "longitude": -6.20263,
-    "easting": 321916,
-    "northing": 147949
-  },
-  "Ballyhealy": {
-    "beach_id": "BPNBF330000200001",
-    "county": "Wexford",
-    "latitude": 52.18655,
-    "longitude": -6.523,
-    "easting": 301066,
-    "northing": 104836
-  },
-  "Booley Bay": {
-    "beach_id": "BPNBF330000210001",
-    "county": "Wexford",
-    "latitude": 52.20065,
-    "longitude": -6.90535,
-    "easting": 274893,
-    "northing": 105941
-  },
-  "Grange": {
-    "beach_id": "BPNBF330000220001",
-    "county": "Wexford",
-    "latitude": 52.19815,
-    "longitude": -6.82876,
-    "easting": 280134,
-    "northing": 105744
-  },
-  "St Helens Bay": {
-    "beach_id": "BPNBF330000230001",
-    "county": "Wexford",
-    "latitude": 52.23191,
-    "longitude": -6.32313,
-    "easting": 314618,
-    "northing": 110180
-  },
-  "Kilmore Quay Small Beach": {
-    "beach_id": "BPNBF330000250001",
-    "county": "Wexford",
-    "latitude": 52.17374,
-    "longitude": -6.58746,
-    "easting": 296685,
-    "northing": 103322
-  },
-  "Arklow South Beach": {
-    "beach_id": "BPNBF340000070001",
-    "county": "Wicklow",
-    "latitude": 52.79242,
-    "longitude": -6.13845,
-    "easting": 325626,
-    "northing": 172854
-  },
-  "Forty Foot Bathing Place": {
-    "beach_id": "IEEABWC090_0000_0040",
-    "county": "Dublin",
-    "latitude": 53.28955,
-    "longitude": -6.11397,
-    "easting": 325821,
-    "northing": 228214
-  },
-  "Sandycove Beach": {
-    "beach_id": "IEEABWC090_0000_0050",
-    "county": "Dublin",
-    "latitude": 53.28862,
-    "longitude": -6.11472,
-    "easting": 325774,
-    "northing": 228110
-  },
-  "White Rock Beach": {
-    "beach_id": "IEEABWC100_0000_0450",
-    "county": "Dublin",
-    "latitude": 53.26601,
-    "longitude": -6.10665,
-    "easting": 326379,
-    "northing": 225608
-  },
-  "Silver Strand, Sherkin Island": {
-    "beach_id": "BPNBF050000400001",
-    "county": "Cork",
-    "latitude": 51.47439,
-    "longitude": -9.42386,
-    "easting": 101120,
-    "northing": 25527
-  },
-  "North Bull Wall": {
-    "beach_id": "BPNBF070000040003",
-    "county": "Dublin",
-    "latitude": 53.35187,
-    "longitude": -6.16446,
-    "easting": 322276,
-    "northing": 235062
-  },
-  "Shelley Banks": {
-    "beach_id": "BPNBF070000060001",
-    "county": "Dublin",
-    "latitude": 53.33882,
-    "longitude": -6.18216,
-    "easting": 321135,
-    "northing": 233579
-  },
-  "Kilcoole Beach": {
-    "beach_id": "BPNBF340000120001",
-    "county": "Wicklow",
-    "latitude": 53.1063,
-    "longitude": -6.04029,
-    "easting": 331293,
-    "northing": 207955
-  },
-  "South of Bray Harbour": {
-    "beach_id": "BPNBF340000090001",
-    "county": "Wicklow",
-    "latitude": 53.20658,
-    "longitude": -6.09921,
-    "easting": 327051,
-    "northing": 219008
-  },
-  "Wicklow Harbour bathing area": {
-    "beach_id": "BPNBF340000100001",
-    "county": "Wicklow",
-    "latitude": 52.98212,
-    "longitude": -6.03817,
-    "easting": 331813,
-    "northing": 194141
-  },
-  "Murrough Beach": {
-    "beach_id": "BPNBF340000110001",
-    "county": "Wicklow",
-    "latitude": 52.99189,
-    "longitude": -6.04687,
-    "easting": 331199,
-    "northing": 195212
-  },
-  "Littor beach": {
-    "beach_id": "BPNBF130000190001",
-    "county": "Kerry",
-    "latitude": 52.57429,
-    "longitude": -9.58087,
-    "easting": 92873,
-    "northing": 148127
-  },
-  "Inchydoney East Beach": {
-    "beach_id": "IESWBWC100_0000_0150",
-    "county": "Cork",
-    "latitude": 51.59692,
-    "longitude": -8.85963,
-    "easting": 140482,
-    "northing": 38548
-  },
-  "Cúas Crom": {
-    "beach_id": "IESWBWC230_0000_0500",
-    "county": "Kerry",
-    "latitude": 51.96464,
-    "longitude": -10.26475,
-    "easting": 44393,
-    "northing": 81536
-  },
-  "Carrigaholt": {
-    "beach_id": "IESHBWC060_0000_0050",
-    "county": "Clare",
-    "latitude": 52.60841,
-    "longitude": -9.70614,
-    "easting": 84471,
-    "northing": 152117
-  },
-  "Quilty": {
-    "beach_id": "IESHBWC070_0000_0330",
-    "county": "Clare",
-    "latitude": 52.81884,
-    "longitude": -9.45529,
-    "easting": 101936,
-    "northing": 175160
-  },
-  "Trá na Reilige, An Cheathrú Rua": {
-    "beach_id": "BPNBF120000260001",
-    "county": "Galway",
-    "latitude": 53.24952,
-    "longitude": -9.57888,
-    "easting": 94660,
-    "northing": 223262
-  },
-  "Cromane": {
-    "beach_id": "BPNBF130000210001",
-    "county": "Kerry",
-    "latitude": 52.11389,
-    "longitude": -9.90259,
-    "easting": 69717,
-    "northing": 97428
-  },
-  "Reenroe": {
-    "beach_id": "BPNBF130000220001",
-    "county": "Kerry",
-    "latitude": 51.84376,
-    "longitude": -10.23145,
-    "easting": 46269,
-    "northing": 68018
-  },
-  "Baginbun": {
-    "beach_id": "BPNBF330000260001",
-    "county": "Wexford",
-    "latitude": 52.17619,
-    "longitude": -6.82935,
-    "easting": 280133,
-    "northing": 103300
-  },
-  "The Cove Arklow": {
-    "beach_id": "BPNBF340000130001",
-    "county": "Wicklow",
-    "latitude": 52.78096,
-    "longitude": -6.14513,
-    "easting": 325208,
-    "northing": 171567
-  },
-  "Aillebrack/Silverhill Beach": {
-    "beach_id": "IEWEBWC010_0000_0040",
-    "county": "Galway",
-    "latitude": 53.41991,
-    "longitude": -10.14887,
-    "easting": 57188,
-    "northing": 243213
-  },
-  "River Barrow Clashganny": {
-    "beach_id": "BPNBF010000010001",
-    "county": "Carlow",
-    "latitude": 52.56175,
-    "longitude": -6.91505,
-    "easting": 273627,
-    "northing": 146111
-  },
-  "River Barrow Bagenalstown": {
-    "beach_id": "BPNBF010000020001",
-    "county": "Carlow",
-    "latitude": 52.70776,
-    "longitude": -6.95466,
-    "easting": 270705,
-    "northing": 162319
-  },
-  "Portacloy Beach": {
-    "beach_id": "BPNBF220000170001",
-    "county": "Mayo",
-    "latitude": 54.33179,
-    "longitude": -9.78308,
-    "easting": 84055,
-    "northing": 344027
-  },
-  "Srah Beach": {
-    "beach_id": "BPNBF220000190001",
-    "county": "Mayo",
-    "latitude": 54.17215,
-    "longitude": -9.95682,
-    "easting": 72262,
-    "northing": 326559
-  },
-  "Termon Beach": {
-    "beach_id": "BPNBF220000200001",
-    "county": "Mayo",
-    "latitude": 54.11323,
-    "longitude": -10.0923,
-    "easting": 63222,
-    "northing": 320256
-  },
-  "Tránaun Beach, Inishturk": {
-    "beach_id": "BPNBF220000260001",
-    "county": "Mayo",
-    "latitude": 53.70415,
-    "longitude": -10.09166,
-    "easting": 61920,
-    "northing": 274730
-  },
-  "Cross Beach, Belmullet": {
-    "beach_id": "BPNBF220000350001",
-    "county": "Mayo",
-    "latitude": 54.20744,
-    "longitude": -10.08436,
-    "easting": 64050,
-    "northing": 330725
-  },
-  "Merrion Strand": {
-    "beach_id": "BPNBF070000020002",
-    "county": "Dublin",
-    "latitude": 53.31636,
-    "longitude": -6.2037,
-    "easting": 319763,
-    "northing": 231044
-  },
-  "Ballynamona Strand": {
-    "beach_id": "BPNBF050000420001",
-    "county": "Cork",
-    "latitude": 51.84413,
-    "longitude": -8.02031,
-    "easting": 198650,
-    "northing": 65705
-  },
-  "Oileán Chléire": {
-    "beach_id": "BPNBF050000410001",
-    "county": "Cork",
-    "latitude": 51.43469,
-    "longitude": -9.50022,
-    "easting": 95724,
-    "northing": 21216
-  },
-  "Clifden Beach": {
-    "beach_id": "BPNBF120000060002",
-    "county": "Galway",
-    "latitude": 53.4851,
-    "longitude": -10.04757,
-    "easting": 64130,
-    "northing": 250270
-  },
-  "Rosslare Harbour": {
-    "beach_id": "BPNBF330000270001",
-    "county": "Wexford",
-    "latitude": 52.25119,
-    "longitude": -6.33082,
-    "easting": 314043,
-    "northing": 112313
-  },
-  "Half Moon": {
-    "beach_id": "IEEABWC090_0000_0350",
-    "county": "Dublin",
-    "latitude": 53.3411,
-    "longitude": -6.16409,
-    "easting": 322332,
-    "northing": 233864
-  },
-  "Trá Saorphort (Bóithrín Mags), Bearna": {
-    "beach_id": "IEWEBWC170_0000_0010",
-    "county": "Galway",
-    "latitude": 53.25027,
-    "longitude": -9.14572,
-    "easting": 123573,
-    "northing": 222794
-  },
-  "The Cove Greystones": {
-    "beach_id": "IEEABWC100_0000_0220",
-    "county": "Wicklow",
-    "latitude": 53.14905,
-    "longitude": -6.06226,
-    "easting": 329693,
-    "northing": 212672
-  },
-  "Dromineer Beach": {
-    "beach_id": "IESHBWL25_191a_0190",
-    "county": "Tipperary",
-    "latitude": 52.92475,
-    "longitude": -8.27971,
-    "easting": 181237,
-    "northing": 185991
-  },
-  "Cross Beach Louisburgh": {
-    "beach_id": "BPNBF220000340001",
-    "county": "Mayo",
-    "latitude": 53.70544,
-    "longitude": -9.91241,
-    "easting": 73760,
-    "northing": 274540
-  },
-  "Silver Strand Louisburgh": {
-    "beach_id": "BPNBF220000110002",
-    "county": "Mayo",
-    "latitude": 53.64749,
-    "longitude": -9.88878,
-    "easting": 75149,
-    "northing": 268050
-  },
-  "Tallaghbawn (White Strand) Louisburgh": {
-    "beach_id": "BPNBF220000210001",
-    "county": "Mayo",
-    "latitude": 53.67208,
-    "longitude": -9.91081,
-    "easting": 73766,
-    "northing": 270825
-  },
-  "Gormanston Beach": {
-    "beach_id": "BPNBF230000030001",
-    "county": "Meath",
-    "latitude": 53.64137,
-    "longitude": -6.21052,
-    "easting": 318400,
-    "northing": 267200
-  },
-  "Dun Laoghaire Baths": {
-    "beach_id": "IEEABWC090_0000_0060",
-    "county": "Dublin",
-    "latitude": 53.29139,
-    "longitude": -6.12772,
-    "easting": 324899,
-    "northing": 228395
-  },
-  "Belmullet Tidal Pool  & Shore Road Bathing Area": {
-    "beach_id": "IEWEBWC360_0000_0500",
-    "county": "Mayo",
-    "latitude": 54.21733,
-    "longitude": -9.99045,
-    "easting": 70208,
-    "northing": 331649
-  },
-  "Lough Muckno Bathing Area": {
-    "beach_id": "BPNBF240000030001",
-    "county": "Monaghan",
-    "latitude": 54.11988,
-    "longitude": -6.72892,
-    "easting": 283162,
-    "northing": 319720
-  },
-  "Lough Muckno  Water Sports Area": {
-    "beach_id": "BPNBF240000100001",
-    "county": "Monaghan",
-    "latitude": 54.11699,
-    "longitude": -6.72687,
-    "easting": 283302,
-    "northing": 319401
-  },
-  "Hollywood Lake": {
-    "beach_id": "BPNBF240000020001",
-    "county": "Monaghan",
-    "latitude": 54.26588,
-    "longitude": -7.06745,
-    "easting": 260812,
-    "northing": 335626
-  },
-  "Halton's River (Dromore Lake System)": {
-    "beach_id": "BPNBF240000040001",
-    "county": "Monaghan",
-    "latitude": 54.08302,
-    "longitude": -7.08574,
-    "easting": 259884,
-    "northing": 315257
-  },
-  "Greaghlone Lake": {
-    "beach_id": "BPNBF240000050001",
-    "county": "Monaghan",
-    "latitude": 53.97093,
-    "longitude": -6.84815,
-    "easting": 275636,
-    "northing": 303008
-  },
-  "Creevy Lake": {
-    "beach_id": "BPNBF240000060001",
-    "county": "Monaghan",
-    "latitude": 54.00624,
-    "longitude": -6.73368,
-    "easting": 283077,
-    "northing": 307066
-  },
-  "Emy Lough": {
-    "beach_id": "BPNBF240000070001",
-    "county": "Monaghan",
-    "latitude": 54.33525,
-    "longitude": -6.9367,
-    "easting": 269215,
-    "northing": 343468
-  },
-  "Lough Major - the beach": {
-    "beach_id": "BPNBF240000080001",
-    "county": "Monaghan",
-    "latitude": 54.12939,
-    "longitude": -6.89445,
-    "easting": 272322,
-    "northing": 320596
-  },
-  "Gortnawinney Lake": {
-    "beach_id": "BPNBF240000090001",
-    "county": "Monaghan",
-    "latitude": 54.20249,
-    "longitude": -7.21357,
-    "easting": 251370,
-    "northing": 328454
-  },
-  "Lough Muckno _Black Island Point": {
-    "beach_id": "BPNBF240000110001",
-    "county": "Monaghan",
-    "latitude": 54.12049,
-    "longitude": -6.72512,
-    "easting": 283409,
-    "northing": 319792
-  }
+  "Loughrea Lake": "IEWEBWL29_194_0100",
+  "Garrylucas, White Strand": "IESWBWC090_0000_0300",
+  "Garryvoe": "IESWBWC040_0000_0100",
+  "Ballymoney, North Beach": "IESEBWC010_0000_0500",
+  "Morriscastle": "IESEBWC010_0000_0300",
+  "Port, Lurganboy": "IENBBWC025_0000_0300",
+  "Brittas Bay North": "IEEABWC140_0000_0300",
+  "The Cut, Lough Lene": "IEEABWL07_274_0100",
+  "Ballyallia Lake, Ennis": "IESHBWL27_72_0100",
+  "Ballycuggeran": "IESHBWL25_191a_0300",
+  "Bathing Place at Portumna": "IESHBWL25_191a_0100",
+  "Keeldra Lough": "IESHBWL26_624_0100",
+  "Kilkee": "IESHBWC070_0000_0400",
+  "Lilliput, Lough Ennell": "IESHBWL25_188_0100",
+  "Mountshannon, Lough Derg": "IESHBWL25_191a_0200",
+  "Portnashangan, Lough Owel": "IESHBWL26_703_0100",
+  "An Trá Mór, Coill Rua, Indreabhán": "IEWEBWC010_0000_0300",
+  "Céibh an Spidéil": "IEWEBWT180_0100_0100",
+  "Bertra Beach, Murrisk": "IEWEBWC350_0000_0100",
+  "Bishopsquarter": "IEWEBWC110_0000_0100",
+  "Carrowmore Beach, Louisburgh": "IEWEBWC340_0000_0400",
+  "Cill Mhuirbhigh, Inis Mór": "IEWEBWC010_0000_0200",
+  "Dooega Beach, Achill Island": "IEWEBWC250_0000_0300",
+  "Dugort Beach, Achill Island": "IEWEBWC360_0000_0400",
+  "Elly Bay, Belmullet": "IEWEBWC360_0000_0200",
+  "Enniscrone Beach": "IEWEBWC420_0000_0100",
+  "Golden Strand, Achill Island": "IEWEBWC360_0000_0300",
+  "Goirtín, Cloch na Rón": "IEWEBWC230_0000_0100",
+  "Keel Beach, Achill Island": "IEWEBWC250_0000_0200",
+  "Keem Beach, Achill Island": "IEWEBWC250_0000_0100",
+  "Ross Beach, Killala": "IEWEBWC420_0000_0200",
+  "Old Head Beach, Louisburgh": "IEWEBWC340_0000_0300",
+  "Mullaghroe Beach, Belmullet": "IEWEBWC360_0000_0100",
+  "Mulranny Beach": "IEWEBWC340_0000_0200",
+  "Trá na bhForbacha, Na Forbacha": "IEWEBWC100_0000_0100",
+  "Rinroe Beach, Carrowtigue": "IEWEBWC400_0000_0100",
+  "Rosses Point Beach": "IEWEBWC450_0000_0100",
+  "Salthill Beach": "IEWEBWC170_0000_0200",
+  "Silverstrand Beach": "IEWEBWC170_0000_0100",
+  "Trá na mBan, An Spidéal": "IEWEBWC010_0000_0400",
+  "Clare Island, Louisburgh": "IEWEBWC340_0000_0100",
+  "Trá an Dóilín, An Ceathrú Rua": "IEWEBWC200_0000_0100",
+  "Trá Chaladh Fínis, Carna": "IEWEBWC010_0000_0100",
+  "Traught, Kinvara": "IEWEBWC160_0000_0100",
+  "Baile an Sceilg (Ballinskelligs)": "IESWBWC200_0000_0100",
+  "Barley Cove": "IESWBWC150_0000_0200",
+  "Youghal Claycastle": "IESWBWC020_0000_0200",
+  "Coolmaine": "IESWBWC090_0000_0100",
+  "Doire Fhíonáin (Derrynane)": "IESWBWC150_0000_0100",
+  "Fountainstown": "IESWBWC050_0000_0100",
+  "Garretstown": "IESWBWC090_0000_0200",
+  "Inch": "BPNBF050000220001",
+  "Inchydoney West Beach": "IESWBWC100_0000_0100",
+  "Trá na hUíne (Inny Strand, Waterville)": "IESWBWC200_0000_0200",
+  "Kells": "IESWBWC230_0000_0400",
+  "Owenahincha, Little Island Strand": "IESWBWC110_0000_0200",
+  "Redbarn": "IESWBWC020_0000_0100",
+  "Rossbeigh, White Strand": "IESWBWC230_0000_0300",
+  "Tragumna": "IESWBWC010_0000_0100",
+  "Fionntrá (Ventry)": "IESWBWC230_0000_0100",
+  "Warren, Cregane Strand": "IESWBWC110_0000_0100",
+  "White Strand, Caherciveen": "IESWBWC220_0000_0100",
+  "Youghal Front Strand Beach": "IESWBWC020_0000_0300",
+  "Ardmore Beach": "IESEBWC050_0000_0100",
+  "Bunmahon Beach": "IESEBWC050_0000_0200",
+  "Clonea Beach": "IESEBWC140_0000_0100",
+  "Courtown, North Beach": "IESEBWC010_0000_0400",
+  "Curracloe": "IESEBWC010_0000_0200",
+  "Duncannon": "IESEBWT100_0100_0100",
+  "Counsellors' Strand, Dunmore East": "IESEBWC100_0000_0100",
+  "Dunmore Strand, Dunmore East": "IESEBWC100_0000_0200",
+  "Rosslare Strand": "IESEBWC010_0000_0100",
+  "Tramore Beach": "IESEBWC110_0000_0100",
+  "Balbriggan, Front Strand Beach": "IEEABWC020_0000_0600",
+  "Bray South Promenade": "IEEABWC100_0000_0300",
+  "Brittas Bay South": "IEEABWC140_0000_0200",
+  "Clogga": "IEEABWC140_0000_0100",
+  "Dollymount Strand": "IEEABWC090_0000_0400",
+  "Donabate, Balcarrick Beach": "IEEABWC020_0000_0100",
+  "Greystones South": "IEEABWC100_0000_0200",
+  "Killiney": "IEEABWC100_0000_0400",
+  "Laytown/Bettystown": "IEEABWC020_0000_0700",
+  "Loughshinny Beach": "IEEABWC020_0000_0400",
+  "Portmarnock, Velvet Strand Beach": "IEEABWC070_0000_0200",
+  "Portrane, the Brook Beach": "IEEABWC020_0000_0200",
+  "Rush, South Beach": "IEEABWC020_0000_0300",
+  "Sandymount Strand": "IEEABWC090_0000_0300",
+  "Seapoint": "IENBBWC025_0000_0100",
+  "Silver Strand": "IEEABWC100_0000_0100",
+  "Skerries, South Beach": "IEEABWC020_0000_0500",
+  "Sutton, Burrow Beach": "IEEABWC070_0000_0100",
+  "Clogherhead": "IENBBWC025_0000_0200",
+  "Shelling Hill/Templetown": "IENBBWC040_0000_0100",
+  "Ballyhiernan, Fanad": "IENWBWC100_0000_0100",
+  "Bundoran": "IENWBWC020_0000_0100",
+  "Carrickfinn": "IENWBWC160_0000_0200",
+  "Culdaff": "IENWBWC230_0000_0200",
+  "Downings": "IENWBWC190_0000_0100",
+  "Drumnatinny": "IENWBWC100_0000_0200",
+  "Fintra": "IENWBWC070_0000_0100",
+  "Portnablagh": "IENWBWC190_0000_0300",
+  "Lady's Bay, Buncrana": "IENWBWT220_0400_0100",
+  "Lisfannon": "IENWBWC220_0000_0100",
+  "Marble Hill": "IENWBWC190_0000_0200",
+  "Mullaghmore Beach": "IENWBWC010_0000_0300",
+  "Rossnowlagh": "IENWBWC010_0000_0200",
+  "Murvagh": "IENWBWC010_0000_0100",
+  "Naran": "IENWBWC120_0000_0100",
+  "Portarthur, Derrybeg": "IENWBWC160_0000_0100",
+  "Killahoey": "IENWBWC190_0000_0400",
+  "Portsalon": "IENWBWC220_0000_0300",
+  "Rathmullan": "IENWBWC220_0000_0200",
+  "Stroove": "IENWBWC230_0000_0100",
+  "Ballybunnion North ": "IESHBWC060_0000_0200",
+  "Ballybunnion South": "IESHBWC060_0000_0300",
+  "Ballyheigue": "IESHBWC040_0000_0100",
+  "Banna Strand": "IESHBWC040_0000_0200",
+  "Cappagh Pier, Kilrush": "IESHBWC060_0000_0100",
+  "Castlegregory": "IESHBWC040_0000_0300",
+  "Fanore": "IESHBWC070_0000_0100",
+  "Fenit": "IESHBWC040_0000_0250",
+  "Lahinch": "IESHBWC100_0000_0100",
+  "Maharabeg": "IESHBWC040_0000_0400",
+  "Spanish Point": "IESHBWC070_0000_0300",
+  "White Strand, Doonbeg": "IESHBWC080_0000_0100",
+  "White Strand, Miltown Malbay": "IESHBWC070_0000_0200",
+  "Grattan Road Beach": "IEWEBWT170_0700_0100",
+  "Ballyloughane Beach": "IEWEBWT170_0700_0200",
+  "Carrowniskey, Louisburgh": "IEWEBWC250_0000_0350",
+  "Dunmoran Beach": "IEWEBWC450_0000_0200",
+  "Streedagh Beach": "IEWEBWC430_0000_0100",
+  "Claremont Beach": "IEEABWC070_0000_0500",
+  "Trá Inis Oírr (Main Beach)": "IEWEBWC010_0000_0250",
+  "Ballinesker": "IESEBWC010_0000_0250",
+  "Rush North Beach": "IEEABWC020_0000_0350",
+  "Magheraroarty": "IENWBWC100_0000_0300",
+  "Dooey": "IENWBWC120_0000_0200",
+  "Carne": "IESEBWC050_0000_0300",
+  "Seafield, Quilty": "IESHBWC070_0000_0350",
+  "Ballyrisode": "BPNBF050000140001",
+  "Galley Cove": "BPNBF050000150001",
+  "Red Strand": "BPNBF050000170001",
+  "Cadogans strand, Schull": "BPNBF050000200001",
+  "Garnish": "BPNBF050000210001",
+  "Ring (Greenlands Strand)": "BPNBF050000230001",
+  "Dooneen Pier": "BPNBF050000280001",
+  "Oysterhaven": "BPNBF050000300001",
+  "Rocky Bay": "BPNBF050000320001",
+  "Ardnahinch": "BPNBF050000330001",
+  "Dog's Bay, Roundstone": "BPNBF120000140001",
+  "Dumhach": "BPNBF120000150001",
+  "East End Inisbofin": "BPNBF120000160001",
+  "An Trá Mór, Gorumna Island": "BPNBF120000180001",
+  "Mannin Bay, Ballyconneely": "BPNBF120000190001",
+  "Esker, Banagher": "BPNBF120000200001",
+  "Glassilaun, Killary": "BPNBF120000210001",
+  "Renvyle": "BPNBF120000220001",
+  "Omey Island Strand": "BPNBF120000230001",
+  "Trá Poll na gCaorach Inis Oirr": "BPNBF120000240001",
+  "Béal Bán": "BPNBF130000160001",
+  "Derrymore": "BPNBF130000170001",
+  "Waterville Town Beach": "BPNBF130000200001",
+  "Mornington": "BPNBF230000020001",
+  "Annestown": "BPNBF310000100001",
+  "Ballyquin": "BPNBF310000110001",
+  "Ballyvooney": "BPNBF310000120001",
+  "Boatstrand": "BPNBF310000130001",
+  "Curragh": "BPNBF310000140001",
+  "Goat Island": "BPNBF310000150001",
+  "Guillamene": "BPNBF310000160001",
+  "Kilfarrassey": "BPNBF310000170001",
+  "Newtown Cove": "BPNBF310000180001",
+  "Whiting Bay": "BPNBF310000190001",
+  "Woodstown": "BPNBF310000200001",
+  "Stradbally": "BPNBF310000210001",
+  "Cullenstown": "BPNBF330000130001",
+  "Old Bawn": "BPNBF330000140001",
+  "Culletons Gap": "BPNBF330000150001",
+  "Cahore": "BPNBF330000180001",
+  "Ballyhealy": "BPNBF330000200001",
+  "Booley Bay": "BPNBF330000210001",
+  "Grange": "BPNBF330000220001",
+  "St Helens Bay": "BPNBF330000230001",
+  "Kilmore Quay Small Beach": "BPNBF330000250001",
+  "Arklow South Beach": "BPNBF340000070001",
+  "Forty Foot Bathing Place": "IEEABWC090_0000_0040",
+  "Sandycove Beach": "IEEABWC090_0000_0050",
+  "White Rock Beach": "IEEABWC100_0000_0450",
+  "Silver Strand, Sherkin Island": "BPNBF050000400001",
+  "North Bull Wall": "BPNBF070000040003",
+  "Shelley Banks": "BPNBF070000060001",
+  "Kilcoole Beach": "BPNBF340000120001",
+  "South of Bray Harbour": "BPNBF340000090001",
+  "Wicklow Harbour bathing area": "BPNBF340000100001",
+  "Murrough Beach": "BPNBF340000110001",
+  "Littor beach": "BPNBF130000190001",
+  "Inchydoney East Beach": "IESWBWC100_0000_0150",
+  "Cúas Crom": "IESWBWC230_0000_0500",
+  "Carrigaholt": "IESHBWC060_0000_0050",
+  "Quilty": "IESHBWC070_0000_0330",
+  "Trá na Reilige, An Cheathrú Rua": "BPNBF120000260001",
+  "Cromane": "BPNBF130000210001",
+  "Reenroe": "BPNBF130000220001",
+  "Baginbun": "BPNBF330000260001",
+  "The Cove Arklow": "BPNBF340000130001",
+  "Aillebrack/Silverhill Beach": "IEWEBWC010_0000_0040",
+  "River Barrow Clashganny": "BPNBF010000010001",
+  "River Barrow Bagenalstown": "BPNBF010000020001",
+  "Portacloy Beach": "BPNBF220000170001",
+  "Srah Beach": "BPNBF220000190001",
+  "Termon Beach": "BPNBF220000200001",
+  "Tránaun Beach, Inishturk": "BPNBF220000260001",
+  "Cross Beach, Belmullet": "BPNBF220000350001",
+  "Merrion Strand": "BPNBF070000020002",
+  "Ballynamona Strand": "BPNBF050000420001",
+  "Oileán Chléire": "BPNBF050000410001",
+  "Clifden Beach": "BPNBF120000060002",
+  "Rosslare Harbour": "BPNBF330000270001",
+  "Half Moon": "IEEABWC090_0000_0350",
+  "Trá Saorphort (Bóithrín Mags), Bearna": "IEWEBWC170_0000_0010",
+  "The Cove Greystones": "IEEABWC100_0000_0220",
+  "Dromineer Beach": "IESHBWL25_191a_0190",
+  "Cross Beach Louisburgh": "BPNBF220000340001",
+  "Silver Strand Louisburgh": "BPNBF220000110002",
+  "Tallaghbawn (White Strand) Louisburgh": "BPNBF220000210001",
+  "Gormanston Beach": "BPNBF230000030001",
+  "Dun Laoghaire Baths": "IEEABWC090_0000_0060",
+  "Belmullet Tidal Pool  & Shore Road Bathing Area": "IEWEBWC360_0000_0500",
+  "Lough Muckno Bathing Area": "BPNBF240000030001",
+  "Lough Muckno  Water Sports Area": "BPNBF240000100001",
+  "Hollywood Lake": "BPNBF240000020001",
+  "Halton's River (Dromore Lake System)": "BPNBF240000040001",
+  "Greaghlone Lake": "BPNBF240000050001",
+  "Creevy Lake": "BPNBF240000060001",
+  "Emy Lough": "BPNBF240000070001",
+  "Lough Major - the beach": "BPNBF240000080001",
+  "Gortnawinney Lake": "BPNBF240000090001",
+  "Lough Muckno _Black Island Point": "BPNBF240000110001"
 }
