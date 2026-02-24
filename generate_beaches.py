@@ -2,8 +2,10 @@
 EPA Beach Directory Generator
 ------------------------------
 Fetches the complete list of EPA-monitored Irish bathing water locations
-from the EPA Ireland API and saves them as a beach name → beach ID
+from the EPA Ireland API and saves them as a beach name -> beach ID
 lookup dictionary in beaches.json.
+
+Handles duplicate beach names by appending the county name.
 
 Run this script to regenerate beaches.json if the EPA database is updated.
 
@@ -20,6 +22,7 @@ def get_epa_beach_list():
 
     Paginates through the full dataset (100 records per page) and builds
     a dictionary mapping beach names to their unique EPA beach IDs.
+    Duplicate names are disambiguated by appending the county name.
 
     Returns:
         dict: A dictionary in the format { "Beach Name": "beach_id" }
@@ -30,7 +33,6 @@ def get_epa_beach_list():
 
     with httpx.Client() as client:
         while True:
-            # Request 100 records per page to minimise the number of API calls
             params = {"page": page, "per_page": 100}
             try:
                 response = client.get(base_url, params=params, timeout=10.0)
@@ -39,13 +41,11 @@ def get_epa_beach_list():
 
                 batch = data.get('list', [])
 
-                # Stop paginating if the current page returned no records
                 if not batch:
                     break
 
                 all_beaches.extend(batch)
 
-                # Stop if we have collected all available records
                 if len(all_beaches) >= data.get('count', 0):
                     break
 
@@ -55,16 +55,34 @@ def get_epa_beach_list():
                 print(f"Error at page {page}: {e}")
                 break
 
-    # Build a quick-lookup dictionary: { "Beach Name": "beach_id" }
-    return {b['beach_name']: b['beach_id'] for b in all_beaches}
+    # Find all duplicate names first
+    seen_names = {}
+    for b in all_beaches:
+        name = b['beach_name']
+        seen_names[name] = seen_names.get(name, 0) + 1
+
+    duplicates = {name for name, count in seen_names.items() if count > 1}
+
+    if duplicates:
+        print(f"Found {len(duplicates)} duplicate name(s): {', '.join(sorted(duplicates))}")
+
+    # Build dictionary — append county for any duplicate names
+    beach_directory = {}
+    for b in all_beaches:
+        name = b['beach_name']
+        if name in duplicates:
+            county = b.get('county_name', 'Unknown')
+            name = f"{name} ({county})"
+        beach_directory[name] = b['beach_id']
+
+    return beach_directory
 
 
 # --- Main Execution ---
+if __name__ == "__main__":
+    beach_directory = get_epa_beach_list()
+    print(f"Loaded {len(beach_directory)} beaches.")
 
-beach_directory = get_epa_beach_list()
-print(f"Loaded {len(beach_directory)} beaches.")
-
-# Save the directory to beaches.json for use with epa_beach_quality.py
-with open('beaches.json', 'w', encoding='utf-8') as f:
-    json.dump(beach_directory, f, indent=2, ensure_ascii=False)
-print("Beach data saved to beaches.json")
+    with open('beaches.json', 'w', encoding='utf-8') as f:
+        json.dump(beach_directory, f, indent=2, ensure_ascii=False)
+    print("Beach data saved to beaches.json")
