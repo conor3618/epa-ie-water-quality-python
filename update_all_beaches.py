@@ -6,6 +6,7 @@ locally for each beach. Fast - fetches 10 pages at a time.
 
 Run:  python update_all_beaches.py
 Output: latest_beaches.json
+        beaches/beach.json (one file per beach)
 """
 
 import json
@@ -15,9 +16,10 @@ import os
 from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-BASE_DIR    = os.path.dirname(os.path.abspath(__file__))
-INPUT_FILE  = os.path.join(BASE_DIR, "beaches.json")
-OUTPUT_FILE = os.path.join(BASE_DIR, "latest_beaches.json")
+BASE_DIR        = os.path.dirname(os.path.abspath(__file__))
+INPUT_FILE      = os.path.join(BASE_DIR, "beaches.json")
+OUTPUT_FILE     = os.path.join(BASE_DIR, "latest_beaches.json")
+BEACHES_DIR     = os.path.join(BASE_DIR, "beaches")
 
 URLS = [
     "https://data.epa.ie/bw/api/v1/Measurements/in-season",
@@ -78,11 +80,19 @@ def fetch_all_measurements():
     return all_measurements
 
 
+def slugify(name):
+    """Convert beach name to a safe lowercase filename e.g. 'Killiney' -> 'killiney'"""
+    return name.lower().replace(" ", "_").replace("/", "_").replace(",", "").replace("'", "")
+
+
 def main():
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         beaches = json.load(f)
 
     total = len(beaches)
+
+    # Create per-beach output directory if it doesn't exist
+    os.makedirs(BEACHES_DIR, exist_ok=True)
 
     print("Downloading all measurements first...\n")
     all_measurements = fetch_all_measurements()
@@ -95,7 +105,7 @@ def main():
     for name, beach_id in beaches.items():
         m = all_measurements.get(beach_id)
         if m:
-            results.append({
+            record = {
                 "beach_id":               beach_id,
                 "name":                   name,
                 "status":                 m.get("sample_water_quality_status"),
@@ -105,18 +115,29 @@ def main():
                 "county":                 m.get("county_name"),
                 "local_authority":        m.get("local_authority_name"),
                 "updated_at":             datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-            })
+            }
+
+            results.append(record)
+
+            # --- Write individual beach JSON file ---
+            slug = slugify(name)
+            beach_file = os.path.join(BEACHES_DIR, f"{slug}.json")
+            with open(beach_file, "w", encoding="utf-8") as f:
+                json.dump(record, f, indent=2, ensure_ascii=False)
+
             print(f"  ✓ {name}: {m.get('sample_water_quality_status')} ({m.get('result_date')})")
         else:
             failed.append(name)
             print(f"  ✗ {name}: no data")
 
+    # --- Write full beaches JSON ---
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
     print(f"\n{'='*50}")
     print(f"Done! {len(results)}/{total} beaches updated.")
     print(f"Saved to: {OUTPUT_FILE}")
+    print(f"Per-beach files saved to: {BEACHES_DIR}/")
 
     if failed:
         print(f"\nNo data found for {len(failed)} beaches:")
