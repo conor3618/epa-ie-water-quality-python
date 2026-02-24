@@ -60,7 +60,7 @@ Beach IDs for all monitored Irish beaches are listed in `beaches.json`.
 4. Prints a formatted summary and saves the full record as a JSON file
 
 ## GitHub Action
-A scheduled workflow runs `update_all_beaches.py` at 8am, 2pm and 8pm UTC daily and commits the updated `latest_beaches.json` to the repository automatically. You can also trigger it manually from the Actions tab.
+A scheduled workflow runs `update_all_beaches.py` at 8am, 2pm and 8pm UTC daily and commits the updated `latest_beaches.json` to the repository automatically.
 
 The latest data for all beaches is always available at:
 
