@@ -2,10 +2,10 @@
   "beach_id": "BPNBF120000160001",
   "name": "East End Inisbofin",
   "status": "Excellent",
-  "result_date": "2025-09-01",
-  "e_coli": "<10",
-  "intestinal_enterococci": "9",
+  "result_date": "2025-08-11",
+  "e_coli": "10",
+  "intestinal_enterococci": "2",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-02-24T18:33:19Z"
+  "updated_at": "2026-02-24T20:30:26Z"
 }

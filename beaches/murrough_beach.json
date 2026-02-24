@@ -2,10 +2,10 @@
   "beach_id": "BPNBF340000110001",
   "name": "Murrough Beach",
   "status": "Excellent",
-  "result_date": "2025-08-25",
+  "result_date": "2025-07-28",
   "e_coli": "10",
-  "intestinal_enterococci": "8",
+  "intestinal_enterococci": "3",
   "county": "Wicklow",
   "local_authority": "Wicklow County Council",
-  "updated_at": "2026-02-24T18:33:19Z"
+  "updated_at": "2026-02-24T20:30:26Z"
 }

@@ -2,10 +2,10 @@
   "beach_id": "IESWBWC020_0000_0200",
   "name": "Youghal Claycastle",
   "status": "Excellent",
-  "result_date": "2025-09-01",
-  "e_coli": "20",
-  "intestinal_enterococci": "3",
+  "result_date": "2025-08-18",
+  "e_coli": "<10",
+  "intestinal_enterococci": "40",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-02-24T18:33:19Z"
+  "updated_at": "2026-02-24T20:30:26Z"
 }

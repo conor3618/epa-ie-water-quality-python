@@ -2,10 +2,10 @@
   "beach_id": "BPNBF050000220001",
   "name": "Inch (Cork)",
   "status": "Excellent",
-  "result_date": "2024-09-02",
-  "e_coli": "20",
-  "intestinal_enterococci": "1",
+  "result_date": "2024-08-12",
+  "e_coli": "10",
+  "intestinal_enterococci": "19",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-02-24T18:33:19Z"
+  "updated_at": "2026-02-24T20:30:26Z"
 }

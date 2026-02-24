@@ -2,10 +2,10 @@
   "beach_id": "IESEBWC010_0000_0100",
   "name": "Rosslare Strand",
   "status": "Excellent",
-  "result_date": "2025-09-01",
-  "e_coli": "2",
-  "intestinal_enterococci": "64",
+  "result_date": "2025-08-18",
+  "e_coli": "1",
+  "intestinal_enterococci": "16",
   "county": "Wexford",
   "local_authority": "Wexford County Council",
-  "updated_at": "2026-02-24T18:33:19Z"
+  "updated_at": "2026-02-24T20:30:26Z"
 }

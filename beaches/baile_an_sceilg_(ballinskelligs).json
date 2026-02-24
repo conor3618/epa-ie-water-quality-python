@@ -1,11 +1,11 @@
 {
   "beach_id": "IESWBWC200_0000_0100",
   "name": "Baile an Sceilg (Ballinskelligs)",
-  "status": "Excellent",
-  "result_date": "2025-09-01",
-  "e_coli": "20",
-  "intestinal_enterococci": "<1",
+  "status": "Poor",
+  "result_date": "2025-08-25",
+  "e_coli": ">2005",
+  "intestinal_enterococci": "730",
   "county": "Kerry",
   "local_authority": "Kerry County Council",
-  "updated_at": "2026-02-24T18:33:19Z"
+  "updated_at": "2026-02-24T20:30:26Z"
 }

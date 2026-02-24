@@ -1,11 +1,11 @@
 {
   "beach_id": "IEWEBWC010_0000_0100",
   "name": "Trá Chaladh Fínis, Carna",
-  "status": "Excellent",
-  "result_date": "2025-09-01",
-  "e_coli": "243",
-  "intestinal_enterococci": "58",
+  "status": "Poor",
+  "result_date": "2025-08-05",
+  "e_coli": "399",
+  "intestinal_enterococci": "300",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-02-24T18:33:19Z"
+  "updated_at": "2026-02-24T20:30:26Z"
 }

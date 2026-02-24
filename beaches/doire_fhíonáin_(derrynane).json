@@ -2,10 +2,10 @@
   "beach_id": "IESWBWC150_0000_0100",
   "name": "Doire Fhíonáin (Derrynane)",
   "status": "Excellent",
-  "result_date": "2025-09-01",
-  "e_coli": "<10",
-  "intestinal_enterococci": "3",
+  "result_date": "2025-08-25",
+  "e_coli": "87",
+  "intestinal_enterococci": "99",
   "county": "Kerry",
   "local_authority": "Kerry County Council",
-  "updated_at": "2026-02-24T18:33:19Z"
+  "updated_at": "2026-02-24T20:30:26Z"
 }

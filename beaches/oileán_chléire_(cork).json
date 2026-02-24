@@ -1,11 +1,11 @@
 {
   "beach_id": "BPNBF050000410001",
   "name": "Oileán Chléire (Cork)",
-  "status": "Poor",
-  "result_date": "2025-08-11",
-  "e_coli": "309",
-  "intestinal_enterococci": ">1000",
+  "status": "Excellent",
+  "result_date": "2025-06-16",
+  "e_coli": "<10",
+  "intestinal_enterococci": "2",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-02-24T18:33:19Z"
+  "updated_at": "2026-02-24T20:30:26Z"
 }

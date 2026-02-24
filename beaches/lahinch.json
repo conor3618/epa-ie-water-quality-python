@@ -1,11 +1,11 @@
 {
   "beach_id": "IESHBWC100_0000_0100",
   "name": "Lahinch",
-  "status": "Good",
-  "result_date": "2025-09-01",
-  "e_coli": "331",
-  "intestinal_enterococci": "30",
+  "status": "Excellent",
+  "result_date": "2025-08-25",
+  "e_coli": "10",
+  "intestinal_enterococci": "<10",
   "county": "Clare",
   "local_authority": "Clare County Council",
-  "updated_at": "2026-02-24T18:33:19Z"
+  "updated_at": "2026-02-24T20:30:26Z"
 }

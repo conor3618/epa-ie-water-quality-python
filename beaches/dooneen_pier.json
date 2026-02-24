@@ -2,10 +2,10 @@
   "beach_id": "BPNBF050000280001",
   "name": "Dooneen Pier",
   "status": "Excellent",
-  "result_date": "2025-09-01",
+  "result_date": "2025-06-16",
   "e_coli": "<10",
-  "intestinal_enterococci": "<1",
+  "intestinal_enterococci": "1",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-02-24T18:33:19Z"
+  "updated_at": "2026-02-24T20:30:26Z"
 }
