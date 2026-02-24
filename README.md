@@ -70,6 +70,8 @@ The latest data for all beaches is always available at:
 `beaches.json` contains a full reference list of all EPA-monitored Irish beaches and their corresponding beach IDs. Use this file to look up the correct ID before running the script. To regenerate `beaches.json` with the latest EPA beach list, run `generate_beaches.py`.
 
 ## Data Source
-All water quality data is sourced from the [EPA Ireland Open Data Portal](https://data.epa.ie).
-Data is provided under the [Creative Commons Attribution 4.0 licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+[EPA Ireland](https://data.epa.ie) (CC BY 4.0)
 EPA Ireland neither endorses this project nor guarantees data accuracy.
+## Licence
+Code is licensed under the MIT License. 
+
