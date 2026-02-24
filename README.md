@@ -1,6 +1,6 @@
 # EPA Ireland Beach Water Quality
 
-A Python project that queries the [EPA Ireland Bathing Water API](https://data.epa.ie/api-list/bathing-water-open-data/) to retrieve the latest water quality measurements for Irish beaches. Includes a scheduled GitHub Action that automatically updates data for all 238 monitored beaches 3 times daily.
+A Python project that queries the [EPA Ireland Bathing Water API](https://data.epa.ie/api-list/bathing-water-open-data/) to retrieve the latest water quality measurements for Irish beaches. Includes a scheduled GitHub Action that automatically updates data for all monitored beaches 3 times daily.
 
 ## Features
 - Searches both in-season and out-of-season EPA measurement endpoints
