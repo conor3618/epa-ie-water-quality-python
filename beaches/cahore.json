@@ -2,10 +2,10 @@
   "beach_id": "BPNBF330000180001",
   "name": "Cahore",
   "status": "Excellent",
-  "result_date": "2025-08-18",
-  "e_coli": "42",
-  "intestinal_enterococci": "20",
+  "result_date": "2025-09-01",
+  "e_coli": "5",
+  "intestinal_enterococci": "64",
   "county": "Wexford",
   "local_authority": "Wexford County Council",
-  "updated_at": "2026-02-24T20:30:26Z"
+  "updated_at": "2026-02-25T08:42:29Z"
 }

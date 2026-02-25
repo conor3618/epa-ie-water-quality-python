@@ -2,10 +2,10 @@
   "beach_id": "IESHBWC040_0000_0400",
   "name": "Maharabeg",
   "status": "Excellent",
-  "result_date": "2025-08-25",
-  "e_coli": "42",
-  "intestinal_enterococci": "24",
+  "result_date": "2025-09-01",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<1",
   "county": "Kerry",
   "local_authority": "Kerry County Council",
-  "updated_at": "2026-02-24T20:30:26Z"
+  "updated_at": "2026-02-25T08:42:29Z"
 }

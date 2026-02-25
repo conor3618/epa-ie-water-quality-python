@@ -1,11 +1,11 @@
 {
   "beach_id": "BPNBF330000220001",
   "name": "Grange",
-  "status": "Good",
-  "result_date": "2025-08-25",
-  "e_coli": "320",
+  "status": "Excellent",
+  "result_date": "2025-09-01",
+  "e_coli": "9",
   "intestinal_enterococci": "10",
   "county": "Wexford",
   "local_authority": "Wexford County Council",
-  "updated_at": "2026-02-24T20:30:26Z"
+  "updated_at": "2026-02-25T08:42:29Z"
 }

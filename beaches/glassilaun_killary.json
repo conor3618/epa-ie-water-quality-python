@@ -2,10 +2,10 @@
   "beach_id": "BPNBF120000210001",
   "name": "Glassilaun, Killary",
   "status": "Excellent",
-  "result_date": "2025-08-05",
-  "e_coli": "20",
-  "intestinal_enterococci": "1",
+  "result_date": "2025-09-01",
+  "e_coli": "75",
+  "intestinal_enterococci": "18",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-02-24T20:30:26Z"
+  "updated_at": "2026-02-25T08:42:29Z"
 }

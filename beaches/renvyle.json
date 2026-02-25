@@ -2,10 +2,10 @@
   "beach_id": "BPNBF120000220001",
   "name": "Renvyle",
   "status": "Excellent",
-  "result_date": "2025-08-05",
-  "e_coli": "31",
-  "intestinal_enterococci": "1",
+  "result_date": "2025-09-01",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<2",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-02-24T20:30:26Z"
+  "updated_at": "2026-02-25T08:42:29Z"
 }

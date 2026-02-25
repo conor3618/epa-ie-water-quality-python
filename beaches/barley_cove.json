@@ -1,11 +1,11 @@
 {
   "beach_id": "IESWBWC150_0000_0200",
   "name": "Barley Cove",
-  "status": "Good",
-  "result_date": "2025-08-11",
-  "e_coli": "292",
-  "intestinal_enterococci": "111",
+  "status": "Excellent",
+  "result_date": "2025-09-01",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<1",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-02-24T20:30:26Z"
+  "updated_at": "2026-02-25T08:42:29Z"
 }
