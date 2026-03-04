@@ -1,11 +1,11 @@
 {
   "beach_id": "IEWEBWC250_0000_0100",
   "name": "Keem Beach, Achill Island",
-  "status": "Excellent",
-  "result_date": "2025-09-08",
-  "e_coli": "<10",
-  "intestinal_enterococci": "1",
+  "status": "Good",
+  "result_date": "2025-08-25",
+  "e_coli": "430",
+  "intestinal_enterococci": "84",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-03-04T14:37:09Z"
+  "updated_at": "2026-03-04T20:28:34Z"
 }

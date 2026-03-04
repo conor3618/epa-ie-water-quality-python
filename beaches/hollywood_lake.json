@@ -2,10 +2,10 @@
   "beach_id": "BPNBF240000020001",
   "name": "Hollywood Lake",
   "status": "Excellent",
-  "result_date": "2025-09-15",
-  "e_coli": "110",
-  "intestinal_enterococci": "85",
+  "result_date": "2025-08-26",
+  "e_coli": "<10",
+  "intestinal_enterococci": "9",
   "county": "Monaghan",
   "local_authority": "Monaghan County Council",
-  "updated_at": "2026-03-04T14:37:09Z"
+  "updated_at": "2026-03-04T20:28:34Z"
 }

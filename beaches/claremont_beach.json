@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC070_0000_0500",
   "name": "Claremont Beach",
   "status": "Excellent",
-  "result_date": "2025-09-09",
-  "e_coli": "31",
-  "intestinal_enterococci": "44",
+  "result_date": "2025-09-02",
+  "e_coli": "20",
+  "intestinal_enterococci": "12",
   "county": "Dublin",
   "local_authority": "Fingal County Council",
-  "updated_at": "2026-03-04T14:37:09Z"
+  "updated_at": "2026-03-04T20:28:34Z"
 }
