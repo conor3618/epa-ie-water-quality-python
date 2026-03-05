@@ -1,11 +1,11 @@
 {
   "beach_id": "IEWEBWT170_0700_0100",
   "name": "Grattan Road Beach",
-  "status": "Poor",
-  "result_date": "2025-09-08",
-  "e_coli": "1112",
-  "intestinal_enterococci": "580",
+  "status": "Good",
+  "result_date": "2025-09-15",
+  "e_coli": "305",
+  "intestinal_enterococci": "81",
   "county": "Galway",
   "local_authority": "Galway City Council",
-  "updated_at": "2026-03-05T08:36:06Z"
+  "updated_at": "2026-03-05T14:42:41Z"
 }

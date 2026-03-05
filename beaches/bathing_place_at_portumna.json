@@ -2,10 +2,10 @@
   "beach_id": "IESHBWL25_191a_0100",
   "name": "Bathing Place at Portumna",
   "status": "Excellent",
-  "result_date": "2025-08-18",
-  "e_coli": "74",
-  "intestinal_enterococci": "20",
+  "result_date": "2025-09-08",
+  "e_coli": "20",
+  "intestinal_enterococci": "7",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-03-05T08:36:06Z"
+  "updated_at": "2026-03-05T14:42:41Z"
 }

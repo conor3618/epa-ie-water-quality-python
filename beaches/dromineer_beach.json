@@ -1,11 +1,11 @@
 {
   "beach_id": "IESHBWL25_191a_0190",
   "name": "Dromineer Beach",
-  "status": "Good",
-  "result_date": "2025-08-18",
-  "e_coli": "178",
-  "intestinal_enterococci": "114",
+  "status": "Excellent",
+  "result_date": "2025-09-11",
+  "e_coli": "52",
+  "intestinal_enterococci": "29",
   "county": "Tipperary",
   "local_authority": "Tipperary County Council",
-  "updated_at": "2026-03-05T08:36:06Z"
+  "updated_at": "2026-03-05T14:42:41Z"
 }

@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC140_0000_0100",
   "name": "Clogga",
   "status": "Excellent",
-  "result_date": "2025-07-28",
-  "e_coli": "20",
-  "intestinal_enterococci": "<1",
+  "result_date": "2025-09-08",
+  "e_coli": "<10",
+  "intestinal_enterococci": "23",
   "county": "Wicklow",
   "local_authority": "Wicklow County Council",
-  "updated_at": "2026-03-05T08:36:06Z"
+  "updated_at": "2026-03-05T14:42:41Z"
 }

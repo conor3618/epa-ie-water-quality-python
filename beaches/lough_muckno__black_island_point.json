@@ -1,11 +1,11 @@
 {
   "beach_id": "BPNBF240000110001",
   "name": "Lough Muckno _Black Island Point",
-  "status": "Excellent",
-  "result_date": "2025-09-03",
-  "e_coli": "40",
-  "intestinal_enterococci": "14",
+  "status": "Poor",
+  "result_date": "2025-09-15",
+  "e_coli": "2010",
+  "intestinal_enterococci": "280",
   "county": "Monaghan",
   "local_authority": "Monaghan County Council",
-  "updated_at": "2026-03-05T08:36:06Z"
+  "updated_at": "2026-03-05T14:42:41Z"
 }
