@@ -2,10 +2,10 @@
   "beach_id": "BPNBF340000090001",
   "name": "South of Bray Harbour",
   "status": "Excellent",
-  "result_date": "2025-08-25",
-  "e_coli": "52",
-  "intestinal_enterococci": "20",
+  "result_date": "2025-08-11",
+  "e_coli": "63",
+  "intestinal_enterococci": "5",
   "county": "Wicklow",
   "local_authority": "Wicklow County Council",
-  "updated_at": "2026-03-04T20:28:34Z"
+  "updated_at": "2026-03-05T08:36:06Z"
 }

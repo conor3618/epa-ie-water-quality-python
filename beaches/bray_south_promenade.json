@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC100_0000_0300",
   "name": "Bray South Promenade",
   "status": "Excellent",
-  "result_date": "2025-08-25",
-  "e_coli": "<10",
-  "intestinal_enterococci": "6",
+  "result_date": "2025-07-28",
+  "e_coli": "30",
+  "intestinal_enterococci": "25",
   "county": "Wicklow",
   "local_authority": "Wicklow County Council",
-  "updated_at": "2026-03-04T20:28:34Z"
+  "updated_at": "2026-03-05T08:36:06Z"
 }

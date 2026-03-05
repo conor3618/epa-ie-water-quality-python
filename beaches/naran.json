@@ -2,10 +2,10 @@
   "beach_id": "IENWBWC120_0000_0100",
   "name": "Naran",
   "status": "Excellent",
-  "result_date": "2025-08-27",
-  "e_coli": "175",
-  "intestinal_enterococci": "47",
+  "result_date": "2025-08-13",
+  "e_coli": "10",
+  "intestinal_enterococci": "6",
   "county": "Donegal",
   "local_authority": "Donegal County Council",
-  "updated_at": "2026-03-04T20:28:34Z"
+  "updated_at": "2026-03-05T08:36:06Z"
 }
