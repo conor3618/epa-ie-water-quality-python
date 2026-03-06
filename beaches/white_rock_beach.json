@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC100_0000_0450",
   "name": "White Rock Beach",
   "status": "Excellent",
-  "result_date": "2026-02-16",
-  "e_coli": "75",
-  "intestinal_enterococci": "28",
+  "result_date": "2026-03-02",
+  "e_coli": "10",
+  "intestinal_enterococci": "5",
   "county": "Dublin",
   "local_authority": "Dun Laoghaire Rathdown County Council",
-  "updated_at": "2026-03-05T20:33:49Z"
+  "updated_at": "2026-03-06T08:33:28Z"
 }
