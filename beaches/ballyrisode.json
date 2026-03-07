@@ -2,10 +2,10 @@
   "beach_id": "BPNBF050000140001",
   "name": "Ballyrisode",
   "status": "Excellent",
-  "result_date": "2025-09-01",
-  "e_coli": "<10",
-  "intestinal_enterococci": "8",
+  "result_date": "2025-08-11",
+  "e_coli": "52",
+  "intestinal_enterococci": "71",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-03-07T08:26:08Z"
+  "updated_at": "2026-03-07T14:20:30Z"
 }
