@@ -1,11 +1,11 @@
 {
   "beach_id": "IESEBWC010_0000_0300",
   "name": "Morriscastle",
-  "status": "Poor",
-  "result_date": "2025-08-25",
-  "e_coli": "210",
-  "intestinal_enterococci": "429",
+  "status": "Excellent",
+  "result_date": "2025-09-01",
+  "e_coli": "12",
+  "intestinal_enterococci": "10",
   "county": "Wexford",
   "local_authority": "Wexford County Council",
-  "updated_at": "2026-03-07T14:20:30Z"
+  "updated_at": "2026-03-07T20:20:42Z"
 }
