@@ -2,10 +2,10 @@
   "beach_id": "BPNBF120000260001",
   "name": "Trá na Reilige, An Cheathrú Rua",
   "status": "Excellent",
-  "result_date": "2025-08-18",
-  "e_coli": "<10",
-  "intestinal_enterococci": "3",
+  "result_date": "2025-07-28",
+  "e_coli": "31",
+  "intestinal_enterococci": "43",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-03-08T14:21:49Z"
+  "updated_at": "2026-03-08T20:21:21Z"
 }
