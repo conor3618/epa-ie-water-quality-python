@@ -1,0 +1,200 @@
+[
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2025-09-22",
+    "e_coli": "<10",
+    "intestinal_enterococci": "3",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Poor",
+    "result_date": "2025-09-15",
+    "e_coli": "1090",
+    "intestinal_enterococci": "31",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2025-08-26",
+    "e_coli": "50",
+    "intestinal_enterococci": "17",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2025-07-07",
+    "e_coli": "<10",
+    "intestinal_enterococci": "8",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2025-06-16",
+    "e_coli": "20",
+    "intestinal_enterococci": "15",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2024-09-12",
+    "e_coli": "<10",
+    "intestinal_enterococci": "2",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2024-08-13",
+    "e_coli": "3",
+    "intestinal_enterococci": "4",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2024-07-17",
+    "e_coli": "50",
+    "intestinal_enterococci": "13",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Poor",
+    "result_date": "2024-07-09",
+    "e_coli": "110",
+    "intestinal_enterococci": "560",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2024-06-04",
+    "e_coli": "40",
+    "intestinal_enterococci": "37",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2023-09-07",
+    "e_coli": "20",
+    "intestinal_enterococci": "5",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2023-08-10",
+    "e_coli": "10",
+    "intestinal_enterococci": "2",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2023-07-03",
+    "e_coli": "110",
+    "intestinal_enterococci": "6",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2023-06-07",
+    "e_coli": "40",
+    "intestinal_enterococci": "3",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2022-09-15",
+    "e_coli": "30",
+    "intestinal_enterococci": "16",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2022-08-16",
+    "e_coli": "160",
+    "intestinal_enterococci": "46",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2022-07-19",
+    "e_coli": "40",
+    "intestinal_enterococci": "12",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  },
+  {
+    "beach_id": "BPNBF240000090001",
+    "name": "Gortnawinney Lake",
+    "status": "Excellent",
+    "result_date": "2022-06-23",
+    "e_coli": "12",
+    "intestinal_enterococci": "14",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-03-11T19:34:06Z"
+  }
+]
