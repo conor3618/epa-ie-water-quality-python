@@ -101,7 +101,8 @@ def main():
     results = []
     failed  = []
 
-    for name, beach_id in beaches.items():
+    for name, info in beaches.items():
+        beach_id = info["beach_id"] if isinstance(info, dict) else info
         records = all_measurements.get(beach_id)
         if records:
             # Sort records by result_date descending
