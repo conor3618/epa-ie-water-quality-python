@@ -14,9 +14,12 @@ API source: https://data.epa.ie/bw/api/v1/
 
 import httpx
 import json
+from pyproj import Transformer
 
 
 def get_epa_beach_list():
+    # Set up transformer for Irish Grid (EPSG:29902) to WGS84 (EPSG:4326)
+    transformer = Transformer.from_crs("EPSG:29902", "EPSG:4326", always_xy=True)
     """
     Fetch all bathing water locations from the EPA Ireland Locations endpoint.
 
@@ -66,14 +69,24 @@ def get_epa_beach_list():
     if duplicates:
         print(f"Found {len(duplicates)} duplicate name(s): {', '.join(sorted(duplicates))}")
 
-    # Build dictionary — append county for any duplicate names
+    # Build dictionary — append county for any duplicate names, convert coordinates
     beach_directory = {}
     for b in all_beaches:
         name = b['beach_name']
         if name in duplicates:
             county = b.get('county_name', 'Unknown')
             name = f"{name} ({county})"
-        beach_directory[name] = b['beach_id']
+        easting = b.get('easting')
+        northing = b.get('northing')
+        latitude = longitude = None
+        if easting is not None and northing is not None:
+            # Convert Irish Grid to WGS84
+            longitude, latitude = transformer.transform(easting, northing)
+        beach_directory[name] = {
+            "beach_id": b['beach_id'],
+            "latitude": latitude,
+            "longitude": longitude
+        }
 
     return beach_directory
 
@@ -85,4 +98,4 @@ if __name__ == "__main__":
 
     with open('beaches.json', 'w', encoding='utf-8') as f:
         json.dump(beach_directory, f, indent=2, ensure_ascii=False)
-    print("Beach data saved to beaches.json")
+    print("Beach data with coordinates saved to beaches.json")
