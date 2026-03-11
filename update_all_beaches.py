@@ -69,11 +69,10 @@ def fetch_all_measurements():
                 print(f"  Fetched {completed}/{last_page} pages...", end="\r")
                 for m in batch:
                     bid = m.get('beach_id')
-                    result_date = m.get('result_date', '')
                     if bid:
-                        existing = all_measurements.get(bid)
-                        if not existing or result_date > existing.get('result_date', ''):
-                            all_measurements[bid] = m
+                        if bid not in all_measurements:
+                            all_measurements[bid] = []
+                        all_measurements[bid].append(m)
 
         print(f"\n  Done. {len(all_measurements)} unique beaches so far.\n")
 
@@ -103,29 +102,33 @@ def main():
     failed  = []
 
     for name, beach_id in beaches.items():
-        m = all_measurements.get(beach_id)
-        if m:
-            record = {
-                "beach_id":               beach_id,
-                "name":                   name,
-                "status":                 m.get("sample_water_quality_status"),
-                "result_date":            m.get("result_date"),
-                "e_coli":                 m.get("e_coli_result"),
-                "intestinal_enterococci": m.get("intestinal_enterococci_result"),
-                "county":                 m.get("county_name"),
-                "local_authority":        m.get("local_authority_name"),
-                "updated_at":             datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-            }
+        records = all_measurements.get(beach_id)
+        if records:
+            # Sort records by result_date descending
+            records_sorted = sorted(records, key=lambda x: x.get('result_date', ''), reverse=True)
+            beach_history = []
+            for m in records_sorted:
+                record = {
+                    "beach_id":               beach_id,
+                    "name":                   name,
+                    "status":                 m.get("sample_water_quality_status"),
+                    "result_date":            m.get("result_date"),
+                    "e_coli":                 m.get("e_coli_result"),
+                    "intestinal_enterococci": m.get("intestinal_enterococci_result"),
+                    "county":                 m.get("county_name"),
+                    "local_authority":        m.get("local_authority_name"),
+                    "updated_at":             datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                }
+                beach_history.append(record)
 
-            results.append(record)
+            results.append(beach_history[0])  # Add latest to summary
 
             # --- Write individual beach JSON file ---
-            slug = slugify(name)
-            beach_file = os.path.join(BEACHES_DIR, f"{slug}.json")
+            beach_file = os.path.join(BEACHES_DIR, f"{beach_id}.json")
             with open(beach_file, "w", encoding="utf-8") as f:
-                json.dump(record, f, indent=2, ensure_ascii=False)
+                json.dump(beach_history, f, indent=2, ensure_ascii=False)
 
-            print(f"  ✓ {name}: {m.get('sample_water_quality_status')} ({m.get('result_date')})")
+            print(f"  ✓ {name}: {beach_history[0]['status']} ({beach_history[0]['result_date']}) [{len(beach_history)} records]")
         else:
             failed.append(name)
             print(f"  ✗ {name}: no data")
