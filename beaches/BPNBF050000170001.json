@@ -3,12 +3,23 @@
     "beach_id": "BPNBF050000170001",
     "name": "Red Strand",
     "status": "Excellent",
+    "result_date": "2025-09-01",
+    "e_coli": "31",
+    "intestinal_enterococci": "6",
+    "county": "Cork",
+    "local_authority": "Cork County Council",
+    "updated_at": "2026-03-14T08:30:03Z"
+  },
+  {
+    "beach_id": "BPNBF050000170001",
+    "name": "Red Strand",
+    "status": "Excellent",
     "result_date": "2025-08-18",
     "e_coli": "<10",
     "intestinal_enterococci": "9",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -19,7 +30,18 @@
     "intestinal_enterococci": "3",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
+  },
+  {
+    "beach_id": "BPNBF050000170001",
+    "name": "Red Strand",
+    "status": "Excellent",
+    "result_date": "2025-06-30",
+    "e_coli": "<10",
+    "intestinal_enterococci": "6",
+    "county": "Cork",
+    "local_authority": "Cork County Council",
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -30,7 +52,18 @@
     "intestinal_enterococci": "13",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
+  },
+  {
+    "beach_id": "BPNBF050000170001",
+    "name": "Red Strand",
+    "status": "Excellent",
+    "result_date": "2025-05-26",
+    "e_coli": "31",
+    "intestinal_enterococci": "23",
+    "county": "Cork",
+    "local_authority": "Cork County Council",
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -41,7 +74,29 @@
     "intestinal_enterococci": "11",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
+  },
+  {
+    "beach_id": "BPNBF050000170001",
+    "name": "Red Strand",
+    "status": "Excellent",
+    "result_date": "2024-07-22",
+    "e_coli": "52",
+    "intestinal_enterococci": "11",
+    "county": "Cork",
+    "local_authority": "Cork County Council",
+    "updated_at": "2026-03-14T08:30:03Z"
+  },
+  {
+    "beach_id": "BPNBF050000170001",
+    "name": "Red Strand",
+    "status": "Excellent",
+    "result_date": "2024-07-01",
+    "e_coli": "52",
+    "intestinal_enterococci": "17",
+    "county": "Cork",
+    "local_authority": "Cork County Council",
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -52,7 +107,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -63,7 +118,18 @@
     "intestinal_enterococci": "3",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
+  },
+  {
+    "beach_id": "BPNBF050000170001",
+    "name": "Red Strand",
+    "status": "Excellent",
+    "result_date": "2023-09-04",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Cork",
+    "local_authority": "Cork County Council",
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -74,7 +140,7 @@
     "intestinal_enterococci": "<10",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -85,7 +151,18 @@
     "intestinal_enterococci": "1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
+  },
+  {
+    "beach_id": "BPNBF050000170001",
+    "name": "Red Strand",
+    "status": "Excellent",
+    "result_date": "2023-07-03",
+    "e_coli": "<10",
+    "intestinal_enterococci": "1",
+    "county": "Cork",
+    "local_authority": "Cork County Council",
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -96,7 +173,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -107,7 +184,18 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
+  },
+  {
+    "beach_id": "BPNBF050000170001",
+    "name": "Red Strand",
+    "status": "Excellent",
+    "result_date": "2022-09-07",
+    "e_coli": "41",
+    "intestinal_enterococci": "23",
+    "county": "Cork",
+    "local_authority": "Cork County Council",
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -118,7 +206,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -129,7 +217,18 @@
     "intestinal_enterococci": "5",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
+  },
+  {
+    "beach_id": "BPNBF050000170001",
+    "name": "Red Strand",
+    "status": "Excellent",
+    "result_date": "2022-06-13",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Cork",
+    "local_authority": "Cork County Council",
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -140,7 +239,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -151,7 +250,7 @@
     "intestinal_enterococci": "9",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -162,7 +261,7 @@
     "intestinal_enterococci": "52",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -173,7 +272,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -184,7 +283,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -195,7 +294,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -206,7 +305,7 @@
     "intestinal_enterococci": "1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -217,7 +316,7 @@
     "intestinal_enterococci": "1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -228,7 +327,7 @@
     "intestinal_enterococci": "11",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -239,7 +338,7 @@
     "intestinal_enterococci": "5",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -250,7 +349,7 @@
     "intestinal_enterococci": "1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -261,7 +360,7 @@
     "intestinal_enterococci": "7",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -272,7 +371,7 @@
     "intestinal_enterococci": "9",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -283,7 +382,7 @@
     "intestinal_enterococci": "7",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -294,7 +393,7 @@
     "intestinal_enterococci": "2",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -305,7 +404,7 @@
     "intestinal_enterococci": "1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -316,7 +415,7 @@
     "intestinal_enterococci": "4",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -327,7 +426,7 @@
     "intestinal_enterococci": "12",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -338,7 +437,7 @@
     "intestinal_enterococci": "1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -349,7 +448,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -360,7 +459,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -371,7 +470,7 @@
     "intestinal_enterococci": "7",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -382,7 +481,7 @@
     "intestinal_enterococci": "2",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -393,7 +492,7 @@
     "intestinal_enterococci": "12",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -404,7 +503,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -415,7 +514,7 @@
     "intestinal_enterococci": "5",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -426,7 +525,7 @@
     "intestinal_enterococci": "3",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -437,7 +536,7 @@
     "intestinal_enterococci": "6",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -448,7 +547,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -459,7 +558,7 @@
     "intestinal_enterococci": "1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -470,7 +569,7 @@
     "intestinal_enterococci": "8",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -481,7 +580,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -492,7 +591,7 @@
     "intestinal_enterococci": "<1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -503,7 +602,7 @@
     "intestinal_enterococci": "4",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -514,7 +613,7 @@
     "intestinal_enterococci": "4",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -525,7 +624,7 @@
     "intestinal_enterococci": "1",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   },
   {
     "beach_id": "BPNBF050000170001",
@@ -536,6 +635,6 @@
     "intestinal_enterococci": "5",
     "county": "Cork",
     "local_authority": "Cork County Council",
-    "updated_at": "2026-03-13T20:29:31Z"
+    "updated_at": "2026-03-14T08:30:03Z"
   }
 ]
