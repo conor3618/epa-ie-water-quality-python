@@ -3,12 +3,23 @@
     "beach_id": "BPNBF220000340001",
     "name": "Cross Beach Louisburgh",
     "status": "Excellent",
+    "result_date": "2025-09-08",
+    "e_coli": "<10",
+    "intestinal_enterococci": "15",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-19T14:43:40Z"
+  },
+  {
+    "beach_id": "BPNBF220000340001",
+    "name": "Cross Beach Louisburgh",
+    "status": "Excellent",
     "result_date": "2025-08-11",
     "e_coli": "20",
     "intestinal_enterococci": "3",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -19,7 +30,18 @@
     "intestinal_enterococci": "35",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
+  },
+  {
+    "beach_id": "BPNBF220000340001",
+    "name": "Cross Beach Louisburgh",
+    "status": "Excellent",
+    "result_date": "2025-06-23",
+    "e_coli": "10",
+    "intestinal_enterococci": "<1",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -30,7 +52,18 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
+  },
+  {
+    "beach_id": "BPNBF220000340001",
+    "name": "Cross Beach Louisburgh",
+    "status": "Excellent",
+    "result_date": "2025-05-26",
+    "e_coli": "10",
+    "intestinal_enterococci": "1",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -41,7 +74,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -52,7 +85,7 @@
     "intestinal_enterococci": "2",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -63,7 +96,18 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
+  },
+  {
+    "beach_id": "BPNBF220000340001",
+    "name": "Cross Beach Louisburgh",
+    "status": "Excellent",
+    "result_date": "2024-06-24",
+    "e_coli": "<10",
+    "intestinal_enterococci": "1",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -74,7 +118,7 @@
     "intestinal_enterococci": "2",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -85,7 +129,18 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
+  },
+  {
+    "beach_id": "BPNBF220000340001",
+    "name": "Cross Beach Louisburgh",
+    "status": "Excellent",
+    "result_date": "2023-09-11",
+    "e_coli": "<10",
+    "intestinal_enterococci": "7",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -96,7 +151,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -107,7 +162,29 @@
     "intestinal_enterococci": "3",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
+  },
+  {
+    "beach_id": "BPNBF220000340001",
+    "name": "Cross Beach Louisburgh",
+    "status": "Excellent",
+    "result_date": "2023-07-12",
+    "e_coli": "<10",
+    "intestinal_enterococci": "6",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-19T14:43:40Z"
+  },
+  {
+    "beach_id": "BPNBF220000340001",
+    "name": "Cross Beach Louisburgh",
+    "status": "Excellent",
+    "result_date": "2023-07-03",
+    "e_coli": "10",
+    "intestinal_enterococci": "3",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -118,7 +195,7 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -129,7 +206,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -140,7 +217,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -151,7 +228,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -162,7 +239,7 @@
     "intestinal_enterococci": "6",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -173,7 +250,7 @@
     "intestinal_enterococci": "7",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -184,7 +261,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -195,7 +272,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -206,7 +283,18 @@
     "intestinal_enterococci": "2",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
+  },
+  {
+    "beach_id": "BPNBF220000340001",
+    "name": "Cross Beach Louisburgh",
+    "status": "Sufficient",
+    "result_date": "2021-08-09",
+    "e_coli": "780",
+    "intestinal_enterococci": "62",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -217,7 +305,7 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -228,7 +316,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -239,7 +327,7 @@
     "intestinal_enterococci": "12",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -250,7 +338,7 @@
     "intestinal_enterococci": "58",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -261,7 +349,18 @@
     "intestinal_enterococci": "34",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
+  },
+  {
+    "beach_id": "BPNBF220000340001",
+    "name": "Cross Beach Louisburgh",
+    "status": "Excellent",
+    "result_date": "2020-08-10",
+    "e_coli": "20",
+    "intestinal_enterococci": "<1",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -272,7 +371,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -283,7 +382,7 @@
     "intestinal_enterococci": "8",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -294,7 +393,7 @@
     "intestinal_enterococci": "3",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   },
   {
     "beach_id": "BPNBF220000340001",
@@ -305,6 +404,6 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-19T08:37:29Z"
+    "updated_at": "2026-03-19T14:43:40Z"
   }
 ]
