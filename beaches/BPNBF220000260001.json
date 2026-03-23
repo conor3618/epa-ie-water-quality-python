@@ -3,12 +3,23 @@
     "beach_id": "BPNBF220000260001",
     "name": "Tránaun Beach, Inishturk",
     "status": "Excellent",
+    "result_date": "2025-09-08",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-23T08:51:03Z"
+  },
+  {
+    "beach_id": "BPNBF220000260001",
+    "name": "Tránaun Beach, Inishturk",
+    "status": "Excellent",
     "result_date": "2025-08-12",
     "e_coli": "<10",
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -19,7 +30,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -30,7 +41,18 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
+  },
+  {
+    "beach_id": "BPNBF220000260001",
+    "name": "Tránaun Beach, Inishturk",
+    "status": "Excellent",
+    "result_date": "2025-05-28",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -41,7 +63,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -52,7 +74,40 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
+  },
+  {
+    "beach_id": "BPNBF220000260001",
+    "name": "Tránaun Beach, Inishturk",
+    "status": "Excellent",
+    "result_date": "2024-07-15",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-23T08:51:03Z"
+  },
+  {
+    "beach_id": "BPNBF220000260001",
+    "name": "Tránaun Beach, Inishturk",
+    "status": "Excellent",
+    "result_date": "2024-06-17",
+    "e_coli": "10",
+    "intestinal_enterococci": "<1",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-23T08:51:03Z"
+  },
+  {
+    "beach_id": "BPNBF220000260001",
+    "name": "Tránaun Beach, Inishturk",
+    "status": "Excellent",
+    "result_date": "2024-05-22",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -63,7 +118,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -74,7 +129,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -85,7 +140,7 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -96,7 +151,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -107,7 +162,7 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -118,7 +173,7 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -129,7 +184,7 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -140,7 +195,7 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -151,7 +206,7 @@
     "intestinal_enterococci": "2",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -162,7 +217,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -173,7 +228,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -184,7 +239,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -195,7 +250,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -206,7 +261,7 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -217,7 +272,7 @@
     "intestinal_enterococci": "10",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -228,7 +283,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -239,7 +294,7 @@
     "intestinal_enterococci": "2",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -250,7 +305,7 @@
     "intestinal_enterococci": "8",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -261,7 +316,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -272,7 +327,7 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -283,7 +338,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -294,7 +349,7 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -305,7 +360,7 @@
     "intestinal_enterococci": "<1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -316,7 +371,7 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   },
   {
     "beach_id": "BPNBF220000260001",
@@ -327,6 +382,6 @@
     "intestinal_enterococci": "2",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-03-22T20:22:23Z"
+    "updated_at": "2026-03-23T08:51:03Z"
   }
 ]
