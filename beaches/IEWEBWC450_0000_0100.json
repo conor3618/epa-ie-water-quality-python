@@ -3,12 +3,23 @@
     "beach_id": "IEWEBWC450_0000_0100",
     "name": "Rosses Point Beach",
     "status": "Excellent",
+    "result_date": "2025-09-01",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
     "result_date": "2025-08-25",
     "e_coli": "<10",
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -19,7 +30,29 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
+    "result_date": "2025-08-05",
+    "e_coli": "127",
+    "intestinal_enterococci": "2",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
+    "result_date": "2025-07-21",
+    "e_coli": "<10",
+    "intestinal_enterococci": "1",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -30,7 +63,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -41,7 +74,18 @@
     "intestinal_enterococci": "5",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
+    "result_date": "2025-06-09",
+    "e_coli": "<10",
+    "intestinal_enterococci": "1",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -52,7 +96,7 @@
     "intestinal_enterococci": "3",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -63,7 +107,62 @@
     "intestinal_enterococci": "17",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
+    "result_date": "2024-08-26",
+    "e_coli": "<10",
+    "intestinal_enterococci": "2",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
+    "result_date": "2024-08-19",
+    "e_coli": "<10",
+    "intestinal_enterococci": "1",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
+    "result_date": "2024-08-06",
+    "e_coli": "10",
+    "intestinal_enterococci": "1",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
+    "result_date": "2024-07-22",
+    "e_coli": "<10",
+    "intestinal_enterococci": "7",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
+    "result_date": "2024-07-08",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -74,7 +173,7 @@
     "intestinal_enterococci": "1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -85,7 +184,18 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
+    "result_date": "2024-05-27",
+    "e_coli": "40",
+    "intestinal_enterococci": "<1",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -96,7 +206,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -107,7 +217,7 @@
     "intestinal_enterococci": "6",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -118,7 +228,40 @@
     "intestinal_enterococci": "7",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
+    "result_date": "2023-08-08",
+    "e_coli": "<10",
+    "intestinal_enterococci": "4",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
+    "result_date": "2023-07-31",
+    "e_coli": "<10",
+    "intestinal_enterococci": "8",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
+  },
+  {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "name": "Rosses Point Beach",
+    "status": "Excellent",
+    "result_date": "2023-07-17",
+    "e_coli": "<10",
+    "intestinal_enterococci": "6",
+    "county": "Sligo",
+    "local_authority": "Sligo County Council",
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -129,7 +272,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -140,7 +283,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -151,7 +294,7 @@
     "intestinal_enterococci": "1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -162,7 +305,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -173,7 +316,7 @@
     "intestinal_enterococci": "6",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -184,7 +327,7 @@
     "intestinal_enterococci": "12",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -195,7 +338,7 @@
     "intestinal_enterococci": "33",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -206,7 +349,7 @@
     "intestinal_enterococci": "5",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -217,7 +360,7 @@
     "intestinal_enterococci": "2",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -228,7 +371,7 @@
     "intestinal_enterococci": "2",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -239,7 +382,7 @@
     "intestinal_enterococci": "5",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -250,7 +393,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -261,7 +404,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -272,7 +415,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -283,7 +426,7 @@
     "intestinal_enterococci": "3",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -294,7 +437,7 @@
     "intestinal_enterococci": "2",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -305,7 +448,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -316,7 +459,7 @@
     "intestinal_enterococci": "130",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -327,7 +470,7 @@
     "intestinal_enterococci": "46",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -338,7 +481,7 @@
     "intestinal_enterococci": "10",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -349,7 +492,7 @@
     "intestinal_enterococci": "8",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -360,7 +503,7 @@
     "intestinal_enterococci": "3",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -371,7 +514,7 @@
     "intestinal_enterococci": "7",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -382,7 +525,7 @@
     "intestinal_enterococci": "1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -393,7 +536,7 @@
     "intestinal_enterococci": "4",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -404,7 +547,7 @@
     "intestinal_enterococci": "1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -415,7 +558,7 @@
     "intestinal_enterococci": "14",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -426,7 +569,7 @@
     "intestinal_enterococci": "15",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -437,7 +580,7 @@
     "intestinal_enterococci": "24",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -448,7 +591,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -459,7 +602,7 @@
     "intestinal_enterococci": "3",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -470,7 +613,7 @@
     "intestinal_enterococci": "7",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -481,7 +624,7 @@
     "intestinal_enterococci": "1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -492,7 +635,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -503,7 +646,7 @@
     "intestinal_enterococci": "180",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -514,7 +657,7 @@
     "intestinal_enterococci": "47",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -525,7 +668,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -536,7 +679,7 @@
     "intestinal_enterococci": "3",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -547,7 +690,7 @@
     "intestinal_enterococci": "280",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -558,7 +701,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -569,7 +712,7 @@
     "intestinal_enterococci": "9",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -580,7 +723,7 @@
     "intestinal_enterococci": "1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -591,7 +734,7 @@
     "intestinal_enterococci": "2",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -602,7 +745,7 @@
     "intestinal_enterococci": "13",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -613,7 +756,7 @@
     "intestinal_enterococci": "1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -624,7 +767,7 @@
     "intestinal_enterococci": "54",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -635,7 +778,7 @@
     "intestinal_enterococci": "12",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -646,7 +789,7 @@
     "intestinal_enterococci": "23",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -657,7 +800,7 @@
     "intestinal_enterococci": "1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -668,7 +811,7 @@
     "intestinal_enterococci": "4",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -679,7 +822,7 @@
     "intestinal_enterococci": "2",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -690,7 +833,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -701,7 +844,7 @@
     "intestinal_enterococci": "3",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -712,7 +855,7 @@
     "intestinal_enterococci": "2",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -723,7 +866,7 @@
     "intestinal_enterococci": "12",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -734,7 +877,7 @@
     "intestinal_enterococci": "19",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -745,7 +888,7 @@
     "intestinal_enterococci": "6",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -756,7 +899,7 @@
     "intestinal_enterococci": "3",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -767,7 +910,7 @@
     "intestinal_enterococci": "6",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -778,7 +921,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -789,7 +932,7 @@
     "intestinal_enterococci": "6",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -800,7 +943,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -811,7 +954,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -822,7 +965,7 @@
     "intestinal_enterococci": "1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -833,7 +976,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -844,7 +987,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -855,7 +998,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -866,7 +1009,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -877,7 +1020,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -888,7 +1031,7 @@
     "intestinal_enterococci": "1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -899,7 +1042,7 @@
     "intestinal_enterococci": "350",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -910,7 +1053,7 @@
     "intestinal_enterococci": "17",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -921,7 +1064,7 @@
     "intestinal_enterococci": "1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -932,7 +1075,7 @@
     "intestinal_enterococci": "1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -943,7 +1086,7 @@
     "intestinal_enterococci": "9",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -954,7 +1097,7 @@
     "intestinal_enterococci": "11",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -965,7 +1108,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -976,7 +1119,7 @@
     "intestinal_enterococci": "15",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -987,7 +1130,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -998,7 +1141,7 @@
     "intestinal_enterococci": "12",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1009,7 +1152,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1020,7 +1163,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1031,7 +1174,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1042,7 +1185,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1053,7 +1196,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1064,7 +1207,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1075,7 +1218,7 @@
     "intestinal_enterococci": "9",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1086,7 +1229,7 @@
     "intestinal_enterococci": "10",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1097,7 +1240,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1108,7 +1251,7 @@
     "intestinal_enterococci": "6",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1119,7 +1262,7 @@
     "intestinal_enterococci": "25",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1130,7 +1273,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1141,7 +1284,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1152,7 +1295,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1163,7 +1306,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1174,7 +1317,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1185,7 +1328,7 @@
     "intestinal_enterococci": "<1",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   },
   {
     "beach_id": "IEWEBWC450_0000_0100",
@@ -1196,6 +1339,6 @@
     "intestinal_enterococci": "10",
     "county": "Sligo",
     "local_authority": "Sligo County Council",
-    "updated_at": "2026-03-29T20:27:02Z"
+    "updated_at": "2026-03-30T09:07:34Z"
   }
 ]
