@@ -8,18 +8,7 @@
     "intestinal_enterococci": "20",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
-  },
-  {
-    "beach_id": "BPNBF010000020001",
-    "name": "River Barrow Bagenalstown",
-    "status": "Excellent",
-    "result_date": "2025-08-22",
-    "e_coli": "145",
-    "intestinal_enterococci": "33",
-    "county": "Carlow",
-    "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -30,18 +19,7 @@
     "intestinal_enterococci": "0",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
-  },
-  {
-    "beach_id": "BPNBF010000020001",
-    "name": "River Barrow Bagenalstown",
-    "status": "Good",
-    "result_date": "2025-07-25",
-    "e_coli": "261",
-    "intestinal_enterococci": "52",
-    "county": "Carlow",
-    "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -52,7 +30,7 @@
     "intestinal_enterococci": "44",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -63,7 +41,7 @@
     "intestinal_enterococci": "40",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -74,7 +52,7 @@
     "intestinal_enterococci": "19",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -85,18 +63,7 @@
     "intestinal_enterococci": "24",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
-  },
-  {
-    "beach_id": "BPNBF010000020001",
-    "name": "River Barrow Bagenalstown",
-    "status": "Good",
-    "result_date": "2025-06-27",
-    "e_coli": "387",
-    "intestinal_enterococci": "57",
-    "county": "Carlow",
-    "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -107,18 +74,7 @@
     "intestinal_enterococci": ">200",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
-  },
-  {
-    "beach_id": "BPNBF010000020001",
-    "name": "River Barrow Bagenalstown",
-    "status": "Sufficient",
-    "result_date": "2025-05-29",
-    "e_coli": "649",
-    "intestinal_enterococci": "53",
-    "county": "Carlow",
-    "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -129,7 +85,7 @@
     "intestinal_enterococci": "4",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -140,7 +96,7 @@
     "intestinal_enterococci": "21",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -151,29 +107,7 @@
     "intestinal_enterococci": "14",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
-  },
-  {
-    "beach_id": "BPNBF010000020001",
-    "name": "River Barrow Bagenalstown",
-    "status": "Good",
-    "result_date": "2024-08-29",
-    "e_coli": "261",
-    "intestinal_enterococci": "20",
-    "county": "Carlow",
-    "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
-  },
-  {
-    "beach_id": "BPNBF010000020001",
-    "name": "River Barrow Bagenalstown",
-    "status": "Excellent",
-    "result_date": "2024-08-21",
-    "e_coli": "91",
-    "intestinal_enterococci": "19",
-    "county": "Carlow",
-    "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -184,7 +118,7 @@
     "intestinal_enterococci": "13",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -195,7 +129,7 @@
     "intestinal_enterococci": "65",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -206,18 +140,7 @@
     "intestinal_enterococci": "12",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
-  },
-  {
-    "beach_id": "BPNBF010000020001",
-    "name": "River Barrow Bagenalstown",
-    "status": "Excellent",
-    "result_date": "2024-06-19",
-    "e_coli": ">100",
-    "intestinal_enterococci": "8",
-    "county": "Carlow",
-    "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -228,18 +151,7 @@
     "intestinal_enterococci": "19",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
-  },
-  {
-    "beach_id": "BPNBF010000020001",
-    "name": "River Barrow Bagenalstown",
-    "status": "Sufficient",
-    "result_date": "2024-05-24",
-    "e_coli": "517",
-    "intestinal_enterococci": "60",
-    "county": "Carlow",
-    "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -250,7 +162,7 @@
     "intestinal_enterococci": "62",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -261,7 +173,7 @@
     "intestinal_enterococci": "80",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -272,7 +184,7 @@
     "intestinal_enterococci": "40",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -283,18 +195,7 @@
     "intestinal_enterococci": "70",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
-  },
-  {
-    "beach_id": "BPNBF010000020001",
-    "name": "River Barrow Bagenalstown",
-    "status": "Excellent",
-    "result_date": "2023-07-19",
-    "e_coli": "200",
-    "intestinal_enterococci": ">100",
-    "county": "Carlow",
-    "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -305,7 +206,7 @@
     "intestinal_enterococci": "38",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -316,18 +217,7 @@
     "intestinal_enterococci": "150",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
-  },
-  {
-    "beach_id": "BPNBF010000020001",
-    "name": "River Barrow Bagenalstown",
-    "status": "Excellent",
-    "result_date": "2023-06-09",
-    "e_coli": "214",
-    "intestinal_enterococci": "17",
-    "county": "Carlow",
-    "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -338,7 +228,7 @@
     "intestinal_enterococci": "<10",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -349,7 +239,7 @@
     "intestinal_enterococci": ">200",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -360,7 +250,7 @@
     "intestinal_enterococci": "0",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -371,7 +261,7 @@
     "intestinal_enterococci": "770",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -382,7 +272,7 @@
     "intestinal_enterococci": "40",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -393,7 +283,7 @@
     "intestinal_enterococci": "15",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -404,7 +294,7 @@
     "intestinal_enterococci": "<10",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -415,7 +305,7 @@
     "intestinal_enterococci": "25",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -426,7 +316,7 @@
     "intestinal_enterococci": "40",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -437,7 +327,7 @@
     "intestinal_enterococci": "10",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -448,7 +338,7 @@
     "intestinal_enterococci": ">200",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -459,7 +349,7 @@
     "intestinal_enterococci": "9",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -470,7 +360,7 @@
     "intestinal_enterococci": "11",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -481,7 +371,7 @@
     "intestinal_enterococci": "60",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -492,7 +382,7 @@
     "intestinal_enterococci": "370",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -503,7 +393,7 @@
     "intestinal_enterococci": "100",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -514,7 +404,7 @@
     "intestinal_enterococci": "40",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -525,7 +415,7 @@
     "intestinal_enterococci": "630",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -536,7 +426,7 @@
     "intestinal_enterococci": "8",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -547,7 +437,7 @@
     "intestinal_enterococci": "2",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -558,7 +448,7 @@
     "intestinal_enterococci": "52",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -569,7 +459,7 @@
     "intestinal_enterococci": "29",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   },
   {
     "beach_id": "BPNBF010000020001",
@@ -580,6 +470,6 @@
     "intestinal_enterococci": "100",
     "county": "Carlow",
     "local_authority": "Carlow County Council",
-    "updated_at": "2026-04-02T14:51:45Z"
+    "updated_at": "2026-04-02T20:31:12Z"
   }
 ]
