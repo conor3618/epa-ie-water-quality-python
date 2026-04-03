@@ -8,7 +8,62 @@
     "intestinal_enterococci": "3",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-04-02T20:31:12Z"
+    "updated_at": "2026-04-03T08:46:54Z"
+  },
+  {
+    "beach_id": "BPNBF240000040001",
+    "name": "Halton's River (Dromore Lake System)",
+    "status": "Excellent",
+    "result_date": "2025-08-26",
+    "e_coli": "<10",
+    "intestinal_enterococci": "10",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-04-03T08:46:54Z"
+  },
+  {
+    "beach_id": "BPNBF240000040001",
+    "name": "Halton's River (Dromore Lake System)",
+    "status": "Excellent",
+    "result_date": "2025-07-07",
+    "e_coli": "<10",
+    "intestinal_enterococci": "13",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-04-03T08:46:54Z"
+  },
+  {
+    "beach_id": "BPNBF240000040001",
+    "name": "Halton's River (Dromore Lake System)",
+    "status": "Excellent",
+    "result_date": "2025-06-16",
+    "e_coli": "60",
+    "intestinal_enterococci": "20",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-04-03T08:46:54Z"
+  },
+  {
+    "beach_id": "BPNBF240000040001",
+    "name": "Halton's River (Dromore Lake System)",
+    "status": "Excellent",
+    "result_date": "2024-09-12",
+    "e_coli": "<10",
+    "intestinal_enterococci": "16",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-04-03T08:46:54Z"
+  },
+  {
+    "beach_id": "BPNBF240000040001",
+    "name": "Halton's River (Dromore Lake System)",
+    "status": "Excellent",
+    "result_date": "2024-08-13",
+    "e_coli": "20",
+    "intestinal_enterococci": "3",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-04-03T08:46:54Z"
   },
   {
     "beach_id": "BPNBF240000040001",
@@ -19,7 +74,7 @@
     "intestinal_enterococci": "40",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-04-02T20:31:12Z"
+    "updated_at": "2026-04-03T08:46:54Z"
   },
   {
     "beach_id": "BPNBF240000040001",
@@ -30,7 +85,7 @@
     "intestinal_enterococci": "330",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-04-02T20:31:12Z"
+    "updated_at": "2026-04-03T08:46:54Z"
   },
   {
     "beach_id": "BPNBF240000040001",
@@ -41,7 +96,7 @@
     "intestinal_enterococci": "1",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-04-02T20:31:12Z"
+    "updated_at": "2026-04-03T08:46:54Z"
   },
   {
     "beach_id": "BPNBF240000040001",
@@ -52,7 +107,7 @@
     "intestinal_enterococci": "4",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-04-02T20:31:12Z"
+    "updated_at": "2026-04-03T08:46:54Z"
   },
   {
     "beach_id": "BPNBF240000040001",
@@ -63,7 +118,18 @@
     "intestinal_enterococci": "9",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-04-02T20:31:12Z"
+    "updated_at": "2026-04-03T08:46:54Z"
+  },
+  {
+    "beach_id": "BPNBF240000040001",
+    "name": "Halton's River (Dromore Lake System)",
+    "status": "Excellent",
+    "result_date": "2023-06-07",
+    "e_coli": "<10",
+    "intestinal_enterococci": "1",
+    "county": "Monaghan",
+    "local_authority": "Monaghan County Council",
+    "updated_at": "2026-04-03T08:46:54Z"
   },
   {
     "beach_id": "BPNBF240000040001",
@@ -74,7 +140,7 @@
     "intestinal_enterococci": "126",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-04-02T20:31:12Z"
+    "updated_at": "2026-04-03T08:46:54Z"
   },
   {
     "beach_id": "BPNBF240000040001",
@@ -85,7 +151,7 @@
     "intestinal_enterococci": "1",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-04-02T20:31:12Z"
+    "updated_at": "2026-04-03T08:46:54Z"
   },
   {
     "beach_id": "BPNBF240000040001",
@@ -96,7 +162,7 @@
     "intestinal_enterococci": "17",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-04-02T20:31:12Z"
+    "updated_at": "2026-04-03T08:46:54Z"
   },
   {
     "beach_id": "BPNBF240000040001",
@@ -107,6 +173,6 @@
     "intestinal_enterococci": "1",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-04-02T20:31:12Z"
+    "updated_at": "2026-04-03T08:46:54Z"
   }
 ]
