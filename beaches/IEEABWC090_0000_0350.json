@@ -8,7 +8,7 @@
     "intestinal_enterococci": "24",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -19,7 +19,7 @@
     "intestinal_enterococci": "147",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -30,7 +30,7 @@
     "intestinal_enterococci": "200",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -41,7 +41,7 @@
     "intestinal_enterococci": "130",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -52,7 +52,7 @@
     "intestinal_enterococci": "57",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -63,7 +63,7 @@
     "intestinal_enterococci": "135",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -74,7 +74,7 @@
     "intestinal_enterococci": "38",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -85,7 +85,7 @@
     "intestinal_enterococci": "39",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -96,7 +96,7 @@
     "intestinal_enterococci": "450",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -107,7 +107,7 @@
     "intestinal_enterococci": "40",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -118,7 +118,7 @@
     "intestinal_enterococci": "60",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -129,7 +129,7 @@
     "intestinal_enterococci": "116",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -140,7 +140,7 @@
     "intestinal_enterococci": "890",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -151,7 +151,29 @@
     "intestinal_enterococci": "75",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Sufficient",
+    "result_date": "2025-09-09",
+    "e_coli": "689",
+    "intestinal_enterococci": "30",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2025-09-08",
+    "e_coli": "226",
+    "intestinal_enterococci": "27",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -162,7 +184,7 @@
     "intestinal_enterococci": "2",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -173,7 +195,51 @@
     "intestinal_enterococci": "13",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2025-08-19",
+    "e_coli": "172",
+    "intestinal_enterococci": "10",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2025-08-18",
+    "e_coli": "52",
+    "intestinal_enterococci": "12",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2025-08-11",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2025-08-05",
+    "e_coli": "109",
+    "intestinal_enterococci": "23",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -184,7 +250,7 @@
     "intestinal_enterococci": "7",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -195,7 +261,18 @@
     "intestinal_enterococci": "38",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2025-07-21",
+    "e_coli": "30",
+    "intestinal_enterococci": "16",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -206,7 +283,7 @@
     "intestinal_enterococci": "1",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -217,7 +294,29 @@
     "intestinal_enterococci": "31",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2025-07-07",
+    "e_coli": "10",
+    "intestinal_enterococci": "19",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2025-06-24",
+    "e_coli": "110",
+    "intestinal_enterococci": "7",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -228,7 +327,7 @@
     "intestinal_enterococci": "<1",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -239,7 +338,7 @@
     "intestinal_enterococci": "9",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -250,7 +349,18 @@
     "intestinal_enterococci": "3",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2025-06-09",
+    "e_coli": "<10",
+    "intestinal_enterococci": "38",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -261,7 +371,7 @@
     "intestinal_enterococci": "3",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -272,7 +382,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -283,7 +393,7 @@
     "intestinal_enterococci": "15",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -294,7 +404,7 @@
     "intestinal_enterococci": "3",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -305,7 +415,7 @@
     "intestinal_enterococci": "8",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -316,7 +426,7 @@
     "intestinal_enterococci": "10",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -327,7 +437,7 @@
     "intestinal_enterococci": "32",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -338,7 +448,7 @@
     "intestinal_enterococci": "230",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -349,7 +459,7 @@
     "intestinal_enterococci": "200",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -360,7 +470,7 @@
     "intestinal_enterococci": "48",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -371,7 +481,7 @@
     "intestinal_enterococci": "44",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -382,7 +492,7 @@
     "intestinal_enterococci": "18",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -393,7 +503,7 @@
     "intestinal_enterococci": "70",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -404,7 +514,7 @@
     "intestinal_enterococci": "36",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -415,7 +525,7 @@
     "intestinal_enterococci": "20",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -426,7 +536,7 @@
     "intestinal_enterococci": "42",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -437,7 +547,7 @@
     "intestinal_enterococci": "69",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -448,7 +558,51 @@
     "intestinal_enterococci": "22",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2024-09-09",
+    "e_coli": "<10",
+    "intestinal_enterococci": "4",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2024-09-03",
+    "e_coli": "<10",
+    "intestinal_enterococci": "7",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2024-09-01",
+    "e_coli": "31",
+    "intestinal_enterococci": "6",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2024-08-28",
+    "e_coli": "<10",
+    "intestinal_enterococci": "3",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -459,7 +613,7 @@
     "intestinal_enterococci": "32",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -470,7 +624,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -481,7 +635,7 @@
     "intestinal_enterococci": "3",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -492,7 +646,7 @@
     "intestinal_enterococci": "15",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -503,7 +657,29 @@
     "intestinal_enterococci": "16",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2024-07-22",
+    "e_coli": "20",
+    "intestinal_enterococci": "1",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2024-07-21",
+    "e_coli": "52",
+    "intestinal_enterococci": "4",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -514,7 +690,7 @@
     "intestinal_enterococci": "4",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -525,7 +701,18 @@
     "intestinal_enterococci": "<1",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2024-07-02",
+    "e_coli": "10",
+    "intestinal_enterococci": "18",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -536,7 +723,7 @@
     "intestinal_enterococci": "1",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -547,7 +734,29 @@
     "intestinal_enterococci": "3",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2024-06-12",
+    "e_coli": "10",
+    "intestinal_enterococci": "8",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
+  },
+  {
+    "beach_id": "IEEABWC090_0000_0350",
+    "name": "Half Moon",
+    "status": "Excellent",
+    "result_date": "2024-06-10",
+    "e_coli": "31",
+    "intestinal_enterococci": "14",
+    "county": "Dublin",
+    "local_authority": "Dublin City Council",
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -558,7 +767,7 @@
     "intestinal_enterococci": "6",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -569,7 +778,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -580,7 +789,7 @@
     "intestinal_enterococci": "43",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -591,7 +800,7 @@
     "intestinal_enterococci": "4",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -602,7 +811,7 @@
     "intestinal_enterococci": "22",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -613,7 +822,7 @@
     "intestinal_enterococci": "210",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -624,7 +833,7 @@
     "intestinal_enterococci": "310",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   },
   {
     "beach_id": "IEEABWC090_0000_0350",
@@ -635,6 +844,6 @@
     "intestinal_enterococci": "101",
     "county": "Dublin",
     "local_authority": "Dublin City Council",
-    "updated_at": "2026-04-05T08:37:45Z"
+    "updated_at": "2026-04-05T14:32:31Z"
   }
 ]
