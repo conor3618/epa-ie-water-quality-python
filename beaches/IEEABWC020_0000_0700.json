@@ -8,7 +8,7 @@
     "intestinal_enterococci": "15",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -19,29 +19,7 @@
     "intestinal_enterococci": "84",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
-  },
-  {
-    "beach_id": "IEEABWC020_0000_0700",
-    "name": "Laytown/Bettystown",
-    "status": "Excellent",
-    "result_date": "2025-09-01",
-    "e_coli": "10",
-    "intestinal_enterococci": "2",
-    "county": "Meath",
-    "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
-  },
-  {
-    "beach_id": "IEEABWC020_0000_0700",
-    "name": "Laytown/Bettystown",
-    "status": "Excellent",
-    "result_date": "2025-08-25",
-    "e_coli": "96",
-    "intestinal_enterococci": "9",
-    "county": "Meath",
-    "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -52,7 +30,7 @@
     "intestinal_enterococci": "3",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -63,7 +41,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -74,29 +52,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
-  },
-  {
-    "beach_id": "IEEABWC020_0000_0700",
-    "name": "Laytown/Bettystown",
-    "status": "Excellent",
-    "result_date": "2025-07-28",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Meath",
-    "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
-  },
-  {
-    "beach_id": "IEEABWC020_0000_0700",
-    "name": "Laytown/Bettystown",
-    "status": "Excellent",
-    "result_date": "2025-07-22",
-    "e_coli": "20",
-    "intestinal_enterococci": "5",
-    "county": "Meath",
-    "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -107,7 +63,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -118,7 +74,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -129,7 +85,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -140,18 +96,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
-  },
-  {
-    "beach_id": "IEEABWC020_0000_0700",
-    "name": "Laytown/Bettystown",
-    "status": "Excellent",
-    "result_date": "2025-06-16",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Meath",
-    "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -162,7 +107,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -173,7 +118,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -184,7 +129,7 @@
     "intestinal_enterococci": "80",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -195,7 +140,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -206,7 +151,7 @@
     "intestinal_enterococci": "17",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -217,7 +162,7 @@
     "intestinal_enterococci": "37",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -228,7 +173,7 @@
     "intestinal_enterococci": "8",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -239,7 +184,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -250,7 +195,7 @@
     "intestinal_enterococci": "8",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -261,7 +206,7 @@
     "intestinal_enterococci": "4",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -272,7 +217,7 @@
     "intestinal_enterococci": "15",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -283,7 +228,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -294,7 +239,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -305,7 +250,7 @@
     "intestinal_enterococci": "8",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -316,7 +261,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -327,7 +272,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -338,7 +283,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -349,7 +294,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -360,7 +305,7 @@
     "intestinal_enterococci": "15",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -371,7 +316,7 @@
     "intestinal_enterococci": "3",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -382,7 +327,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -393,7 +338,7 @@
     "intestinal_enterococci": "11",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -404,7 +349,7 @@
     "intestinal_enterococci": "24",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -415,7 +360,7 @@
     "intestinal_enterococci": "29",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -426,7 +371,7 @@
     "intestinal_enterococci": "9",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -437,7 +382,7 @@
     "intestinal_enterococci": "510",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -448,7 +393,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -459,7 +404,7 @@
     "intestinal_enterococci": "11",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -470,7 +415,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -481,7 +426,7 @@
     "intestinal_enterococci": "38",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -492,7 +437,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -503,7 +448,7 @@
     "intestinal_enterococci": "7",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -514,7 +459,7 @@
     "intestinal_enterococci": "12",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -525,7 +470,7 @@
     "intestinal_enterococci": "39",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -536,7 +481,7 @@
     "intestinal_enterococci": "11",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -547,7 +492,7 @@
     "intestinal_enterococci": "120",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -558,7 +503,7 @@
     "intestinal_enterococci": "180",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -569,7 +514,7 @@
     "intestinal_enterococci": "23",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -580,7 +525,7 @@
     "intestinal_enterococci": "58",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -591,7 +536,7 @@
     "intestinal_enterococci": "37",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -602,7 +547,7 @@
     "intestinal_enterococci": "11",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -613,7 +558,7 @@
     "intestinal_enterococci": "26",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -624,7 +569,7 @@
     "intestinal_enterococci": "12",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -635,7 +580,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -646,7 +591,7 @@
     "intestinal_enterococci": "10",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -657,7 +602,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -668,7 +613,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -679,7 +624,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -690,7 +635,7 @@
     "intestinal_enterococci": "4",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -701,7 +646,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -712,7 +657,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -723,7 +668,7 @@
     "intestinal_enterococci": "18",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -734,7 +679,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -745,7 +690,7 @@
     "intestinal_enterococci": "20",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -756,7 +701,7 @@
     "intestinal_enterococci": "9",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -767,7 +712,7 @@
     "intestinal_enterococci": "7",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -778,7 +723,7 @@
     "intestinal_enterococci": "56",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -789,7 +734,7 @@
     "intestinal_enterococci": "16",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -800,7 +745,7 @@
     "intestinal_enterococci": "6",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -811,7 +756,7 @@
     "intestinal_enterococci": "7",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -822,7 +767,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -833,7 +778,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -844,7 +789,7 @@
     "intestinal_enterococci": "3",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -855,7 +800,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -866,7 +811,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -877,7 +822,7 @@
     "intestinal_enterococci": "9",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -888,7 +833,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -899,7 +844,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -910,7 +855,7 @@
     "intestinal_enterococci": "9",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -921,7 +866,7 @@
     "intestinal_enterococci": "9",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -932,7 +877,7 @@
     "intestinal_enterococci": "9",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -943,7 +888,7 @@
     "intestinal_enterococci": "20",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -954,7 +899,7 @@
     "intestinal_enterococci": "40",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -965,7 +910,7 @@
     "intestinal_enterococci": "11",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -976,7 +921,7 @@
     "intestinal_enterococci": "24",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -987,7 +932,7 @@
     "intestinal_enterococci": "45",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -998,7 +943,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1009,7 +954,7 @@
     "intestinal_enterococci": "6",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1020,7 +965,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1031,7 +976,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1042,7 +987,7 @@
     "intestinal_enterococci": "15",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1053,7 +998,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1064,7 +1009,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1075,7 +1020,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1086,7 +1031,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1097,7 +1042,7 @@
     "intestinal_enterococci": "3",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1108,7 +1053,7 @@
     "intestinal_enterococci": "15",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1119,7 +1064,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1130,7 +1075,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1141,7 +1086,7 @@
     "intestinal_enterococci": "14",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1152,7 +1097,7 @@
     "intestinal_enterococci": "10",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1163,7 +1108,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1174,7 +1119,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1185,7 +1130,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1196,7 +1141,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1207,7 +1152,7 @@
     "intestinal_enterococci": "3",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1218,7 +1163,7 @@
     "intestinal_enterococci": "4",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1229,7 +1174,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1240,7 +1185,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1251,7 +1196,7 @@
     "intestinal_enterococci": "3",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1262,7 +1207,7 @@
     "intestinal_enterococci": "3",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1273,7 +1218,7 @@
     "intestinal_enterococci": "1000",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1284,7 +1229,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1295,7 +1240,7 @@
     "intestinal_enterococci": "8",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1306,7 +1251,7 @@
     "intestinal_enterococci": "6",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1317,7 +1262,7 @@
     "intestinal_enterococci": "9",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1328,7 +1273,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1339,7 +1284,7 @@
     "intestinal_enterococci": "15",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1350,7 +1295,7 @@
     "intestinal_enterococci": "40",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1361,7 +1306,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1372,7 +1317,7 @@
     "intestinal_enterococci": "4",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1383,7 +1328,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1394,7 +1339,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1405,7 +1350,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1416,7 +1361,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1427,7 +1372,7 @@
     "intestinal_enterococci": "9",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1438,7 +1383,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1449,7 +1394,7 @@
     "intestinal_enterococci": "20",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1460,7 +1405,7 @@
     "intestinal_enterococci": "26",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1471,7 +1416,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1482,7 +1427,7 @@
     "intestinal_enterococci": "220",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1493,7 +1438,7 @@
     "intestinal_enterococci": "43",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1504,7 +1449,7 @@
     "intestinal_enterococci": "10",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1515,7 +1460,7 @@
     "intestinal_enterococci": "33",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1526,7 +1471,7 @@
     "intestinal_enterococci": "14",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1537,7 +1482,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1548,7 +1493,7 @@
     "intestinal_enterococci": "7",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1559,7 +1504,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1570,7 +1515,7 @@
     "intestinal_enterococci": "15",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1581,7 +1526,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1592,7 +1537,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1603,7 +1548,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1614,7 +1559,7 @@
     "intestinal_enterococci": "3",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1625,7 +1570,7 @@
     "intestinal_enterococci": "58",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1636,7 +1581,7 @@
     "intestinal_enterococci": "16",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1647,7 +1592,7 @@
     "intestinal_enterococci": "87",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1658,7 +1603,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1669,7 +1614,7 @@
     "intestinal_enterococci": "8",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1680,7 +1625,7 @@
     "intestinal_enterococci": "105",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1691,7 +1636,7 @@
     "intestinal_enterococci": "3",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1702,7 +1647,7 @@
     "intestinal_enterococci": "31",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1713,7 +1658,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1724,7 +1669,7 @@
     "intestinal_enterococci": ">2000",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1735,7 +1680,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1746,7 +1691,7 @@
     "intestinal_enterococci": "27",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1757,7 +1702,7 @@
     "intestinal_enterococci": "4",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1768,7 +1713,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1779,7 +1724,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1790,7 +1735,7 @@
     "intestinal_enterococci": "3",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1801,7 +1746,7 @@
     "intestinal_enterococci": "45",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1812,7 +1757,7 @@
     "intestinal_enterococci": "4",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1823,7 +1768,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1834,7 +1779,7 @@
     "intestinal_enterococci": "7",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1845,7 +1790,7 @@
     "intestinal_enterococci": "49",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1856,7 +1801,7 @@
     "intestinal_enterococci": "27",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1867,7 +1812,7 @@
     "intestinal_enterococci": "15",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1878,7 +1823,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1889,7 +1834,7 @@
     "intestinal_enterococci": "21",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1900,7 +1845,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1911,7 +1856,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1922,7 +1867,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1933,7 +1878,7 @@
     "intestinal_enterococci": "5",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1944,7 +1889,7 @@
     "intestinal_enterococci": "43",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1955,7 +1900,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1966,7 +1911,7 @@
     "intestinal_enterococci": "3",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1977,7 +1922,7 @@
     "intestinal_enterococci": "41",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1988,7 +1933,7 @@
     "intestinal_enterococci": "74",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -1999,7 +1944,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -2010,7 +1955,7 @@
     "intestinal_enterococci": "510",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -2021,7 +1966,7 @@
     "intestinal_enterococci": "46",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -2032,7 +1977,7 @@
     "intestinal_enterococci": "6",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -2043,7 +1988,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -2054,7 +1999,7 @@
     "intestinal_enterococci": "46",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -2065,7 +2010,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -2076,7 +2021,7 @@
     "intestinal_enterococci": "7",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -2087,7 +2032,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -2098,7 +2043,7 @@
     "intestinal_enterococci": "11",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -2109,7 +2054,7 @@
     "intestinal_enterococci": "3",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -2120,7 +2065,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   },
   {
     "beach_id": "IEEABWC020_0000_0700",
@@ -2131,6 +2076,6 @@
     "intestinal_enterococci": "28",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-04-11T08:38:16Z"
+    "updated_at": "2026-04-11T14:33:23Z"
   }
 ]
