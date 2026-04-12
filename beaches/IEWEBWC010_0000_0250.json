@@ -8,7 +8,7 @@
     "intestinal_enterococci": "11",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -19,7 +19,18 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
+  },
+  {
+    "beach_id": "IEWEBWC010_0000_0250",
+    "name": "Trá Inis Oírr (Main Beach)",
+    "status": "Excellent",
+    "result_date": "2025-07-07",
+    "e_coli": "10",
+    "intestinal_enterococci": "<2",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -30,7 +41,7 @@
     "intestinal_enterococci": "3",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -41,7 +52,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -52,7 +63,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -63,7 +74,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -74,7 +85,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -85,7 +96,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -96,7 +107,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -107,7 +118,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -118,7 +129,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -129,7 +140,18 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
+  },
+  {
+    "beach_id": "IEWEBWC010_0000_0250",
+    "name": "Trá Inis Oírr (Main Beach)",
+    "status": "Excellent",
+    "result_date": "2023-06-15",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<2",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -140,7 +162,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -151,7 +173,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -162,7 +184,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -173,7 +195,7 @@
     "intestinal_enterococci": "6",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -184,7 +206,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -195,7 +217,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -206,7 +228,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -217,7 +239,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -228,7 +250,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -239,7 +261,7 @@
     "intestinal_enterococci": "11",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -250,7 +272,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -261,7 +283,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -272,7 +294,7 @@
     "intestinal_enterococci": "34",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -283,7 +305,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -294,7 +316,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -305,7 +327,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -316,7 +338,7 @@
     "intestinal_enterococci": "3",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -327,7 +349,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -338,7 +360,7 @@
     "intestinal_enterococci": "13",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -349,7 +371,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -360,7 +382,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -371,7 +393,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -382,7 +404,7 @@
     "intestinal_enterococci": "15",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -393,7 +415,7 @@
     "intestinal_enterococci": "3",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -404,7 +426,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -415,7 +437,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -426,7 +448,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -437,7 +459,7 @@
     "intestinal_enterococci": "5",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -448,7 +470,7 @@
     "intestinal_enterococci": "3",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -459,7 +481,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -470,7 +492,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -481,7 +503,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -492,7 +514,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -503,7 +525,7 @@
     "intestinal_enterococci": "3",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -514,7 +536,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -525,7 +547,7 @@
     "intestinal_enterococci": "5",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -536,7 +558,7 @@
     "intestinal_enterococci": "5",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -547,7 +569,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -558,7 +580,7 @@
     "intestinal_enterococci": "28",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -569,7 +591,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -580,7 +602,7 @@
     "intestinal_enterococci": "1",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -591,7 +613,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -602,7 +624,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -613,7 +635,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -624,7 +646,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -635,7 +657,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -646,7 +668,7 @@
     "intestinal_enterococci": "1",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   },
   {
     "beach_id": "IEWEBWC010_0000_0250",
@@ -657,6 +679,6 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-12T08:42:02Z"
+    "updated_at": "2026-04-12T14:37:43Z"
   }
 ]
