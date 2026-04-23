@@ -8,7 +8,7 @@
     "intestinal_enterococci": "17",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IEWEBWC360_0000_0500",
@@ -19,7 +19,18 @@
     "intestinal_enterococci": "18",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IEWEBWC360_0000_0500",
+    "name": "Belmullet Tidal Pool  & Shore Road Bathing Area",
+    "status": "Excellent",
+    "result_date": "2025-07-21",
+    "e_coli": "<10",
+    "intestinal_enterococci": "7",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IEWEBWC360_0000_0500",
@@ -30,7 +41,7 @@
     "intestinal_enterococci": "64",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IEWEBWC360_0000_0500",
@@ -41,6 +52,17 @@
     "intestinal_enterococci": "1",
     "county": "Mayo",
     "local_authority": "Mayo County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IEWEBWC360_0000_0500",
+    "name": "Belmullet Tidal Pool  & Shore Road Bathing Area",
+    "status": "Excellent",
+    "result_date": "2025-05-26",
+    "e_coli": "40",
+    "intestinal_enterococci": "21",
+    "county": "Mayo",
+    "local_authority": "Mayo County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
   }
 ]

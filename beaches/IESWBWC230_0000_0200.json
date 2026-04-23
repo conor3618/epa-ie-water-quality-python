@@ -8,7 +8,18 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IESWBWC230_0000_0200",
+    "name": "Inch (Kerry)",
+    "status": "Excellent",
+    "result_date": "2025-08-25",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Kerry",
+    "local_authority": "Kerry County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -19,7 +30,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -30,7 +41,7 @@
     "intestinal_enterococci": "3",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -41,7 +52,29 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IESWBWC230_0000_0200",
+    "name": "Inch (Kerry)",
+    "status": "Excellent",
+    "result_date": "2025-07-21",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Kerry",
+    "local_authority": "Kerry County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IESWBWC230_0000_0200",
+    "name": "Inch (Kerry)",
+    "status": "Excellent",
+    "result_date": "2025-07-14",
+    "e_coli": "<10",
+    "intestinal_enterococci": "2",
+    "county": "Kerry",
+    "local_authority": "Kerry County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -52,7 +85,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -63,7 +96,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -74,7 +107,18 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IESWBWC230_0000_0200",
+    "name": "Inch (Kerry)",
+    "status": "Excellent",
+    "result_date": "2025-06-09",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Kerry",
+    "local_authority": "Kerry County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -85,7 +129,7 @@
     "intestinal_enterococci": "6",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -96,7 +140,7 @@
     "intestinal_enterococci": "15",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -107,7 +151,7 @@
     "intestinal_enterococci": "2",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -118,7 +162,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -129,7 +173,7 @@
     "intestinal_enterococci": "2",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -140,7 +184,18 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IESWBWC230_0000_0200",
+    "name": "Inch (Kerry)",
+    "status": "Excellent",
+    "result_date": "2024-07-29",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Kerry",
+    "local_authority": "Kerry County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -151,7 +206,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -162,7 +217,18 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IESWBWC230_0000_0200",
+    "name": "Inch (Kerry)",
+    "status": "Excellent",
+    "result_date": "2024-07-08",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Kerry",
+    "local_authority": "Kerry County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -173,7 +239,18 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IESWBWC230_0000_0200",
+    "name": "Inch (Kerry)",
+    "status": "Excellent",
+    "result_date": "2024-06-10",
+    "e_coli": "<10",
+    "intestinal_enterococci": "1",
+    "county": "Kerry",
+    "local_authority": "Kerry County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -184,7 +261,29 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IESWBWC230_0000_0200",
+    "name": "Inch (Kerry)",
+    "status": "Excellent",
+    "result_date": "2024-05-27",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Kerry",
+    "local_authority": "Kerry County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IESWBWC230_0000_0200",
+    "name": "Inch (Kerry)",
+    "status": "Excellent",
+    "result_date": "2023-09-04",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Kerry",
+    "local_authority": "Kerry County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -195,7 +294,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -206,7 +305,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -217,7 +316,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -228,7 +327,18 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IESWBWC230_0000_0200",
+    "name": "Inch (Kerry)",
+    "status": "Excellent",
+    "result_date": "2023-07-24",
+    "e_coli": "10",
+    "intestinal_enterococci": "<1",
+    "county": "Kerry",
+    "local_authority": "Kerry County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -239,7 +349,7 @@
     "intestinal_enterococci": "3",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -250,7 +360,29 @@
     "intestinal_enterococci": "4",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IESWBWC230_0000_0200",
+    "name": "Inch (Kerry)",
+    "status": "Excellent",
+    "result_date": "2023-06-26",
+    "e_coli": "10",
+    "intestinal_enterococci": "<1",
+    "county": "Kerry",
+    "local_authority": "Kerry County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
+  },
+  {
+    "beach_id": "IESWBWC230_0000_0200",
+    "name": "Inch (Kerry)",
+    "status": "Excellent",
+    "result_date": "2023-06-19",
+    "e_coli": "222",
+    "intestinal_enterococci": "8",
+    "county": "Kerry",
+    "local_authority": "Kerry County Council",
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -261,7 +393,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -272,7 +404,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -283,7 +415,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -294,7 +426,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -305,7 +437,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -316,7 +448,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -327,7 +459,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -338,7 +470,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -349,7 +481,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -360,7 +492,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -371,7 +503,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -382,7 +514,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -393,7 +525,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -404,7 +536,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -415,7 +547,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -426,7 +558,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -437,7 +569,7 @@
     "intestinal_enterococci": "7",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -448,7 +580,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -459,7 +591,7 @@
     "intestinal_enterococci": "2",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -470,7 +602,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -481,7 +613,7 @@
     "intestinal_enterococci": "2",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -492,7 +624,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -503,7 +635,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -514,7 +646,7 @@
     "intestinal_enterococci": "2",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -525,7 +657,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -536,7 +668,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -547,7 +679,7 @@
     "intestinal_enterococci": "<10",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -558,7 +690,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -569,7 +701,7 @@
     "intestinal_enterococci": "4",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -580,7 +712,7 @@
     "intestinal_enterococci": "4",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -591,7 +723,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -602,7 +734,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -613,7 +745,7 @@
     "intestinal_enterococci": "3",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -624,7 +756,7 @@
     "intestinal_enterococci": "6",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -635,7 +767,7 @@
     "intestinal_enterococci": "22",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -646,7 +778,7 @@
     "intestinal_enterococci": "2",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -657,7 +789,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -668,7 +800,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -679,7 +811,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -690,7 +822,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -701,7 +833,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -712,7 +844,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -723,7 +855,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -734,7 +866,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -745,7 +877,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -756,7 +888,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -767,7 +899,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -778,7 +910,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -789,7 +921,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -800,7 +932,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -811,7 +943,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -822,7 +954,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -833,7 +965,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -844,7 +976,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -855,7 +987,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -866,7 +998,7 @@
     "intestinal_enterococci": "91",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -877,7 +1009,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -888,7 +1020,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -899,7 +1031,7 @@
     "intestinal_enterococci": "36",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -910,7 +1042,7 @@
     "intestinal_enterococci": "5",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -921,7 +1053,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -932,7 +1064,7 @@
     "intestinal_enterococci": "9",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -943,7 +1075,7 @@
     "intestinal_enterococci": "8",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -954,7 +1086,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -965,7 +1097,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -976,7 +1108,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -987,7 +1119,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -998,7 +1130,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1009,7 +1141,7 @@
     "intestinal_enterococci": "4",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1020,7 +1152,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1031,7 +1163,7 @@
     "intestinal_enterococci": "4",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1042,7 +1174,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1053,7 +1185,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1064,7 +1196,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1075,7 +1207,7 @@
     "intestinal_enterococci": "19",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1086,7 +1218,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1097,7 +1229,7 @@
     "intestinal_enterococci": "3",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1108,7 +1240,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1119,7 +1251,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1130,7 +1262,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1141,7 +1273,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1152,7 +1284,7 @@
     "intestinal_enterococci": "9",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1163,7 +1295,7 @@
     "intestinal_enterococci": "15",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1174,7 +1306,7 @@
     "intestinal_enterococci": "25",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1185,7 +1317,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1196,7 +1328,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1207,7 +1339,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1218,7 +1350,7 @@
     "intestinal_enterococci": "2",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1229,7 +1361,7 @@
     "intestinal_enterococci": "<10",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1240,7 +1372,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1251,7 +1383,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1262,7 +1394,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1273,7 +1405,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1284,7 +1416,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1295,7 +1427,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1306,7 +1438,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1317,7 +1449,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1328,7 +1460,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1339,7 +1471,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1350,7 +1482,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1361,7 +1493,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1372,7 +1504,7 @@
     "intestinal_enterococci": "3",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1383,7 +1515,7 @@
     "intestinal_enterococci": "13",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1394,7 +1526,7 @@
     "intestinal_enterococci": "3",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1405,7 +1537,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1416,7 +1548,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1427,7 +1559,7 @@
     "intestinal_enterococci": "3",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1438,7 +1570,7 @@
     "intestinal_enterococci": "14",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   },
   {
     "beach_id": "IESWBWC230_0000_0200",
@@ -1449,6 +1581,6 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-04-23T15:49:03Z"
+    "updated_at": "2026-04-23T20:47:17Z"
   }
 ]
