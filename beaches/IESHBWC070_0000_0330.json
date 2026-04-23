@@ -8,18 +8,7 @@
     "intestinal_enterococci": "80",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
-  },
-  {
-    "beach_id": "IESHBWC070_0000_0330",
-    "name": "Quilty",
-    "status": "Excellent",
-    "result_date": "2025-08-25",
-    "e_coli": "31",
-    "intestinal_enterococci": "10",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -30,29 +19,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
-  },
-  {
-    "beach_id": "IESHBWC070_0000_0330",
-    "name": "Quilty",
-    "status": "Good",
-    "result_date": "2025-07-21",
-    "e_coli": "428",
-    "intestinal_enterococci": "20",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
-  },
-  {
-    "beach_id": "IESHBWC070_0000_0330",
-    "name": "Quilty",
-    "status": "Excellent",
-    "result_date": "2025-07-14",
-    "e_coli": "30",
-    "intestinal_enterococci": "20",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -63,7 +30,7 @@
     "intestinal_enterococci": "20",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -74,18 +41,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
-  },
-  {
-    "beach_id": "IESHBWC070_0000_0330",
-    "name": "Quilty",
-    "status": "Excellent",
-    "result_date": "2025-06-09",
-    "e_coli": "10",
-    "intestinal_enterococci": "<10",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -96,29 +52,7 @@
     "intestinal_enterococci": "90",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
-  },
-  {
-    "beach_id": "IESHBWC070_0000_0330",
-    "name": "Quilty",
-    "status": "Excellent",
-    "result_date": "2025-05-26",
-    "e_coli": "20",
-    "intestinal_enterococci": "30",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
-  },
-  {
-    "beach_id": "IESHBWC070_0000_0330",
-    "name": "Quilty",
-    "status": "Excellent",
-    "result_date": "2024-09-02",
-    "e_coli": "246",
-    "intestinal_enterococci": "10",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -129,7 +63,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -140,7 +74,7 @@
     "intestinal_enterococci": "20",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -151,7 +85,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -162,18 +96,7 @@
     "intestinal_enterococci": "10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
-  },
-  {
-    "beach_id": "IESHBWC070_0000_0330",
-    "name": "Quilty",
-    "status": "Excellent",
-    "result_date": "2024-07-08",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<10",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -184,18 +107,7 @@
     "intestinal_enterococci": "10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
-  },
-  {
-    "beach_id": "IESHBWC070_0000_0330",
-    "name": "Quilty",
-    "status": "Excellent",
-    "result_date": "2024-06-10",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<10",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -206,7 +118,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -217,18 +129,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
-  },
-  {
-    "beach_id": "IESHBWC070_0000_0330",
-    "name": "Quilty",
-    "status": "Excellent",
-    "result_date": "2023-09-04",
-    "e_coli": "52",
-    "intestinal_enterococci": "60",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -239,29 +140,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
-  },
-  {
-    "beach_id": "IESHBWC070_0000_0330",
-    "name": "Quilty",
-    "status": "Excellent",
-    "result_date": "2023-08-08",
-    "e_coli": "10",
-    "intestinal_enterococci": "40",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
-  },
-  {
-    "beach_id": "IESHBWC070_0000_0330",
-    "name": "Quilty",
-    "status": "Excellent",
-    "result_date": "2023-07-24",
-    "e_coli": "10",
-    "intestinal_enterococci": "10",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -272,7 +151,7 @@
     "intestinal_enterococci": "50",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -283,18 +162,7 @@
     "intestinal_enterococci": "80",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
-  },
-  {
-    "beach_id": "IESHBWC070_0000_0330",
-    "name": "Quilty",
-    "status": "Excellent",
-    "result_date": "2023-06-19",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<10",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -305,7 +173,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -316,7 +184,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -327,7 +195,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -338,7 +206,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -349,7 +217,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -360,7 +228,7 @@
     "intestinal_enterococci": "60",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -371,7 +239,7 @@
     "intestinal_enterococci": "10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -382,7 +250,7 @@
     "intestinal_enterococci": "60",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -393,7 +261,7 @@
     "intestinal_enterococci": "40",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -404,7 +272,7 @@
     "intestinal_enterococci": "10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -415,7 +283,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -426,7 +294,7 @@
     "intestinal_enterococci": "10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -437,7 +305,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -448,7 +316,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -459,7 +327,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -470,7 +338,7 @@
     "intestinal_enterococci": "10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -481,7 +349,7 @@
     "intestinal_enterococci": "10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -492,7 +360,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -503,7 +371,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -514,7 +382,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -525,7 +393,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -536,7 +404,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -547,7 +415,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -558,7 +426,7 @@
     "intestinal_enterococci": "40",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -569,7 +437,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -580,7 +448,7 @@
     "intestinal_enterococci": "30",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -591,7 +459,7 @@
     "intestinal_enterococci": "250",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -602,7 +470,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -613,7 +481,7 @@
     "intestinal_enterococci": "90",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -624,7 +492,7 @@
     "intestinal_enterococci": "20",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -635,7 +503,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -646,7 +514,7 @@
     "intestinal_enterococci": "30",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   },
   {
     "beach_id": "IESHBWC070_0000_0330",
@@ -657,6 +525,6 @@
     "intestinal_enterococci": "10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-04-23T09:23:14Z"
+    "updated_at": "2026-04-23T15:49:03Z"
   }
 ]
