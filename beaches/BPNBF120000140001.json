@@ -3,12 +3,34 @@
     "beach_id": "BPNBF120000140001",
     "name": "Dog's Bay, Roundstone",
     "status": "Excellent",
-    "result_date": "2024-09-02",
+    "result_date": "2025-09-01",
+    "e_coli": "63",
+    "intestinal_enterococci": "<2",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-04-26T20:34:34Z"
+  },
+  {
+    "beach_id": "BPNBF120000140001",
+    "name": "Dog's Bay, Roundstone",
+    "status": "Excellent",
+    "result_date": "2025-06-09",
     "e_coli": "<10",
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
+  },
+  {
+    "beach_id": "BPNBF120000140001",
+    "name": "Dog's Bay, Roundstone",
+    "status": "Excellent",
+    "result_date": "2024-08-06",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<2",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -19,7 +41,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -30,7 +52,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -41,7 +63,18 @@
     "intestinal_enterococci": "0",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
+  },
+  {
+    "beach_id": "BPNBF120000140001",
+    "name": "Dog's Bay, Roundstone",
+    "status": "Poor",
+    "result_date": "2023-09-04",
+    "e_coli": "41",
+    "intestinal_enterococci": "270",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -52,7 +85,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -63,18 +96,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
-  },
-  {
-    "beach_id": "BPNBF120000140001",
-    "name": "Dog's Bay, Roundstone",
-    "status": "Excellent",
-    "result_date": "2023-06-19",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -85,7 +107,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -96,29 +118,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
-  },
-  {
-    "beach_id": "BPNBF120000140001",
-    "name": "Dog's Bay, Roundstone",
-    "status": "Excellent",
-    "result_date": "2022-08-08",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
-  },
-  {
-    "beach_id": "BPNBF120000140001",
-    "name": "Dog's Bay, Roundstone",
-    "status": "Excellent",
-    "result_date": "2022-07-18",
-    "e_coli": "63",
-    "intestinal_enterococci": "8",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -129,7 +129,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -140,7 +140,7 @@
     "intestinal_enterococci": "3",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -151,7 +151,7 @@
     "intestinal_enterococci": "10",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -162,7 +162,7 @@
     "intestinal_enterococci": "4",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -173,7 +173,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -184,7 +184,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -195,7 +195,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -206,7 +206,7 @@
     "intestinal_enterococci": "4",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -217,7 +217,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -228,7 +228,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -239,7 +239,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -250,7 +250,7 @@
     "intestinal_enterococci": "8",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -261,7 +261,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -272,7 +272,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -283,7 +283,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -294,7 +294,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -305,7 +305,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -316,7 +316,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -327,7 +327,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -338,7 +338,7 @@
     "intestinal_enterococci": "75",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -349,7 +349,7 @@
     "intestinal_enterococci": "12",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -360,7 +360,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -371,7 +371,7 @@
     "intestinal_enterococci": "10",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -382,7 +382,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -393,7 +393,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -404,7 +404,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -415,7 +415,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -426,7 +426,7 @@
     "intestinal_enterococci": "38",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -437,7 +437,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -448,7 +448,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -459,7 +459,7 @@
     "intestinal_enterococci": "5",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -470,7 +470,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -481,7 +481,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -492,7 +492,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -503,7 +503,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -514,7 +514,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -525,7 +525,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -536,7 +536,7 @@
     "intestinal_enterococci": "1",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -547,7 +547,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -558,7 +558,7 @@
     "intestinal_enterococci": "6",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -569,7 +569,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   },
   {
     "beach_id": "BPNBF120000140001",
@@ -580,6 +580,6 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:34Z"
   }
 ]

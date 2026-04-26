@@ -3,23 +3,67 @@
     "beach_id": "IENWBWC010_0000_0200",
     "name": "Rossnowlagh",
     "status": "Excellent",
-    "result_date": "2025-08-20",
-    "e_coli": "41",
-    "intestinal_enterococci": "5",
+    "result_date": "2025-09-10",
+    "e_coli": "<10",
+    "intestinal_enterococci": "6",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
     "name": "Rossnowlagh",
     "status": "Excellent",
-    "result_date": "2025-07-02",
-    "e_coli": "<10",
-    "intestinal_enterococci": "1",
+    "result_date": "2025-08-27",
+    "e_coli": "10",
+    "intestinal_enterococci": "4",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
+  },
+  {
+    "beach_id": "IENWBWC010_0000_0200",
+    "name": "Rossnowlagh",
+    "status": "Excellent",
+    "result_date": "2025-08-20",
+    "e_coli": "41",
+    "intestinal_enterococci": "5",
+    "county": "Donegal",
+    "local_authority": "Donegal County Council",
+    "updated_at": "2026-04-26T20:34:33Z"
+  },
+  {
+    "beach_id": "IENWBWC010_0000_0200",
+    "name": "Rossnowlagh",
+    "status": "Excellent",
+    "result_date": "2025-07-16",
+    "e_coli": "<10",
+    "intestinal_enterococci": "4",
+    "county": "Donegal",
+    "local_authority": "Donegal County Council",
+    "updated_at": "2026-04-26T20:34:33Z"
+  },
+  {
+    "beach_id": "IENWBWC010_0000_0200",
+    "name": "Rossnowlagh",
+    "status": "Excellent",
+    "result_date": "2025-06-25",
+    "e_coli": "10",
+    "intestinal_enterococci": "<1",
+    "county": "Donegal",
+    "local_authority": "Donegal County Council",
+    "updated_at": "2026-04-26T20:34:33Z"
+  },
+  {
+    "beach_id": "IENWBWC010_0000_0200",
+    "name": "Rossnowlagh",
+    "status": "Excellent",
+    "result_date": "2025-06-11",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Donegal",
+    "local_authority": "Donegal County Council",
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -30,7 +74,7 @@
     "intestinal_enterococci": "6",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -41,7 +85,29 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
+  },
+  {
+    "beach_id": "IENWBWC010_0000_0200",
+    "name": "Rossnowlagh",
+    "status": "Excellent",
+    "result_date": "2024-09-04",
+    "e_coli": "<10",
+    "intestinal_enterococci": "2",
+    "county": "Donegal",
+    "local_authority": "Donegal County Council",
+    "updated_at": "2026-04-26T20:34:33Z"
+  },
+  {
+    "beach_id": "IENWBWC010_0000_0200",
+    "name": "Rossnowlagh",
+    "status": "Excellent",
+    "result_date": "2024-08-28",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Donegal",
+    "local_authority": "Donegal County Council",
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -52,18 +118,18 @@
     "intestinal_enterococci": "6",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
     "name": "Rossnowlagh",
     "status": "Excellent",
-    "result_date": "2024-07-31",
-    "e_coli": "20",
-    "intestinal_enterococci": "1",
+    "result_date": "2024-07-17",
+    "e_coli": "10",
+    "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -74,7 +140,18 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
+  },
+  {
+    "beach_id": "IENWBWC010_0000_0200",
+    "name": "Rossnowlagh",
+    "status": "Excellent",
+    "result_date": "2024-06-26",
+    "e_coli": "<10",
+    "intestinal_enterococci": "1",
+    "county": "Donegal",
+    "local_authority": "Donegal County Council",
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -85,18 +162,7 @@
     "intestinal_enterococci": "2",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
-  },
-  {
-    "beach_id": "IENWBWC010_0000_0200",
-    "name": "Rossnowlagh",
-    "status": "Excellent",
-    "result_date": "2024-06-05",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Donegal",
-    "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -107,7 +173,7 @@
     "intestinal_enterococci": "2",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -118,18 +184,7 @@
     "intestinal_enterococci": "4",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
-  },
-  {
-    "beach_id": "IENWBWC010_0000_0200",
-    "name": "Rossnowlagh",
-    "status": "Excellent",
-    "result_date": "2023-08-16",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Donegal",
-    "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -140,18 +195,7 @@
     "intestinal_enterococci": "19",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
-  },
-  {
-    "beach_id": "IENWBWC010_0000_0200",
-    "name": "Rossnowlagh",
-    "status": "Excellent",
-    "result_date": "2023-07-26",
-    "e_coli": "<10",
-    "intestinal_enterococci": "4",
-    "county": "Donegal",
-    "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -162,7 +206,7 @@
     "intestinal_enterococci": "2",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -173,7 +217,7 @@
     "intestinal_enterococci": "20",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -184,18 +228,7 @@
     "intestinal_enterococci": "12",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
-  },
-  {
-    "beach_id": "IENWBWC010_0000_0200",
-    "name": "Rossnowlagh",
-    "status": "Excellent",
-    "result_date": "2023-06-14",
-    "e_coli": "216",
-    "intestinal_enterococci": "38",
-    "county": "Donegal",
-    "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -206,7 +239,7 @@
     "intestinal_enterococci": "3",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -217,7 +250,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -228,18 +261,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
-  },
-  {
-    "beach_id": "IENWBWC010_0000_0200",
-    "name": "Rossnowlagh",
-    "status": "Excellent",
-    "result_date": "2022-08-24",
-    "e_coli": "<10",
-    "intestinal_enterococci": "1",
-    "county": "Donegal",
-    "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -250,18 +272,7 @@
     "intestinal_enterococci": "8",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
-  },
-  {
-    "beach_id": "IENWBWC010_0000_0200",
-    "name": "Rossnowlagh",
-    "status": "Excellent",
-    "result_date": "2022-08-10",
-    "e_coli": "<10",
-    "intestinal_enterococci": "3",
-    "county": "Donegal",
-    "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -272,18 +283,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
-  },
-  {
-    "beach_id": "IENWBWC010_0000_0200",
-    "name": "Rossnowlagh",
-    "status": "Excellent",
-    "result_date": "2022-07-20",
-    "e_coli": "20",
-    "intestinal_enterococci": "5",
-    "county": "Donegal",
-    "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -294,7 +294,7 @@
     "intestinal_enterococci": "5",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -305,7 +305,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -316,7 +316,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -327,7 +327,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -338,7 +338,7 @@
     "intestinal_enterococci": "2",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -349,7 +349,7 @@
     "intestinal_enterococci": "16",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -360,7 +360,7 @@
     "intestinal_enterococci": "10",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -371,7 +371,7 @@
     "intestinal_enterococci": "3",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -382,7 +382,7 @@
     "intestinal_enterococci": "5",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -393,7 +393,7 @@
     "intestinal_enterococci": "56",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -404,7 +404,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -415,7 +415,7 @@
     "intestinal_enterococci": "2",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -426,7 +426,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -437,7 +437,7 @@
     "intestinal_enterococci": "5",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -448,7 +448,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -459,7 +459,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -470,7 +470,7 @@
     "intestinal_enterococci": "2",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -481,7 +481,7 @@
     "intestinal_enterococci": "4",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -492,7 +492,7 @@
     "intestinal_enterococci": "8",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -503,7 +503,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -514,7 +514,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -525,7 +525,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -536,7 +536,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -547,7 +547,7 @@
     "intestinal_enterococci": "4",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -558,7 +558,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -569,7 +569,7 @@
     "intestinal_enterococci": "2",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -580,7 +580,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -591,7 +591,7 @@
     "intestinal_enterococci": "8",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -602,7 +602,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -613,7 +613,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -624,7 +624,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -635,7 +635,7 @@
     "intestinal_enterococci": "2",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -646,7 +646,7 @@
     "intestinal_enterococci": "3",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -657,7 +657,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -668,7 +668,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -679,7 +679,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -690,7 +690,7 @@
     "intestinal_enterococci": "2",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -701,7 +701,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -712,7 +712,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -723,7 +723,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -734,7 +734,7 @@
     "intestinal_enterococci": "32",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -745,7 +745,7 @@
     "intestinal_enterococci": "8",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -756,7 +756,7 @@
     "intestinal_enterococci": "3",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -767,7 +767,7 @@
     "intestinal_enterococci": "6",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -778,7 +778,7 @@
     "intestinal_enterococci": "4",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -789,7 +789,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -800,7 +800,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -811,7 +811,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -822,7 +822,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -833,7 +833,7 @@
     "intestinal_enterococci": "4",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -844,7 +844,7 @@
     "intestinal_enterococci": "17",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -855,7 +855,7 @@
     "intestinal_enterococci": "5",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -866,7 +866,7 @@
     "intestinal_enterococci": "7",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -877,7 +877,7 @@
     "intestinal_enterococci": "13",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -888,7 +888,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -899,7 +899,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -910,7 +910,7 @@
     "intestinal_enterococci": "4",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -921,7 +921,7 @@
     "intestinal_enterococci": "3",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -932,7 +932,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -943,7 +943,7 @@
     "intestinal_enterococci": "7",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -954,7 +954,7 @@
     "intestinal_enterococci": "7",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -965,7 +965,7 @@
     "intestinal_enterococci": "5",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -976,7 +976,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -987,7 +987,7 @@
     "intestinal_enterococci": "4",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -998,7 +998,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1009,7 +1009,7 @@
     "intestinal_enterococci": "5",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1020,7 +1020,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1031,7 +1031,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1042,7 +1042,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1053,7 +1053,7 @@
     "intestinal_enterococci": "4",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1064,7 +1064,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1075,7 +1075,7 @@
     "intestinal_enterococci": "4",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1086,7 +1086,7 @@
     "intestinal_enterococci": "4",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1097,7 +1097,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1108,7 +1108,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1119,7 +1119,7 @@
     "intestinal_enterococci": "5",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1130,7 +1130,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1141,7 +1141,7 @@
     "intestinal_enterococci": "27",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1152,7 +1152,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1163,7 +1163,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1174,7 +1174,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1185,7 +1185,7 @@
     "intestinal_enterococci": "6",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1196,7 +1196,7 @@
     "intestinal_enterococci": "2",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1207,7 +1207,7 @@
     "intestinal_enterococci": "9",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1218,7 +1218,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1229,7 +1229,7 @@
     "intestinal_enterococci": "152",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1240,7 +1240,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1251,7 +1251,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1262,7 +1262,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1273,7 +1273,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1284,7 +1284,7 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1295,7 +1295,7 @@
     "intestinal_enterococci": "1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   },
   {
     "beach_id": "IENWBWC010_0000_0200",
@@ -1306,6 +1306,6 @@
     "intestinal_enterococci": "<1",
     "county": "Donegal",
     "local_authority": "Donegal County Council",
-    "updated_at": "2026-04-26T14:39:35Z"
+    "updated_at": "2026-04-26T20:34:33Z"
   }
 ]
