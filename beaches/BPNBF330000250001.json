@@ -8,7 +8,18 @@
     "intestinal_enterococci": "42",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2025-08-25",
+    "e_coli": "6",
+    "intestinal_enterococci": "10",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -19,7 +30,7 @@
     "intestinal_enterococci": "31",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -30,7 +41,18 @@
     "intestinal_enterococci": "12",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2025-08-05",
+    "e_coli": "10",
+    "intestinal_enterococci": "74",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -41,7 +63,7 @@
     "intestinal_enterococci": "8",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -52,7 +74,7 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -63,7 +85,40 @@
     "intestinal_enterococci": "18",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2025-07-07",
+    "e_coli": "4",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2025-06-30",
+    "e_coli": "5",
+    "intestinal_enterococci": "9",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2025-06-23",
+    "e_coli": "41",
+    "intestinal_enterococci": "9",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -74,7 +129,7 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -85,7 +140,7 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -96,7 +151,40 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2025-05-22",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2024-09-02",
+    "e_coli": "1",
+    "intestinal_enterococci": "8",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2024-08-26",
+    "e_coli": "4",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -107,7 +195,7 @@
     "intestinal_enterococci": "12",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -118,7 +206,40 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2024-08-06",
+    "e_coli": "24",
+    "intestinal_enterococci": "30",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2024-07-29",
+    "e_coli": "28",
+    "intestinal_enterococci": "8",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2024-07-22",
+    "e_coli": "1",
+    "intestinal_enterococci": "2",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -129,7 +250,7 @@
     "intestinal_enterococci": "34",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -140,7 +261,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -151,7 +272,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -162,7 +283,18 @@
     "intestinal_enterococci": "17",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2024-06-17",
+    "e_coli": "5",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -173,7 +305,29 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2024-06-04",
+    "e_coli": "10",
+    "intestinal_enterococci": "24",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2024-05-22",
+    "e_coli": "20",
+    "intestinal_enterococci": "72",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -184,7 +338,7 @@
     "intestinal_enterococci": "16",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -195,7 +349,18 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2023-08-21",
+    "e_coli": "4",
+    "intestinal_enterococci": "24",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -206,7 +371,29 @@
     "intestinal_enterococci": "12",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2023-08-08",
+    "e_coli": "40",
+    "intestinal_enterococci": "46",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2023-07-31",
+    "e_coli": "13",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -217,7 +404,7 @@
     "intestinal_enterococci": "9",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -228,7 +415,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -239,7 +426,7 @@
     "intestinal_enterococci": "18",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -250,7 +437,7 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -261,7 +448,29 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2023-06-19",
+    "e_coli": "1",
+    "intestinal_enterococci": "2",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2023-06-12",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -272,7 +481,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -283,7 +492,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -294,7 +503,40 @@
     "intestinal_enterococci": "76",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2022-08-29",
+    "e_coli": "8",
+    "intestinal_enterococci": "3",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2022-08-25",
+    "e_coli": "6",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Sufficient",
+    "result_date": "2022-08-22",
+    "e_coli": "580",
+    "intestinal_enterococci": "28",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -305,7 +547,40 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Poor",
+    "result_date": "2022-08-15",
+    "e_coli": "2800",
+    "intestinal_enterococci": "160",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2022-08-11",
+    "e_coli": "6",
+    "intestinal_enterococci": "24",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Poor",
+    "result_date": "2022-08-08",
+    "e_coli": "280",
+    "intestinal_enterococci": "350",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -316,7 +591,7 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -327,7 +602,18 @@
     "intestinal_enterococci": "11",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2022-07-18",
+    "e_coli": "19",
+    "intestinal_enterococci": "18",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -338,7 +624,7 @@
     "intestinal_enterococci": "28",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -349,7 +635,29 @@
     "intestinal_enterococci": "300",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2022-07-04",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
+  },
+  {
+    "beach_id": "BPNBF330000250001",
+    "name": "Kilmore Quay Small Beach",
+    "status": "Excellent",
+    "result_date": "2022-06-27",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -360,7 +668,7 @@
     "intestinal_enterococci": "9",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -371,7 +679,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -382,7 +690,7 @@
     "intestinal_enterococci": "57",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -393,7 +701,7 @@
     "intestinal_enterococci": "27",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -404,7 +712,7 @@
     "intestinal_enterococci": "8",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -415,7 +723,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -426,7 +734,7 @@
     "intestinal_enterococci": "14",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -437,7 +745,7 @@
     "intestinal_enterococci": "17",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -448,7 +756,7 @@
     "intestinal_enterococci": "6",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -459,7 +767,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -470,7 +778,7 @@
     "intestinal_enterococci": "4",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -481,7 +789,7 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -492,7 +800,7 @@
     "intestinal_enterococci": "15",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -503,7 +811,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -514,7 +822,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -525,7 +833,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -536,7 +844,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -547,7 +855,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -558,7 +866,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -569,7 +877,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -580,7 +888,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -591,7 +899,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -602,7 +910,7 @@
     "intestinal_enterococci": "14",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -613,7 +921,7 @@
     "intestinal_enterococci": "24",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -624,7 +932,7 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -635,7 +943,7 @@
     "intestinal_enterococci": "8",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -646,7 +954,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -657,7 +965,7 @@
     "intestinal_enterococci": "15",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -668,7 +976,7 @@
     "intestinal_enterococci": "8",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -679,7 +987,7 @@
     "intestinal_enterococci": "92",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -690,7 +998,7 @@
     "intestinal_enterococci": "16",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -701,7 +1009,7 @@
     "intestinal_enterococci": "8",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -712,7 +1020,7 @@
     "intestinal_enterococci": "4",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -723,7 +1031,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -734,7 +1042,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -745,7 +1053,7 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -756,7 +1064,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -767,7 +1075,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -778,7 +1086,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -789,7 +1097,7 @@
     "intestinal_enterococci": "13",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -800,7 +1108,7 @@
     "intestinal_enterococci": "11",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -811,7 +1119,7 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -822,7 +1130,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -833,7 +1141,7 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -844,7 +1152,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -855,7 +1163,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -866,7 +1174,7 @@
     "intestinal_enterococci": "17",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -877,7 +1185,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -888,7 +1196,7 @@
     "intestinal_enterococci": "8",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -899,7 +1207,7 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -910,7 +1218,7 @@
     "intestinal_enterococci": "6",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -921,7 +1229,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -932,7 +1240,7 @@
     "intestinal_enterococci": "90",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -943,7 +1251,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -954,7 +1262,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -965,7 +1273,7 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -976,7 +1284,7 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -987,7 +1295,7 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -998,7 +1306,7 @@
     "intestinal_enterococci": "22",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1009,7 +1317,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1020,7 +1328,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1031,7 +1339,7 @@
     "intestinal_enterococci": "26",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1042,7 +1350,7 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1053,7 +1361,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1064,7 +1372,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1075,7 +1383,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1086,7 +1394,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1097,7 +1405,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1108,7 +1416,7 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1119,7 +1427,7 @@
     "intestinal_enterococci": "6",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1130,7 +1438,7 @@
     "intestinal_enterococci": "34",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1141,7 +1449,7 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1152,7 +1460,7 @@
     "intestinal_enterococci": "23",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1163,7 +1471,7 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1174,7 +1482,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1185,7 +1493,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1196,7 +1504,7 @@
     "intestinal_enterococci": "4",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1207,7 +1515,7 @@
     "intestinal_enterococci": "12",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1218,7 +1526,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1229,7 +1537,7 @@
     "intestinal_enterococci": "31",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1240,7 +1548,7 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1251,7 +1559,7 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1262,7 +1570,7 @@
     "intestinal_enterococci": "4",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1273,7 +1581,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1284,7 +1592,7 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1295,7 +1603,7 @@
     "intestinal_enterococci": "6",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1306,7 +1614,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1317,7 +1625,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1328,7 +1636,7 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1339,7 +1647,7 @@
     "intestinal_enterococci": "4",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1350,7 +1658,7 @@
     "intestinal_enterococci": "6",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1361,7 +1669,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1372,7 +1680,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1383,7 +1691,7 @@
     "intestinal_enterococci": "13",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1394,7 +1702,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   },
   {
     "beach_id": "BPNBF330000250001",
@@ -1405,6 +1713,6 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-04-26T20:34:34Z"
+    "updated_at": "2026-04-27T10:11:50Z"
   }
 ]
