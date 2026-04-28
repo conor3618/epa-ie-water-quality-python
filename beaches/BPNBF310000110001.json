@@ -8,7 +8,40 @@
     "intestinal_enterococci": "2",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
+  },
+  {
+    "beach_id": "BPNBF310000110001",
+    "name": "Ballyquin",
+    "status": "Excellent",
+    "result_date": "2025-08-21",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-04-28T10:09:56Z"
+  },
+  {
+    "beach_id": "BPNBF310000110001",
+    "name": "Ballyquin",
+    "status": "Excellent",
+    "result_date": "2025-07-07",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-04-28T10:09:56Z"
+  },
+  {
+    "beach_id": "BPNBF310000110001",
+    "name": "Ballyquin",
+    "status": "Excellent",
+    "result_date": "2025-06-09",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -19,7 +52,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -30,7 +63,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -41,7 +74,7 @@
     "intestinal_enterococci": "10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -52,7 +85,18 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
+  },
+  {
+    "beach_id": "BPNBF310000110001",
+    "name": "Ballyquin",
+    "status": "Excellent",
+    "result_date": "2024-06-04",
+    "e_coli": "<10",
+    "intestinal_enterococci": "25",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -63,7 +107,7 @@
     "intestinal_enterococci": "10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -74,7 +118,7 @@
     "intestinal_enterococci": "10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -85,7 +129,7 @@
     "intestinal_enterococci": "20",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -96,7 +140,18 @@
     "intestinal_enterococci": "2",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
+  },
+  {
+    "beach_id": "BPNBF310000110001",
+    "name": "Ballyquin",
+    "status": "Excellent",
+    "result_date": "2023-06-12",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<10",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -107,7 +162,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -118,7 +173,7 @@
     "intestinal_enterococci": "41",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -129,7 +184,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -140,7 +195,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -151,7 +206,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -162,7 +217,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -173,7 +228,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -184,7 +239,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -195,7 +250,7 @@
     "intestinal_enterococci": "63",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -206,7 +261,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -217,7 +272,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -228,7 +283,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -239,7 +294,7 @@
     "intestinal_enterococci": "10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -250,7 +305,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -261,7 +316,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -272,7 +327,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -283,7 +338,7 @@
     "intestinal_enterococci": "72",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -294,7 +349,7 @@
     "intestinal_enterococci": "17",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -305,7 +360,7 @@
     "intestinal_enterococci": "27",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -316,7 +371,7 @@
     "intestinal_enterococci": "9",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -327,7 +382,7 @@
     "intestinal_enterococci": "1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -338,7 +393,7 @@
     "intestinal_enterococci": "2",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -349,7 +404,7 @@
     "intestinal_enterococci": "1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -360,7 +415,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -371,7 +426,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -382,7 +437,7 @@
     "intestinal_enterococci": "13",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -393,7 +448,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -404,7 +459,7 @@
     "intestinal_enterococci": "9",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -415,7 +470,7 @@
     "intestinal_enterococci": "5",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -426,7 +481,7 @@
     "intestinal_enterococci": "1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -437,7 +492,7 @@
     "intestinal_enterococci": "25",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -448,7 +503,7 @@
     "intestinal_enterococci": "4",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -459,7 +514,7 @@
     "intestinal_enterococci": "1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -470,7 +525,7 @@
     "intestinal_enterococci": "2",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -481,7 +536,7 @@
     "intestinal_enterococci": "2",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -492,7 +547,7 @@
     "intestinal_enterococci": "3",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -503,7 +558,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -514,7 +569,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -525,7 +580,7 @@
     "intestinal_enterococci": "5",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -536,7 +591,7 @@
     "intestinal_enterococci": "1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -547,7 +602,7 @@
     "intestinal_enterococci": "31",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -558,7 +613,7 @@
     "intestinal_enterococci": "11",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -569,7 +624,7 @@
     "intestinal_enterococci": "2",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   },
   {
     "beach_id": "BPNBF310000110001",
@@ -580,6 +635,6 @@
     "intestinal_enterococci": "1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-04-27T20:57:34Z"
+    "updated_at": "2026-04-28T10:09:56Z"
   }
 ]
