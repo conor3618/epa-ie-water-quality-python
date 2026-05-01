@@ -8,18 +8,7 @@
     "intestinal_enterococci": "30",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
-  },
-  {
-    "beach_id": "IEEABWC070_0000_0100",
-    "name": "Sutton, Burrow Beach",
-    "status": "Excellent",
-    "result_date": "2025-09-02",
-    "e_coli": "20",
-    "intestinal_enterococci": "5",
-    "county": "Dublin",
-    "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -30,7 +19,7 @@
     "intestinal_enterococci": "21",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -41,7 +30,7 @@
     "intestinal_enterococci": "21",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -52,18 +41,7 @@
     "intestinal_enterococci": "64",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
-  },
-  {
-    "beach_id": "IEEABWC070_0000_0100",
-    "name": "Sutton, Burrow Beach",
-    "status": "Excellent",
-    "result_date": "2025-07-08",
-    "e_coli": "10",
-    "intestinal_enterococci": "8",
-    "county": "Dublin",
-    "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -74,7 +52,7 @@
     "intestinal_enterococci": "10",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -85,29 +63,7 @@
     "intestinal_enterococci": "1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
-  },
-  {
-    "beach_id": "IEEABWC070_0000_0100",
-    "name": "Sutton, Burrow Beach",
-    "status": "Excellent",
-    "result_date": "2025-05-27",
-    "e_coli": "52",
-    "intestinal_enterococci": "17",
-    "county": "Dublin",
-    "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
-  },
-  {
-    "beach_id": "IEEABWC070_0000_0100",
-    "name": "Sutton, Burrow Beach",
-    "status": "Excellent",
-    "result_date": "2024-09-11",
-    "e_coli": "10",
-    "intestinal_enterococci": "7",
-    "county": "Dublin",
-    "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -118,7 +74,7 @@
     "intestinal_enterococci": "7",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -129,7 +85,7 @@
     "intestinal_enterococci": "11",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -140,7 +96,7 @@
     "intestinal_enterococci": "10",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -151,7 +107,7 @@
     "intestinal_enterococci": "1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -162,7 +118,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -173,7 +129,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -184,7 +140,7 @@
     "intestinal_enterococci": "12",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -195,7 +151,7 @@
     "intestinal_enterococci": "39",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -206,7 +162,7 @@
     "intestinal_enterococci": "29",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -217,7 +173,7 @@
     "intestinal_enterococci": "30",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -228,7 +184,7 @@
     "intestinal_enterococci": "34",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -239,7 +195,7 @@
     "intestinal_enterococci": "9",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -250,7 +206,7 @@
     "intestinal_enterococci": "93",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -261,7 +217,7 @@
     "intestinal_enterococci": "44",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -272,7 +228,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -283,7 +239,7 @@
     "intestinal_enterococci": "3",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -294,7 +250,7 @@
     "intestinal_enterococci": "6",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -305,7 +261,7 @@
     "intestinal_enterococci": "<1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -316,7 +272,7 @@
     "intestinal_enterococci": "103",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -327,7 +283,7 @@
     "intestinal_enterococci": "10",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -338,7 +294,7 @@
     "intestinal_enterococci": "21",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -349,7 +305,7 @@
     "intestinal_enterococci": "66",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -360,7 +316,7 @@
     "intestinal_enterococci": "9",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -371,7 +327,7 @@
     "intestinal_enterococci": "<1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -382,18 +338,7 @@
     "intestinal_enterococci": "4",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
-  },
-  {
-    "beach_id": "IEEABWC070_0000_0100",
-    "name": "Sutton, Burrow Beach",
-    "status": "Excellent",
-    "result_date": "2022-06-07",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Dublin",
-    "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -404,7 +349,7 @@
     "intestinal_enterococci": "2",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -415,18 +360,7 @@
     "intestinal_enterococci": "7",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
-  },
-  {
-    "beach_id": "IEEABWC070_0000_0100",
-    "name": "Sutton, Burrow Beach",
-    "status": "Excellent",
-    "result_date": "2021-08-31",
-    "e_coli": "243",
-    "intestinal_enterococci": "52",
-    "county": "Dublin",
-    "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -437,7 +371,7 @@
     "intestinal_enterococci": "14",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -448,7 +382,7 @@
     "intestinal_enterococci": "2",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -459,7 +393,7 @@
     "intestinal_enterococci": "570",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -470,18 +404,7 @@
     "intestinal_enterococci": "3",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
-  },
-  {
-    "beach_id": "IEEABWC070_0000_0100",
-    "name": "Sutton, Burrow Beach",
-    "status": "Excellent",
-    "result_date": "2021-06-21",
-    "e_coli": "<10",
-    "intestinal_enterococci": "20",
-    "county": "Dublin",
-    "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -492,7 +415,7 @@
     "intestinal_enterococci": "19",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -503,7 +426,7 @@
     "intestinal_enterococci": "10",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -514,7 +437,7 @@
     "intestinal_enterococci": "47",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -525,7 +448,7 @@
     "intestinal_enterococci": "115",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -536,7 +459,7 @@
     "intestinal_enterococci": "57",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -547,7 +470,7 @@
     "intestinal_enterococci": "16",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -558,7 +481,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -569,7 +492,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -580,7 +503,7 @@
     "intestinal_enterococci": "1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -591,7 +514,7 @@
     "intestinal_enterococci": "4",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -602,7 +525,7 @@
     "intestinal_enterococci": "2",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -613,7 +536,7 @@
     "intestinal_enterococci": "25",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -624,7 +547,7 @@
     "intestinal_enterococci": "10",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -635,7 +558,7 @@
     "intestinal_enterococci": "27",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -646,7 +569,7 @@
     "intestinal_enterococci": "15",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -657,7 +580,7 @@
     "intestinal_enterococci": "15",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -668,7 +591,7 @@
     "intestinal_enterococci": "9",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -679,7 +602,7 @@
     "intestinal_enterococci": "137",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -690,7 +613,7 @@
     "intestinal_enterococci": "10",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -701,7 +624,7 @@
     "intestinal_enterococci": "14",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -712,7 +635,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -723,7 +646,7 @@
     "intestinal_enterococci": "3",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -734,7 +657,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -745,7 +668,7 @@
     "intestinal_enterococci": "6",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -756,7 +679,7 @@
     "intestinal_enterococci": "4",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -767,7 +690,7 @@
     "intestinal_enterococci": "1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -778,7 +701,7 @@
     "intestinal_enterococci": "3",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -789,7 +712,7 @@
     "intestinal_enterococci": "1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -800,7 +723,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -811,7 +734,7 @@
     "intestinal_enterococci": "15",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -822,7 +745,7 @@
     "intestinal_enterococci": "21",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -833,7 +756,7 @@
     "intestinal_enterococci": "11",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -844,7 +767,7 @@
     "intestinal_enterococci": "4",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -855,7 +778,7 @@
     "intestinal_enterococci": "3",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -866,7 +789,7 @@
     "intestinal_enterococci": "2",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -877,7 +800,7 @@
     "intestinal_enterococci": "2",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -888,7 +811,7 @@
     "intestinal_enterococci": "2",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -899,7 +822,7 @@
     "intestinal_enterococci": "14",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -910,7 +833,7 @@
     "intestinal_enterococci": "10",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -921,7 +844,7 @@
     "intestinal_enterococci": "2",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -932,7 +855,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -943,7 +866,7 @@
     "intestinal_enterococci": "7",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -954,7 +877,7 @@
     "intestinal_enterococci": "1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -965,7 +888,7 @@
     "intestinal_enterococci": "4",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -976,7 +899,7 @@
     "intestinal_enterococci": "4",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -987,7 +910,7 @@
     "intestinal_enterococci": "11",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -998,7 +921,7 @@
     "intestinal_enterococci": "1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1009,7 +932,7 @@
     "intestinal_enterococci": "<1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1020,7 +943,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1031,7 +954,7 @@
     "intestinal_enterococci": "20",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1042,7 +965,7 @@
     "intestinal_enterococci": "7",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1053,7 +976,7 @@
     "intestinal_enterococci": "13",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1064,7 +987,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1075,7 +998,7 @@
     "intestinal_enterococci": "<1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1086,7 +1009,7 @@
     "intestinal_enterococci": "<1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1097,7 +1020,7 @@
     "intestinal_enterococci": "67",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1108,7 +1031,7 @@
     "intestinal_enterococci": "6",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1119,7 +1042,7 @@
     "intestinal_enterococci": "8",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1130,7 +1053,7 @@
     "intestinal_enterococci": "20",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1141,7 +1064,7 @@
     "intestinal_enterococci": "<1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1152,7 +1075,7 @@
     "intestinal_enterococci": "7",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1163,7 +1086,7 @@
     "intestinal_enterococci": "1",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1174,7 +1097,7 @@
     "intestinal_enterococci": "2",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1185,7 +1108,7 @@
     "intestinal_enterococci": "5",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1196,7 +1119,7 @@
     "intestinal_enterococci": "2",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1207,7 +1130,7 @@
     "intestinal_enterococci": "40",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   },
   {
     "beach_id": "IEEABWC070_0000_0100",
@@ -1218,6 +1141,6 @@
     "intestinal_enterococci": "6",
     "county": "Dublin",
     "local_authority": "Fingal County Council",
-    "updated_at": "2026-05-01T14:51:23Z"
+    "updated_at": "2026-05-01T20:45:28Z"
   }
 ]
