@@ -8,7 +8,7 @@
     "intestinal_enterococci": "12",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
+    "updated_at": "2026-05-22T16:21:08Z"
   },
   {
     "beach_id": "BPNBF240000030001",
@@ -19,7 +19,7 @@
     "intestinal_enterococci": "230",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
+    "updated_at": "2026-05-22T16:21:08Z"
   },
   {
     "beach_id": "BPNBF240000030001",
@@ -30,7 +30,7 @@
     "intestinal_enterococci": "260",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
+    "updated_at": "2026-05-22T16:21:08Z"
   },
   {
     "beach_id": "BPNBF240000030001",
@@ -41,84 +41,7 @@
     "intestinal_enterococci": ">100",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
-  },
-  {
-    "beach_id": "BPNBF240000030001",
-    "name": "Lough Muckno Bathing Area",
-    "status": "Poor",
-    "result_date": "2025-07-07",
-    "e_coli": "380",
-    "intestinal_enterococci": "290",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
-  },
-  {
-    "beach_id": "BPNBF240000030001",
-    "name": "Lough Muckno Bathing Area",
-    "status": "Poor",
-    "result_date": "2025-06-16",
-    "e_coli": "1450",
-    "intestinal_enterococci": ">1000",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
-  },
-  {
-    "beach_id": "BPNBF240000030001",
-    "name": "Lough Muckno Bathing Area",
-    "status": "Poor",
-    "result_date": "2024-09-12",
-    "e_coli": "320",
-    "intestinal_enterococci": "270",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
-  },
-  {
-    "beach_id": "BPNBF240000030001",
-    "name": "Lough Muckno Bathing Area",
-    "status": "Sufficient",
-    "result_date": "2024-08-13",
-    "e_coli": "250",
-    "intestinal_enterococci": "230",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
-  },
-  {
-    "beach_id": "BPNBF240000030001",
-    "name": "Lough Muckno Bathing Area",
-    "status": "Excellent",
-    "result_date": "2024-07-09",
-    "e_coli": "180",
-    "intestinal_enterococci": "100",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
-  },
-  {
-    "beach_id": "BPNBF240000030001",
-    "name": "Lough Muckno Bathing Area",
-    "status": "Excellent",
-    "result_date": "2024-06-27",
-    "e_coli": "90",
-    "intestinal_enterococci": "31",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
-  },
-  {
-    "beach_id": "BPNBF240000030001",
-    "name": "Lough Muckno Bathing Area",
-    "status": "Excellent",
-    "result_date": "2023-09-07",
-    "e_coli": "60",
-    "intestinal_enterococci": "15",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
+    "updated_at": "2026-05-22T16:21:08Z"
   },
   {
     "beach_id": "BPNBF240000030001",
@@ -129,29 +52,7 @@
     "intestinal_enterococci": "74",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
-  },
-  {
-    "beach_id": "BPNBF240000030001",
-    "name": "Lough Muckno Bathing Area",
-    "status": "Poor",
-    "result_date": "2023-08-10",
-    "e_coli": "1180",
-    "intestinal_enterococci": "460",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
-  },
-  {
-    "beach_id": "BPNBF240000030001",
-    "name": "Lough Muckno Bathing Area",
-    "status": "Sufficient",
-    "result_date": "2023-07-11",
-    "e_coli": "780",
-    "intestinal_enterococci": "113",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
+    "updated_at": "2026-05-22T16:21:08Z"
   },
   {
     "beach_id": "BPNBF240000030001",
@@ -162,7 +63,7 @@
     "intestinal_enterococci": "100",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
+    "updated_at": "2026-05-22T16:21:08Z"
   },
   {
     "beach_id": "BPNBF240000030001",
@@ -173,18 +74,7 @@
     "intestinal_enterococci": "96",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
-  },
-  {
-    "beach_id": "BPNBF240000030001",
-    "name": "Lough Muckno Bathing Area",
-    "status": "Sufficient",
-    "result_date": "2022-09-15",
-    "e_coli": "560",
-    "intestinal_enterococci": "47",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
+    "updated_at": "2026-05-22T16:21:08Z"
   },
   {
     "beach_id": "BPNBF240000030001",
@@ -195,18 +85,7 @@
     "intestinal_enterococci": "34",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
-  },
-  {
-    "beach_id": "BPNBF240000030001",
-    "name": "Lough Muckno Bathing Area",
-    "status": "Poor",
-    "result_date": "2022-08-23",
-    "e_coli": ">2010",
-    "intestinal_enterococci": "730",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
+    "updated_at": "2026-05-22T16:21:08Z"
   },
   {
     "beach_id": "BPNBF240000030001",
@@ -217,7 +96,7 @@
     "intestinal_enterococci": "710",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
+    "updated_at": "2026-05-22T16:21:08Z"
   },
   {
     "beach_id": "BPNBF240000030001",
@@ -228,17 +107,6 @@
     "intestinal_enterococci": "81",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
-  },
-  {
-    "beach_id": "BPNBF240000030001",
-    "name": "Lough Muckno Bathing Area",
-    "status": "Excellent",
-    "result_date": "2022-06-23",
-    "e_coli": "145",
-    "intestinal_enterococci": "6",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-22T10:46:32Z"
+    "updated_at": "2026-05-22T16:21:08Z"
   }
 ]
