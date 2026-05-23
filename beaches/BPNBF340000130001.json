@@ -8,29 +8,7 @@
     "intestinal_enterococci": "3",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
-  },
-  {
-    "beach_id": "BPNBF340000130001",
-    "name": "The Cove Arklow",
-    "status": "Excellent",
-    "result_date": "2025-08-25",
-    "e_coli": "<10",
-    "intestinal_enterococci": "6",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
-  },
-  {
-    "beach_id": "BPNBF340000130001",
-    "name": "The Cove Arklow",
-    "status": "Excellent",
-    "result_date": "2025-08-11",
-    "e_coli": "10",
-    "intestinal_enterococci": "2",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -41,7 +19,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -52,40 +30,7 @@
     "intestinal_enterococci": "1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
-  },
-  {
-    "beach_id": "BPNBF340000130001",
-    "name": "The Cove Arklow",
-    "status": "Excellent",
-    "result_date": "2025-07-07",
-    "e_coli": "<10",
-    "intestinal_enterococci": "3",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
-  },
-  {
-    "beach_id": "BPNBF340000130001",
-    "name": "The Cove Arklow",
-    "status": "Excellent",
-    "result_date": "2025-06-23",
-    "e_coli": "10",
-    "intestinal_enterococci": "<1",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
-  },
-  {
-    "beach_id": "BPNBF340000130001",
-    "name": "The Cove Arklow",
-    "status": "Excellent",
-    "result_date": "2025-06-16",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -96,7 +41,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -107,7 +52,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -118,7 +63,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -129,7 +74,7 @@
     "intestinal_enterococci": "1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -140,7 +85,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -151,7 +96,7 @@
     "intestinal_enterococci": "2",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -162,18 +107,7 @@
     "intestinal_enterococci": "3",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
-  },
-  {
-    "beach_id": "BPNBF340000130001",
-    "name": "The Cove Arklow",
-    "status": "Excellent",
-    "result_date": "2023-09-04",
-    "e_coli": "52",
-    "intestinal_enterococci": "8",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -184,7 +118,7 @@
     "intestinal_enterococci": "15",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -195,7 +129,7 @@
     "intestinal_enterococci": "1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -206,29 +140,7 @@
     "intestinal_enterococci": "15",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
-  },
-  {
-    "beach_id": "BPNBF340000130001",
-    "name": "The Cove Arklow",
-    "status": "Excellent",
-    "result_date": "2022-09-08",
-    "e_coli": "171",
-    "intestinal_enterococci": "22",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
-  },
-  {
-    "beach_id": "BPNBF340000130001",
-    "name": "The Cove Arklow",
-    "status": "Sufficient",
-    "result_date": "2022-09-05",
-    "e_coli": "727",
-    "intestinal_enterococci": "107",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -239,7 +151,7 @@
     "intestinal_enterococci": "9",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -250,29 +162,7 @@
     "intestinal_enterococci": "42",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
-  },
-  {
-    "beach_id": "BPNBF340000130001",
-    "name": "The Cove Arklow",
-    "status": "Excellent",
-    "result_date": "2022-08-08",
-    "e_coli": "20",
-    "intestinal_enterococci": "<1",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
-  },
-  {
-    "beach_id": "BPNBF340000130001",
-    "name": "The Cove Arklow",
-    "status": "Excellent",
-    "result_date": "2022-07-21",
-    "e_coli": "10",
-    "intestinal_enterococci": "1",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -283,7 +173,7 @@
     "intestinal_enterococci": "210",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -294,7 +184,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -305,7 +195,7 @@
     "intestinal_enterococci": "7",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -316,7 +206,7 @@
     "intestinal_enterococci": "13",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -327,7 +217,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -338,7 +228,7 @@
     "intestinal_enterococci": "12",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -349,7 +239,7 @@
     "intestinal_enterococci": "6",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -360,7 +250,7 @@
     "intestinal_enterococci": "56",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -371,7 +261,7 @@
     "intestinal_enterococci": "57",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -382,7 +272,7 @@
     "intestinal_enterococci": "2",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -393,7 +283,7 @@
     "intestinal_enterococci": "350",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -404,7 +294,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -415,7 +305,7 @@
     "intestinal_enterococci": "690",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -426,7 +316,7 @@
     "intestinal_enterococci": "5",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -437,7 +327,7 @@
     "intestinal_enterococci": "4",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -448,7 +338,7 @@
     "intestinal_enterococci": "7",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -459,7 +349,7 @@
     "intestinal_enterococci": "20",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -470,7 +360,7 @@
     "intestinal_enterococci": "58",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -481,7 +371,7 @@
     "intestinal_enterococci": "6",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -492,7 +382,7 @@
     "intestinal_enterococci": "9",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   },
   {
     "beach_id": "BPNBF340000130001",
@@ -503,6 +393,6 @@
     "intestinal_enterococci": "1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-05-23T14:57:45Z"
+    "updated_at": "2026-05-23T20:43:39Z"
   }
 ]
