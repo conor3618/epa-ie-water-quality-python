@@ -2,24 +2,24 @@
   {
     "beach_id": "BPNBF240000080001",
     "name": "Lough Major - the beach",
-    "status": "Excellent",
-    "result_date": "2025-09-22",
-    "e_coli": "100",
-    "intestinal_enterococci": "11",
+    "status": "Poor",
+    "result_date": "2025-09-15",
+    "e_coli": "2010",
+    "intestinal_enterococci": "660",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-24T14:59:26Z"
+    "updated_at": "2026-05-24T20:50:13Z"
   },
   {
     "beach_id": "BPNBF240000080001",
     "name": "Lough Major - the beach",
     "status": "Excellent",
-    "result_date": "2025-06-23",
+    "result_date": "2025-08-26",
     "e_coli": "<10",
-    "intestinal_enterococci": "59",
+    "intestinal_enterococci": "0",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-24T14:59:26Z"
+    "updated_at": "2026-05-24T20:50:13Z"
   },
   {
     "beach_id": "BPNBF240000080001",
@@ -30,29 +30,18 @@
     "intestinal_enterococci": "1",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-24T14:59:26Z"
+    "updated_at": "2026-05-24T20:50:13Z"
   },
   {
     "beach_id": "BPNBF240000080001",
     "name": "Lough Major - the beach",
     "status": "Excellent",
-    "result_date": "2024-07-09",
-    "e_coli": "<10",
-    "intestinal_enterococci": "60",
+    "result_date": "2023-09-07",
+    "e_coli": "10",
+    "intestinal_enterococci": "1",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-24T14:59:26Z"
-  },
-  {
-    "beach_id": "BPNBF240000080001",
-    "name": "Lough Major - the beach",
-    "status": "Excellent",
-    "result_date": "2024-06-04",
-    "e_coli": "60",
-    "intestinal_enterococci": "4",
-    "county": "Monaghan",
-    "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-24T14:59:26Z"
+    "updated_at": "2026-05-24T20:50:13Z"
   },
   {
     "beach_id": "BPNBF240000080001",
@@ -63,7 +52,7 @@
     "intestinal_enterococci": "21",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-24T14:59:26Z"
+    "updated_at": "2026-05-24T20:50:13Z"
   },
   {
     "beach_id": "BPNBF240000080001",
@@ -74,6 +63,6 @@
     "intestinal_enterococci": "6",
     "county": "Monaghan",
     "local_authority": "Monaghan County Council",
-    "updated_at": "2026-05-24T14:59:26Z"
+    "updated_at": "2026-05-24T20:50:13Z"
   }
 ]
