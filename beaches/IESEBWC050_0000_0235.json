@@ -3,22 +3,11 @@
     "beach_id": "IESEBWC050_0000_0235",
     "name": "Baginbun",
     "status": "Excellent",
-    "result_date": "2026-06-08",
+    "result_date": "2026-05-25",
     "e_coli": "10",
-    "intestinal_enterococci": "1",
+    "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-06-13T21:10:09Z"
-  },
-  {
-    "beach_id": "IESEBWC050_0000_0235",
-    "name": "Baginbun",
-    "status": "Excellent",
-    "result_date": "2026-06-02",
-    "e_coli": "10",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-06-13T21:10:09Z"
+    "updated_at": "2026-06-14T10:46:21Z"
   }
 ]
