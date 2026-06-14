@@ -3,56 +3,45 @@
     "beach_id": "IESHBWC060_0000_0050",
     "name": "Carrigaholt",
     "status": "Excellent",
-    "result_date": "2026-06-08",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<10",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
-  },
-  {
-    "beach_id": "IESHBWC060_0000_0050",
-    "name": "Carrigaholt",
-    "status": "Excellent",
-    "result_date": "2026-06-02",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<10",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
-  },
-  {
-    "beach_id": "IESHBWC060_0000_0050",
-    "name": "Carrigaholt",
-    "status": "Excellent",
     "result_date": "2025-09-01",
     "e_coli": "<10",
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
     "name": "Carrigaholt",
     "status": "Excellent",
-    "result_date": "2025-08-11",
-    "e_coli": "<10",
-    "intestinal_enterococci": "10",
+    "result_date": "2025-08-25",
+    "e_coli": "243",
+    "intestinal_enterococci": "40",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
     "name": "Carrigaholt",
     "status": "Excellent",
-    "result_date": "2025-07-14",
-    "e_coli": "75",
+    "result_date": "2025-07-21",
+    "e_coli": "10",
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2025-06-23",
+    "e_coli": "20",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -63,7 +52,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -74,18 +63,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
-  },
-  {
-    "beach_id": "IESHBWC060_0000_0050",
-    "name": "Carrigaholt",
-    "status": "Excellent",
-    "result_date": "2024-09-02",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<10",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -96,7 +74,29 @@
     "intestinal_enterococci": "10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2024-07-22",
+    "e_coli": "20",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2024-07-15",
+    "e_coli": "10",
+    "intestinal_enterococci": "10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -107,18 +107,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
-  },
-  {
-    "beach_id": "IESHBWC060_0000_0050",
-    "name": "Carrigaholt",
-    "status": "Excellent",
-    "result_date": "2024-06-24",
-    "e_coli": "20",
-    "intestinal_enterococci": "<10",
-    "county": "Clare",
-    "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -129,7 +118,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -140,7 +129,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -151,7 +140,29 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2023-08-21",
+    "e_coli": "<10",
+    "intestinal_enterococci": "10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2023-08-08",
+    "e_coli": "20",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -162,7 +173,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -173,7 +184,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -184,7 +195,29 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2023-06-19",
+    "e_coli": "10",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2023-06-12",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -195,7 +228,18 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2022-09-05",
+    "e_coli": "85",
+    "intestinal_enterococci": "10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -206,7 +250,18 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2022-08-16",
+    "e_coli": "20",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -217,7 +272,18 @@
     "intestinal_enterococci": "30",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2022-07-18",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -228,7 +294,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -239,7 +305,18 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2022-06-13",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -250,7 +327,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -261,7 +338,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -272,7 +349,18 @@
     "intestinal_enterococci": "50",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2021-08-30",
+    "e_coli": "10",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -283,7 +371,7 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -294,7 +382,7 @@
     "intestinal_enterococci": "20",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -305,7 +393,29 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2021-07-05",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2021-06-21",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -316,7 +426,18 @@
     "intestinal_enterococci": "10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2021-06-01",
+    "e_coli": "20",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -327,7 +448,40 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2020-09-01",
+    "e_coli": "10",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2020-08-24",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2020-08-10",
+    "e_coli": "31",
+    "intestinal_enterococci": "10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -338,7 +492,7 @@
     "intestinal_enterococci": "30",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -349,7 +503,18 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2020-07-06",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -360,7 +525,18 @@
     "intestinal_enterococci": "10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2020-06-15",
+    "e_coli": "10",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   },
   {
     "beach_id": "IESHBWC060_0000_0050",
@@ -371,6 +547,17 @@
     "intestinal_enterococci": "<10",
     "county": "Clare",
     "local_authority": "Clare County Council",
-    "updated_at": "2026-06-14T10:46:21Z"
+    "updated_at": "2026-06-14T15:46:44Z"
+  },
+  {
+    "beach_id": "IESHBWC060_0000_0050",
+    "name": "Carrigaholt",
+    "status": "Excellent",
+    "result_date": "2020-05-25",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<10",
+    "county": "Clare",
+    "local_authority": "Clare County Council",
+    "updated_at": "2026-06-14T15:46:44Z"
   }
 ]
