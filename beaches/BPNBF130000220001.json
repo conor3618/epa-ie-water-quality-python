@@ -3,23 +3,12 @@
     "beach_id": "BPNBF130000220001",
     "name": "Reenroe",
     "status": "Excellent",
-    "result_date": "2026-07-06",
-    "e_coli": "<10",
-    "intestinal_enterococci": "7",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Excellent",
     "result_date": "2026-06-22",
     "e_coli": "<10",
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -30,7 +19,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -41,18 +30,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Excellent",
-    "result_date": "2025-08-25",
-    "e_coli": "124",
-    "intestinal_enterococci": "63",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -63,7 +41,7 @@
     "intestinal_enterococci": "5",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -74,7 +52,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -85,7 +63,7 @@
     "intestinal_enterococci": "29",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -96,7 +74,7 @@
     "intestinal_enterococci": "2",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -107,62 +85,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Excellent",
-    "result_date": "2025-05-26",
-    "e_coli": "20",
-    "intestinal_enterococci": "2",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Excellent",
-    "result_date": "2023-08-28",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Excellent",
-    "result_date": "2023-08-14",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Excellent",
-    "result_date": "2023-07-24",
-    "e_coli": "<10",
-    "intestinal_enterococci": "6",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Excellent",
-    "result_date": "2023-07-17",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -173,7 +96,7 @@
     "intestinal_enterococci": "23",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -184,7 +107,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -195,7 +118,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -206,7 +129,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -217,7 +140,7 @@
     "intestinal_enterococci": "2",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -228,18 +151,7 @@
     "intestinal_enterococci": "21",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Excellent",
-    "result_date": "2022-07-25",
-    "e_coli": "<10",
-    "intestinal_enterococci": "2",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -250,29 +162,7 @@
     "intestinal_enterococci": "3",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Good",
-    "result_date": "2022-06-27",
-    "e_coli": "384",
-    "intestinal_enterococci": "29",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Excellent",
-    "result_date": "2022-06-13",
-    "e_coli": "<10",
-    "intestinal_enterococci": "3",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -283,7 +173,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -294,7 +184,7 @@
     "intestinal_enterococci": "42",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -305,7 +195,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -316,7 +206,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -327,7 +217,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -338,18 +228,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Excellent",
-    "result_date": "2021-06-14",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<10",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -360,18 +239,7 @@
     "intestinal_enterococci": "30",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Excellent",
-    "result_date": "2020-08-31",
-    "e_coli": "53",
-    "intestinal_enterococci": "2",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -382,7 +250,7 @@
     "intestinal_enterococci": "76",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -393,18 +261,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
-  },
-  {
-    "beach_id": "BPNBF130000220001",
-    "name": "Reenroe",
-    "status": "Excellent",
-    "result_date": "2020-07-13",
-    "e_coli": "75",
-    "intestinal_enterococci": "8",
-    "county": "Kerry",
-    "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -415,7 +272,7 @@
     "intestinal_enterococci": "4",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -426,7 +283,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -437,7 +294,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -448,7 +305,7 @@
     "intestinal_enterococci": "3",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -459,7 +316,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -470,7 +327,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -481,7 +338,7 @@
     "intestinal_enterococci": "1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -492,7 +349,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -503,7 +360,7 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   },
   {
     "beach_id": "BPNBF130000220001",
@@ -514,6 +371,6 @@
     "intestinal_enterococci": "<1",
     "county": "Kerry",
     "local_authority": "Kerry County Council",
-    "updated_at": "2026-07-18T09:19:12Z"
+    "updated_at": "2026-07-18T14:46:57Z"
   }
 ]
