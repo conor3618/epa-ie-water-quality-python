@@ -3,23 +3,12 @@
     "beach_id": "IESEBWC010_0000_0500",
     "name": "Ballymoney, North Beach",
     "status": "Excellent",
-    "result_date": "2026-07-13",
-    "e_coli": "10",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
     "result_date": "2026-07-06",
     "e_coli": "10",
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -30,7 +19,7 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -41,62 +30,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2026-06-15",
-    "e_coli": "10",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2026-06-08",
-    "e_coli": "10",
-    "intestinal_enterococci": "3",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2026-06-02",
-    "e_coli": "10",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2026-05-25",
-    "e_coli": "1",
-    "intestinal_enterococci": "3",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2025-09-01",
-    "e_coli": "2",
-    "intestinal_enterococci": "10",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -107,29 +41,7 @@
     "intestinal_enterococci": "546",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2025-08-21",
-    "e_coli": "1",
-    "intestinal_enterococci": "10",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2025-08-11",
-    "e_coli": "5",
-    "intestinal_enterococci": "10",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -140,40 +52,7 @@
     "intestinal_enterococci": "87",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2025-07-28",
-    "e_coli": "5",
-    "intestinal_enterococci": "10",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Poor",
-    "result_date": "2025-07-21",
-    "e_coli": "1600",
-    "intestinal_enterococci": "2005",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2025-07-14",
-    "e_coli": "41",
-    "intestinal_enterococci": "87",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -184,7 +63,7 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -195,29 +74,7 @@
     "intestinal_enterococci": "53",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2025-06-23",
-    "e_coli": "11",
-    "intestinal_enterococci": "10",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2025-06-16",
-    "e_coli": "6",
-    "intestinal_enterococci": "48",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -228,7 +85,7 @@
     "intestinal_enterococci": "6",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -239,7 +96,7 @@
     "intestinal_enterococci": "12",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -250,29 +107,7 @@
     "intestinal_enterococci": "20",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2024-09-02",
-    "e_coli": "10",
-    "intestinal_enterococci": "10",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2024-08-26",
-    "e_coli": "8",
-    "intestinal_enterococci": "4",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -283,29 +118,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2024-08-12",
-    "e_coli": "26",
-    "intestinal_enterococci": "7",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2024-08-06",
-    "e_coli": "17",
-    "intestinal_enterococci": "8",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -316,29 +129,7 @@
     "intestinal_enterococci": "25",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2024-07-15",
-    "e_coli": "88",
-    "intestinal_enterococci": "2",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2024-07-08",
-    "e_coli": "68",
-    "intestinal_enterococci": "37",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -349,18 +140,7 @@
     "intestinal_enterococci": "14",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2024-06-24",
-    "e_coli": "60",
-    "intestinal_enterococci": "5",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -371,7 +151,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -382,29 +162,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2024-06-04",
-    "e_coli": "90",
-    "intestinal_enterococci": "3",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2024-05-22",
-    "e_coli": "20",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -415,7 +173,7 @@
     "intestinal_enterococci": "29",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -426,40 +184,7 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2023-08-21",
-    "e_coli": "120",
-    "intestinal_enterococci": "20",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2023-08-14",
-    "e_coli": "23",
-    "intestinal_enterococci": "21",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2023-08-08",
-    "e_coli": "120",
-    "intestinal_enterococci": "11",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -470,7 +195,7 @@
     "intestinal_enterococci": "4",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -481,51 +206,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2023-07-17",
-    "e_coli": "17",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2023-07-10",
-    "e_coli": "230",
-    "intestinal_enterococci": "69",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2023-07-03",
-    "e_coli": "3",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2023-06-26",
-    "e_coli": "140",
-    "intestinal_enterococci": "22",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -536,7 +217,7 @@
     "intestinal_enterococci": "6",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -547,18 +228,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2023-06-06",
-    "e_coli": "8",
-    "intestinal_enterococci": "11",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -569,40 +239,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2022-09-05",
-    "e_coli": "200",
-    "intestinal_enterococci": "18",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2022-08-29",
-    "e_coli": "1",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2022-08-22",
-    "e_coli": "2",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -613,7 +250,7 @@
     "intestinal_enterococci": "200",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -624,7 +261,7 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -635,51 +272,7 @@
     "intestinal_enterococci": "21",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2022-07-25",
-    "e_coli": "20",
-    "intestinal_enterococci": "8",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2022-07-18",
-    "e_coli": "7",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2022-07-11",
-    "e_coli": "2",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2022-07-04",
-    "e_coli": "1",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -690,7 +283,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -701,29 +294,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2022-06-13",
-    "e_coli": "1",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Good",
-    "result_date": "2022-06-07",
-    "e_coli": "100",
-    "intestinal_enterococci": "120",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -734,7 +305,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -745,18 +316,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2021-08-23",
-    "e_coli": "11",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -767,7 +327,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -778,18 +338,7 @@
     "intestinal_enterococci": "140",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2021-08-03",
-    "e_coli": "1",
-    "intestinal_enterococci": "3",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -800,29 +349,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2021-07-19",
-    "e_coli": "11",
-    "intestinal_enterococci": "4",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2021-07-12",
-    "e_coli": "25",
-    "intestinal_enterococci": "5",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -833,7 +360,7 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -844,7 +371,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -855,7 +382,7 @@
     "intestinal_enterococci": "45",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -866,29 +393,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2021-06-08",
-    "e_coli": "9",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2021-06-01",
-    "e_coli": "2",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -899,29 +404,7 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2020-09-01",
-    "e_coli": "110",
-    "intestinal_enterococci": "7",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2020-08-24",
-    "e_coli": "21",
-    "intestinal_enterococci": "4",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -932,7 +415,7 @@
     "intestinal_enterococci": "1800",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -943,7 +426,7 @@
     "intestinal_enterococci": "4",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -954,7 +437,7 @@
     "intestinal_enterococci": "13",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -965,7 +448,7 @@
     "intestinal_enterococci": "48",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -976,7 +459,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -987,18 +470,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2020-07-06",
-    "e_coli": "39",
-    "intestinal_enterococci": "6",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1009,7 +481,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1020,7 +492,7 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1031,29 +503,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2020-06-08",
-    "e_coli": "1",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2020-06-02",
-    "e_coli": "1",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1064,7 +514,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1075,7 +525,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1086,7 +536,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1097,7 +547,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1108,7 +558,7 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1119,7 +569,7 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1130,7 +580,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1141,7 +591,7 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1152,7 +602,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1163,18 +613,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
-  },
-  {
-    "beach_id": "IESEBWC010_0000_0500",
-    "name": "Ballymoney, North Beach",
-    "status": "Excellent",
-    "result_date": "2019-07-01",
-    "e_coli": "1",
-    "intestinal_enterococci": "1",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1185,7 +624,7 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1196,7 +635,7 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1207,7 +646,7 @@
     "intestinal_enterococci": "4",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1218,7 +657,7 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1229,7 +668,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1240,7 +679,7 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1251,7 +690,7 @@
     "intestinal_enterococci": "110",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1262,7 +701,7 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1273,7 +712,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1284,7 +723,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1295,7 +734,7 @@
     "intestinal_enterococci": "36",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1306,7 +745,7 @@
     "intestinal_enterococci": "8",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1317,7 +756,7 @@
     "intestinal_enterococci": "21",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1328,7 +767,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1339,7 +778,7 @@
     "intestinal_enterococci": "14",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1350,7 +789,7 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1361,7 +800,7 @@
     "intestinal_enterococci": "160",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1372,7 +811,7 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1383,7 +822,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1394,7 +833,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1405,7 +844,7 @@
     "intestinal_enterococci": "36",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1416,7 +855,7 @@
     "intestinal_enterococci": "31",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1427,7 +866,7 @@
     "intestinal_enterococci": "120",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1438,7 +877,7 @@
     "intestinal_enterococci": "520",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1449,7 +888,7 @@
     "intestinal_enterococci": "20",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1460,7 +899,7 @@
     "intestinal_enterococci": "72",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1471,7 +910,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1482,7 +921,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1493,7 +932,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1504,7 +943,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1515,7 +954,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1526,7 +965,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1537,7 +976,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1548,7 +987,7 @@
     "intestinal_enterococci": "33",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1559,7 +998,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1570,7 +1009,7 @@
     "intestinal_enterococci": "220",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1581,7 +1020,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1592,7 +1031,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1603,7 +1042,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1614,7 +1053,7 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1625,7 +1064,7 @@
     "intestinal_enterococci": "28",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1636,7 +1075,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1647,7 +1086,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1658,7 +1097,7 @@
     "intestinal_enterococci": "11",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1669,7 +1108,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1680,7 +1119,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1691,7 +1130,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1702,7 +1141,7 @@
     "intestinal_enterococci": "29",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1713,7 +1152,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1724,7 +1163,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1735,7 +1174,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1746,7 +1185,7 @@
     "intestinal_enterococci": "6",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1757,7 +1196,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1768,7 +1207,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1779,7 +1218,7 @@
     "intestinal_enterococci": "13",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1790,7 +1229,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1801,7 +1240,7 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1812,7 +1251,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1823,7 +1262,7 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1834,7 +1273,7 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1845,7 +1284,7 @@
     "intestinal_enterococci": "36",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1856,7 +1295,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1867,7 +1306,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1878,7 +1317,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1889,7 +1328,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1900,7 +1339,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1911,7 +1350,7 @@
     "intestinal_enterococci": "71",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1922,7 +1361,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1933,7 +1372,7 @@
     "intestinal_enterococci": "11",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1944,7 +1383,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1955,7 +1394,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1966,7 +1405,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1977,7 +1416,7 @@
     "intestinal_enterococci": "18",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1988,7 +1427,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -1999,7 +1438,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -2010,7 +1449,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -2021,7 +1460,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -2032,7 +1471,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   },
   {
     "beach_id": "IESEBWC010_0000_0500",
@@ -2043,6 +1482,6 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-07-21T15:40:14Z"
+    "updated_at": "2026-07-21T21:01:49Z"
   }
 ]
