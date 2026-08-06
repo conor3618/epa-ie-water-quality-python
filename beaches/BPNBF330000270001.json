@@ -8,29 +8,29 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
     "name": "Rosslare Harbour",
     "status": "Excellent",
-    "result_date": "2026-07-13",
-    "e_coli": "10",
+    "result_date": "2026-07-20",
+    "e_coli": "20",
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
     "name": "Rosslare Harbour",
     "status": "Excellent",
-    "result_date": "2026-06-29",
-    "e_coli": "20",
+    "result_date": "2026-06-22",
+    "e_coli": "10",
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -41,7 +41,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -52,29 +52,7 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
-  },
-  {
-    "beach_id": "BPNBF330000270001",
-    "name": "Rosslare Harbour",
-    "status": "Excellent",
-    "result_date": "2025-08-25",
-    "e_coli": "5",
-    "intestinal_enterococci": "10",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
-  },
-  {
-    "beach_id": "BPNBF330000270001",
-    "name": "Rosslare Harbour",
-    "status": "Excellent",
-    "result_date": "2025-08-18",
-    "e_coli": "44",
-    "intestinal_enterococci": "10",
-    "county": "Wexford",
-    "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -85,7 +63,7 @@
     "intestinal_enterococci": "238",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -96,18 +74,18 @@
     "intestinal_enterococci": "3060",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
     "name": "Rosslare Harbour",
     "status": "Excellent",
-    "result_date": "2025-07-07",
+    "result_date": "2025-07-14",
     "e_coli": "1",
-    "intestinal_enterococci": "32",
+    "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -118,18 +96,18 @@
     "intestinal_enterococci": "6",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
     "name": "Rosslare Harbour",
     "status": "Excellent",
-    "result_date": "2025-06-09",
+    "result_date": "2025-06-16",
     "e_coli": "1",
-    "intestinal_enterococci": "2",
+    "intestinal_enterococci": "9",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -140,7 +118,18 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2025-05-22",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -151,7 +140,18 @@
     "intestinal_enterococci": "40",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2024-08-26",
+    "e_coli": "1",
+    "intestinal_enterococci": "2",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -162,7 +162,18 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2024-08-12",
+    "e_coli": "2",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -173,7 +184,29 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2024-07-29",
+    "e_coli": "2",
+    "intestinal_enterococci": "3",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2024-07-25",
+    "e_coli": "2",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -184,7 +217,7 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -195,7 +228,40 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2024-07-01",
+    "e_coli": "3",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2024-06-24",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2024-06-17",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -206,7 +272,18 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2024-06-04",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -217,7 +294,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -228,7 +305,18 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2023-08-28",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -239,7 +327,18 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2023-08-14",
+    "e_coli": "1",
+    "intestinal_enterococci": "12",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -250,7 +349,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -261,7 +360,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -272,7 +371,29 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2023-07-17",
+    "e_coli": "1",
+    "intestinal_enterococci": "2",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2023-07-10",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -283,7 +404,18 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2023-06-26",
+    "e_coli": "1",
+    "intestinal_enterococci": "2",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -294,7 +426,29 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2023-06-12",
+    "e_coli": "7",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2023-06-06",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -305,7 +459,40 @@
     "intestinal_enterococci": "7",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2022-08-29",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2022-08-22",
+    "e_coli": "2",
+    "intestinal_enterococci": "7",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2022-08-15",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -316,7 +503,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -327,7 +514,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -338,7 +525,40 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2022-07-18",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2022-07-11",
+    "e_coli": "26",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2022-07-04",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -349,7 +569,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -360,7 +580,7 @@
     "intestinal_enterococci": "12",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -371,7 +591,73 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2022-06-07",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2022-05-23",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2022-05-22",
+    "e_coli": "10",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2021-09-15",
+    "e_coli": "4",
+    "intestinal_enterococci": "5",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2021-09-13",
+    "e_coli": "13",
+    "intestinal_enterococci": "11",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2021-09-10",
+    "e_coli": "2",
+    "intestinal_enterococci": "6",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -382,7 +668,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -393,7 +679,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -404,7 +690,7 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -415,7 +701,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -426,7 +712,40 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2021-08-16",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2021-08-09",
+    "e_coli": "3",
+    "intestinal_enterococci": "2",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2021-08-03",
+    "e_coli": "1",
+    "intestinal_enterococci": "68",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   },
   {
     "beach_id": "BPNBF330000270001",
@@ -437,6 +756,17 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-08-05T21:02:49Z"
+    "updated_at": "2026-08-06T10:33:58Z"
+  },
+  {
+    "beach_id": "BPNBF330000270001",
+    "name": "Rosslare Harbour",
+    "status": "Excellent",
+    "result_date": "2021-07-19",
+    "e_coli": "1",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-08-06T10:33:58Z"
   }
 ]
