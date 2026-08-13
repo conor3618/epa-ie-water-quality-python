@@ -7,6 +7,7 @@ locally for each beach. Fast - fetches 10 pages at a time.
 Run:  python update_all_beaches.py
 Output: latest_beaches.json
         beaches/beach.json (one file per beach)
+        beaches_latest/beach.json (one file per beach with only latest reading)
 """
 
 import json
@@ -20,6 +21,7 @@ BASE_DIR        = os.path.dirname(os.path.abspath(__file__))
 INPUT_FILE      = os.path.join(BASE_DIR, "beaches.json")
 OUTPUT_FILE     = os.path.join(BASE_DIR, "latest_beaches.json")
 BEACHES_DIR     = os.path.join(BASE_DIR, "beaches")
+BEACHES_LATEST_DIR = os.path.join(BASE_DIR, "beaches_latest")
 
 URLS = [
     "https://data.epa.ie/bw/api/v1/Measurements/in-season",
@@ -90,8 +92,9 @@ def main():
 
     total = len(beaches)
 
-    # Create per-beach output directory if it doesn't exist
+    # Create per-beach output directories if they don't exist
     os.makedirs(BEACHES_DIR, exist_ok=True)
+    os.makedirs(BEACHES_LATEST_DIR, exist_ok=True)
 
     print("Downloading all measurements first...\n")
     all_measurements = fetch_all_measurements()
@@ -124,10 +127,15 @@ def main():
 
             results.append(beach_history[0])  # Add latest to summary
 
-            # --- Write individual beach JSON file ---
+            # --- Write individual beach JSON file (full history) ---
             beach_file = os.path.join(BEACHES_DIR, f"{beach_id}.json")
             with open(beach_file, "w", encoding="utf-8") as f:
                 json.dump(beach_history, f, indent=2, ensure_ascii=False)
+
+            # --- Write individual latest-only JSON file ---
+            latest_file = os.path.join(BEACHES_LATEST_DIR, f"{beach_id}.json")
+            with open(latest_file, "w", encoding="utf-8") as f:
+                json.dump(beach_history[0], f, indent=2, ensure_ascii=False)
 
             print(f"  ✓ {name}: {beach_history[0]['status']} ({beach_history[0]['result_date']}) [{len(beach_history)} records]")
         else:
@@ -142,6 +150,7 @@ def main():
     print(f"Done! {len(results)}/{total} beaches updated.")
     print(f"Saved to: {OUTPUT_FILE}")
     print(f"Per-beach files saved to: {BEACHES_DIR}/")
+    print(f"Per-beach latest files saved to: {BEACHES_LATEST_DIR}/")
 
     if failed:
         print(f"\nNo data found for {len(failed)} beaches:")
