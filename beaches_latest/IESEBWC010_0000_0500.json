@@ -2,10 +2,10 @@
   "beach_id": "IESEBWC010_0000_0500",
   "name": "Ballymoney, North Beach",
   "status": "Excellent",
-  "result_date": "2026-08-04",
-  "e_coli": "87",
-  "intestinal_enterococci": "73",
+  "result_date": "2026-08-10",
+  "e_coli": "10",
+  "intestinal_enterococci": "1",
   "county": "Wexford",
   "local_authority": "Wexford County Council",
-  "updated_at": "2026-08-14T09:02:58Z"
+  "updated_at": "2026-08-14T14:46:22Z"
 }

@@ -2,10 +2,10 @@
   "beach_id": "BPNBF310000160001",
   "name": "Guillamene",
   "status": "Excellent",
-  "result_date": "2026-07-20",
-  "e_coli": "173",
-  "intestinal_enterococci": "23",
+  "result_date": "2026-06-22",
+  "e_coli": "10",
+  "intestinal_enterococci": "5",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-08-14T09:02:59Z"
+  "updated_at": "2026-08-14T14:46:23Z"
 }
