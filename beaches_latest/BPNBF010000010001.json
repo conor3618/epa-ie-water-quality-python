@@ -2,10 +2,10 @@
   "beach_id": "BPNBF010000010001",
   "name": "River Barrow Clashganny",
   "status": "Excellent",
-  "result_date": "2025-08-22",
-  "e_coli": "46",
-  "intestinal_enterococci": "21",
+  "result_date": "2025-09-05",
+  "e_coli": ">100",
+  "intestinal_enterococci": "19",
   "county": "Carlow",
   "local_authority": "Carlow County Council",
-  "updated_at": "2026-08-15T14:16:30Z"
+  "updated_at": "2026-08-15T20:16:55Z"
 }

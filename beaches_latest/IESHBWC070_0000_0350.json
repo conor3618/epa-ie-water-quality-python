@@ -2,10 +2,10 @@
   "beach_id": "IESHBWC070_0000_0350",
   "name": "Seafield, Quilty",
   "status": "Excellent",
-  "result_date": "2026-07-20",
-  "e_coli": "10",
+  "result_date": "2026-08-10",
+  "e_coli": "<10",
   "intestinal_enterococci": "<10",
   "county": "Clare",
   "local_authority": "Clare County Council",
-  "updated_at": "2026-08-15T14:16:30Z"
+  "updated_at": "2026-08-15T20:16:55Z"
 }
