@@ -2,10 +2,10 @@
   "beach_id": "IENWBWC100_0000_0200",
   "name": "Drumnatinny",
   "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "134",
-  "intestinal_enterococci": "10",
+  "result_date": "2026-06-22",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<1",
   "county": "Donegal",
   "local_authority": "Donegal County Council",
-  "updated_at": "2026-08-15T08:21:25Z"
+  "updated_at": "2026-08-15T14:16:30Z"
 }

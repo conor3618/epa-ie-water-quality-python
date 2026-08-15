@@ -2,10 +2,10 @@
   "beach_id": "BPNBF330000140001",
   "name": "Old Bawn",
   "status": "Excellent",
-  "result_date": "2026-08-10",
+  "result_date": "2026-08-04",
   "e_coli": "10",
-  "intestinal_enterococci": "1",
+  "intestinal_enterococci": "3",
   "county": "Wexford",
   "local_authority": "Wexford County Council",
-  "updated_at": "2026-08-15T08:21:25Z"
+  "updated_at": "2026-08-15T14:16:30Z"
 }

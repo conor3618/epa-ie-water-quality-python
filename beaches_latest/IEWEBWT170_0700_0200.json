@@ -1,11 +1,11 @@
 {
   "beach_id": "IEWEBWT170_0700_0200",
   "name": "Ballyloughane Beach",
-  "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "<10",
-  "intestinal_enterococci": "8",
+  "status": "Poor",
+  "result_date": "2026-08-04",
+  "e_coli": "2489",
+  "intestinal_enterococci": "380",
   "county": "Galway",
   "local_authority": "Galway City Council",
-  "updated_at": "2026-08-15T08:21:25Z"
+  "updated_at": "2026-08-15T14:16:30Z"
 }
