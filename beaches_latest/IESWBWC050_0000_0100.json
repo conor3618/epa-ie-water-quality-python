@@ -2,10 +2,10 @@
   "beach_id": "IESWBWC050_0000_0100",
   "name": "Fountainstown",
   "status": "Excellent",
-  "result_date": "2026-07-27",
-  "e_coli": "20",
-  "intestinal_enterococci": "7",
+  "result_date": "2026-06-08",
+  "e_coli": "10",
+  "intestinal_enterococci": "4",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-08-16T14:17:26Z"
+  "updated_at": "2026-08-16T20:15:30Z"
 }

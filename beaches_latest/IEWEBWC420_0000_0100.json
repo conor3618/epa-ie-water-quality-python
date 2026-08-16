@@ -1,11 +1,11 @@
 {
   "beach_id": "IEWEBWC420_0000_0100",
   "name": "Enniscrone Beach",
-  "status": "Excellent",
-  "result_date": "2026-08-05",
-  "e_coli": "120",
-  "intestinal_enterococci": "24",
+  "status": "Sufficient",
+  "result_date": "2026-08-04",
+  "e_coli": "628",
+  "intestinal_enterococci": "213",
   "county": "Sligo",
   "local_authority": "Sligo County Council",
-  "updated_at": "2026-08-16T14:17:26Z"
+  "updated_at": "2026-08-16T20:15:30Z"
 }

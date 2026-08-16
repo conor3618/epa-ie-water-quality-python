@@ -1,11 +1,11 @@
 {
   "beach_id": "IEWEBWC340_0000_0200",
   "name": "Mulranny Beach",
-  "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "<10",
-  "intestinal_enterococci": "1",
+  "status": "Sufficient",
+  "result_date": "2026-07-16",
+  "e_coli": "530",
+  "intestinal_enterococci": "110",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-08-16T14:17:26Z"
+  "updated_at": "2026-08-16T20:15:30Z"
 }
