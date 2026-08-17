@@ -2,10 +2,10 @@
   "beach_id": "BPNBF240000050001",
   "name": "Greaghlone Lake",
   "status": "Excellent",
-  "result_date": "2026-06-02",
+  "result_date": "2026-07-13",
   "e_coli": "<10",
-  "intestinal_enterococci": "1",
+  "intestinal_enterococci": "<1",
   "county": "Monaghan",
   "local_authority": "Monaghan County Council",
-  "updated_at": "2026-08-16T20:15:30Z"
+  "updated_at": "2026-08-17T08:37:08Z"
 }

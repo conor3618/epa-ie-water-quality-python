@@ -2,10 +2,10 @@
   "beach_id": "BPNBF050000170001",
   "name": "Red Strand",
   "status": "Excellent",
-  "result_date": "2026-06-22",
-  "e_coli": "<10",
-  "intestinal_enterococci": "1",
+  "result_date": "2026-07-20",
+  "e_coli": "10",
+  "intestinal_enterococci": "7",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-08-16T20:15:30Z"
+  "updated_at": "2026-08-17T08:37:08Z"
 }

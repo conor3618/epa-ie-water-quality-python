@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC100_0000_0100",
   "name": "Silver Strand",
   "status": "Excellent",
-  "result_date": "2026-07-06",
-  "e_coli": "31",
-  "intestinal_enterococci": "1",
+  "result_date": "2026-08-10",
+  "e_coli": "73",
+  "intestinal_enterococci": "11",
   "county": "Wicklow",
   "local_authority": "Wicklow County Council",
-  "updated_at": "2026-08-16T20:15:30Z"
+  "updated_at": "2026-08-17T08:37:08Z"
 }

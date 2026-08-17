@@ -2,10 +2,10 @@
   "beach_id": "IENWBWC190_0000_0400",
   "name": "Killahoey",
   "status": "Excellent",
-  "result_date": "2026-08-04",
-  "e_coli": "10",
-  "intestinal_enterococci": "<1",
+  "result_date": "2026-08-10",
+  "e_coli": "<10",
+  "intestinal_enterococci": "3",
   "county": "Donegal",
   "local_authority": "Donegal County Council",
-  "updated_at": "2026-08-16T20:15:30Z"
+  "updated_at": "2026-08-17T08:37:08Z"
 }
