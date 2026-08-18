@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC090_0000_0300",
   "name": "Sandymount Strand",
   "status": "Excellent",
-  "result_date": "2026-08-04",
-  "e_coli": "10",
-  "intestinal_enterococci": "<1",
+  "result_date": "2026-08-10",
+  "e_coli": "52",
+  "intestinal_enterococci": "2",
   "county": "Dublin",
   "local_authority": "Dublin City Council",
-  "updated_at": "2026-08-18T08:29:44Z"
+  "updated_at": "2026-08-18T14:27:59Z"
 }
