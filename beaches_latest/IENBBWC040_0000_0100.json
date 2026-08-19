@@ -2,10 +2,10 @@
   "beach_id": "IENBBWC040_0000_0100",
   "name": "Shelling Hill/Templetown",
   "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "<10",
-  "intestinal_enterococci": "<1",
+  "result_date": "2026-08-11",
+  "e_coli": "10",
+  "intestinal_enterococci": "12",
   "county": "Louth",
   "local_authority": "Louth County Council",
-  "updated_at": "2026-08-18T20:17:19Z"
+  "updated_at": "2026-08-19T08:31:02Z"
 }
