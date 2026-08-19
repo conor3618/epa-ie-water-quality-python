@@ -2,10 +2,10 @@
   "beach_id": "IESWBWC110_0000_0100",
   "name": "Warren, Cregane Strand",
   "status": "Excellent",
-  "result_date": "2026-07-27",
-  "e_coli": "146",
-  "intestinal_enterococci": "16",
+  "result_date": "2026-08-17",
+  "e_coli": "10",
+  "intestinal_enterococci": "1",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-08-19T14:27:42Z"
+  "updated_at": "2026-08-19T20:20:27Z"
 }

@@ -2,10 +2,10 @@
   "beach_id": "BPNBF310000180001",
   "name": "Newtown Cove",
   "status": "Excellent",
-  "result_date": "2026-07-20",
-  "e_coli": "<10",
-  "intestinal_enterococci": "4",
+  "result_date": "2026-05-25",
+  "e_coli": "145",
+  "intestinal_enterococci": "23",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-08-19T14:27:42Z"
+  "updated_at": "2026-08-19T20:20:27Z"
 }

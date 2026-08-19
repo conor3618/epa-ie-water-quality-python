@@ -2,10 +2,10 @@
   "beach_id": "IESWBWC020_0000_0300",
   "name": "Youghal Front Strand Beach",
   "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "<10",
-  "intestinal_enterococci": "2",
+  "result_date": "2026-07-13",
+  "e_coli": "20",
+  "intestinal_enterococci": "<1",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-08-19T14:27:42Z"
+  "updated_at": "2026-08-19T20:20:27Z"
 }

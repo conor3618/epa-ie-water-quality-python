@@ -2,10 +2,10 @@
   "beach_id": "BPNBF130000170001",
   "name": "Derrymore",
   "status": "Excellent",
-  "result_date": "2026-08-10",
+  "result_date": "2026-06-29",
   "e_coli": "<10",
-  "intestinal_enterococci": "<1",
+  "intestinal_enterococci": "1",
   "county": "Kerry",
   "local_authority": "Kerry County Council",
-  "updated_at": "2026-08-19T14:27:42Z"
+  "updated_at": "2026-08-19T20:20:27Z"
 }
