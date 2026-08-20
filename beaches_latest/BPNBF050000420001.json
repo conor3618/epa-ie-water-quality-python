@@ -2,10 +2,10 @@
   "beach_id": "BPNBF050000420001",
   "name": "Ballynamona Strand",
   "status": "Excellent",
-  "result_date": "2026-07-13",
-  "e_coli": "63",
-  "intestinal_enterococci": "27",
+  "result_date": "2026-08-10",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<1",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-08-19T20:20:27Z"
+  "updated_at": "2026-08-20T08:32:07Z"
 }

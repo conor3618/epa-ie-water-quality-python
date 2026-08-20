@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC360_0000_0300",
   "name": "Golden Strand, Achill Island",
   "status": "Excellent",
-  "result_date": "2026-05-25",
-  "e_coli": "<10",
-  "intestinal_enterococci": "<1",
+  "result_date": "2026-08-10",
+  "e_coli": "20",
+  "intestinal_enterococci": "4",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-08-19T20:20:27Z"
+  "updated_at": "2026-08-20T08:32:07Z"
 }
