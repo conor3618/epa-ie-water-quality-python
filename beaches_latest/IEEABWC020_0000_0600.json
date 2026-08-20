@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC020_0000_0600",
   "name": "Balbriggan, Front Strand Beach",
   "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "122",
-  "intestinal_enterococci": "61",
+  "result_date": "2026-08-17",
+  "e_coli": "20",
+  "intestinal_enterococci": "10",
   "county": "Dublin",
   "local_authority": "Fingal County Council",
-  "updated_at": "2026-08-20T08:32:07Z"
+  "updated_at": "2026-08-20T14:31:11Z"
 }
