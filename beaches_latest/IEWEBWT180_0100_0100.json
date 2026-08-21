@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWT180_0100_0100",
   "name": "Céibh an Spidéil",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "<10",
-  "intestinal_enterococci": "33",
+  "result_date": "2026-06-29",
+  "e_coli": "10",
+  "intestinal_enterococci": "1",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-08-20T20:22:02Z"
+  "updated_at": "2026-08-21T08:33:42Z"
 }

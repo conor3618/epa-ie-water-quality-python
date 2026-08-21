@@ -2,10 +2,10 @@
   "beach_id": "BPNBF310000150001",
   "name": "Goat Island",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "63",
-  "intestinal_enterococci": "39",
+  "result_date": "2026-07-20",
+  "e_coli": "10",
+  "intestinal_enterococci": "2",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-08-20T20:22:03Z"
+  "updated_at": "2026-08-21T08:33:42Z"
 }

@@ -2,10 +2,10 @@
   "beach_id": "IESHBWL25_191a_0200",
   "name": "Mountshannon, Lough Derg",
   "status": "Excellent",
-  "result_date": "2026-08-11",
-  "e_coli": "10",
-  "intestinal_enterococci": "10",
+  "result_date": "2026-06-23",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<10",
   "county": "Clare",
   "local_authority": "Clare County Council",
-  "updated_at": "2026-08-20T20:22:02Z"
+  "updated_at": "2026-08-21T08:33:42Z"
 }
