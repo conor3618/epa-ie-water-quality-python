@@ -2,10 +2,10 @@
   "beach_id": "IENWBWC010_0000_0300",
   "name": "Mullaghmore Beach",
   "status": "Excellent",
-  "result_date": "2026-07-20",
-  "e_coli": "31",
-  "intestinal_enterococci": "2",
+  "result_date": "2026-08-04",
+  "e_coli": "<10",
+  "intestinal_enterococci": "8",
   "county": "Sligo",
   "local_authority": "Sligo County Council",
-  "updated_at": "2026-08-21T08:33:42Z"
+  "updated_at": "2026-08-21T14:29:20Z"
 }

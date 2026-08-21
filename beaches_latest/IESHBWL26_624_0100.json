@@ -1,11 +1,11 @@
 {
   "beach_id": "IESHBWL26_624_0100",
   "name": "Keeldra Lough",
-  "status": "Excellent",
-  "result_date": "2026-06-29",
-  "e_coli": "14",
-  "intestinal_enterococci": "10",
+  "status": "Good",
+  "result_date": "2026-08-04",
+  "e_coli": "43",
+  "intestinal_enterococci": "129",
   "county": "Leitrim",
   "local_authority": "Leitrim County Council",
-  "updated_at": "2026-08-21T08:33:42Z"
+  "updated_at": "2026-08-21T14:29:20Z"
 }
