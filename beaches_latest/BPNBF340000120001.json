@@ -2,10 +2,10 @@
   "beach_id": "BPNBF340000120001",
   "name": "Kilcoole Beach",
   "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "<10",
-  "intestinal_enterococci": "<1",
+  "result_date": "2026-07-13",
+  "e_coli": "41",
+  "intestinal_enterococci": "5",
   "county": "Wicklow",
   "local_authority": "Wicklow County Council",
-  "updated_at": "2026-08-22T14:16:26Z"
+  "updated_at": "2026-08-22T20:16:39Z"
 }
