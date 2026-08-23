@@ -2,10 +2,10 @@
   "beach_id": "IESHBWC070_0000_0330",
   "name": "Quilty",
   "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "10",
+  "result_date": "2026-07-13",
+  "e_coli": "<10",
   "intestinal_enterococci": "<10",
   "county": "Clare",
   "local_authority": "Clare County Council",
-  "updated_at": "2026-08-23T14:18:14Z"
+  "updated_at": "2026-08-23T20:16:01Z"
 }

@@ -2,10 +2,10 @@
   "beach_id": "BPNBF230000020001",
   "name": "Mornington",
   "status": "Excellent",
-  "result_date": "2025-09-08",
-  "e_coli": "132",
-  "intestinal_enterococci": "60",
+  "result_date": "2026-08-17",
+  "e_coli": "<10",
+  "intestinal_enterococci": "4",
   "county": "Meath",
   "local_authority": "Meath County Council",
-  "updated_at": "2026-08-23T14:18:14Z"
+  "updated_at": "2026-08-23T20:16:01Z"
 }

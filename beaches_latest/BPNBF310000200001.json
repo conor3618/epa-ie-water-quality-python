@@ -1,11 +1,11 @@
 {
   "beach_id": "BPNBF310000200001",
   "name": "Woodstown",
-  "status": "Good",
-  "result_date": "2026-06-22",
-  "e_coli": "298",
-  "intestinal_enterococci": "7",
+  "status": "Excellent",
+  "result_date": "2026-08-17",
+  "e_coli": "20",
+  "intestinal_enterococci": "22",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-08-23T14:18:14Z"
+  "updated_at": "2026-08-23T20:16:01Z"
 }

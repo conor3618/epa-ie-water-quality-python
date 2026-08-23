@@ -2,10 +2,10 @@
   "beach_id": "IENWBWC070_0000_0100",
   "name": "Fintra",
   "status": "Excellent",
-  "result_date": "2026-07-29",
-  "e_coli": "98",
-  "intestinal_enterococci": "4",
+  "result_date": "2026-08-19",
+  "e_coli": "243",
+  "intestinal_enterococci": "40",
   "county": "Donegal",
   "local_authority": "Donegal County Council",
-  "updated_at": "2026-08-23T14:18:14Z"
+  "updated_at": "2026-08-23T20:16:01Z"
 }

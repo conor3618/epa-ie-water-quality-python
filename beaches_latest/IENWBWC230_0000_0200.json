@@ -2,10 +2,10 @@
   "beach_id": "IENWBWC230_0000_0200",
   "name": "Culdaff",
   "status": "Excellent",
-  "result_date": "2026-07-28",
-  "e_coli": "<10",
-  "intestinal_enterococci": "3",
+  "result_date": "2026-08-18",
+  "e_coli": "20",
+  "intestinal_enterococci": "10",
   "county": "Donegal",
   "local_authority": "Donegal County Council",
-  "updated_at": "2026-08-23T14:18:14Z"
+  "updated_at": "2026-08-23T20:16:01Z"
 }
