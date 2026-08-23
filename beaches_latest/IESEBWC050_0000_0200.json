@@ -2,10 +2,10 @@
   "beach_id": "IESEBWC050_0000_0200",
   "name": "Bunmahon Beach",
   "status": "Excellent",
-  "result_date": "2026-07-13",
-  "e_coli": "10",
+  "result_date": "2026-08-10",
+  "e_coli": "<10",
   "intestinal_enterococci": "<1",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-08-22T20:16:39Z"
+  "updated_at": "2026-08-23T08:23:01Z"
 }
