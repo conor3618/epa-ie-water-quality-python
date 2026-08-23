@@ -1,11 +1,11 @@
 {
   "beach_id": "BPNBF230000030001",
   "name": "Gormanston Beach",
-  "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "31",
-  "intestinal_enterococci": "<1",
+  "status": "Good",
+  "result_date": "2026-06-15",
+  "e_coli": "285",
+  "intestinal_enterococci": "60",
   "county": "Meath",
   "local_authority": "Meath County Council",
-  "updated_at": "2026-08-23T08:23:02Z"
+  "updated_at": "2026-08-23T14:18:14Z"
 }

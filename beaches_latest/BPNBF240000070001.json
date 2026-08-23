@@ -2,10 +2,10 @@
   "beach_id": "BPNBF240000070001",
   "name": "Emy Lough",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "20",
-  "intestinal_enterococci": "8",
+  "result_date": "2025-07-07",
+  "e_coli": "<10",
+  "intestinal_enterococci": "10",
   "county": "Monaghan",
   "local_authority": "Monaghan County Council",
-  "updated_at": "2026-08-23T08:23:02Z"
+  "updated_at": "2026-08-23T14:18:14Z"
 }

@@ -2,10 +2,10 @@
   "beach_id": "BPNBF240000040001",
   "name": "Halton's River (Dromore Lake System)",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "10",
-  "intestinal_enterococci": "16",
+  "result_date": "2025-07-07",
+  "e_coli": "<10",
+  "intestinal_enterococci": "13",
   "county": "Monaghan",
   "local_authority": "Monaghan County Council",
-  "updated_at": "2026-08-23T08:23:02Z"
+  "updated_at": "2026-08-23T14:18:14Z"
 }

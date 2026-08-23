@@ -2,10 +2,10 @@
   "beach_id": "BPNBF050000230001",
   "name": "Ring (Greenlands Strand)",
   "status": "Excellent",
-  "result_date": "2026-08-10",
+  "result_date": "2026-06-22",
   "e_coli": "<10",
-  "intestinal_enterococci": "<1",
+  "intestinal_enterococci": "3",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-08-23T08:23:02Z"
+  "updated_at": "2026-08-23T14:18:14Z"
 }

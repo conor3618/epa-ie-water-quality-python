@@ -1,11 +1,11 @@
 {
   "beach_id": "IEWEBWC450_0000_0200",
   "name": "Dunmoran Beach",
-  "status": "Excellent",
-  "result_date": "2026-08-17",
+  "status": "Good",
+  "result_date": "2026-08-04",
   "e_coli": "<10",
-  "intestinal_enterococci": "1",
+  "intestinal_enterococci": "170",
   "county": "Sligo",
   "local_authority": "Sligo County Council",
-  "updated_at": "2026-08-23T08:23:02Z"
+  "updated_at": "2026-08-23T14:18:14Z"
 }
