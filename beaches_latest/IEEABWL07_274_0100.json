@@ -2,10 +2,10 @@
   "beach_id": "IEEABWL07_274_0100",
   "name": "The Cut, Lough Lene",
   "status": "Excellent",
-  "result_date": "2026-07-27",
-  "e_coli": "5",
-  "intestinal_enterococci": "2",
+  "result_date": "2026-08-10",
+  "e_coli": "<1",
+  "intestinal_enterococci": "<1",
   "county": "Westmeath",
   "local_authority": "Westmeath County Council",
-  "updated_at": "2026-08-23T20:16:01Z"
+  "updated_at": "2026-08-24T08:41:32Z"
 }
