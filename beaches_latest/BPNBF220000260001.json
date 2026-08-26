@@ -2,10 +2,10 @@
   "beach_id": "BPNBF220000260001",
   "name": "Tránaun Beach, Inishturk",
   "status": "Excellent",
-  "result_date": "2026-08-05",
-  "e_coli": "<10",
+  "result_date": "2026-07-13",
+  "e_coli": "90",
   "intestinal_enterococci": "<1",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-08-25T20:22:25Z"
+  "updated_at": "2026-08-26T08:36:50Z"
 }

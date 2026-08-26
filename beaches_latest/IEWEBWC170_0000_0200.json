@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC170_0000_0200",
   "name": "Salthill Beach",
   "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "10",
-  "intestinal_enterococci": "45",
+  "result_date": "2026-07-13",
+  "e_coli": "30",
+  "intestinal_enterococci": "4",
   "county": "Galway",
   "local_authority": "Galway City Council",
-  "updated_at": "2026-08-25T20:22:25Z"
+  "updated_at": "2026-08-26T08:36:50Z"
 }

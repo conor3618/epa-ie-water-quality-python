@@ -2,10 +2,10 @@
   "beach_id": "IENWBWC010_0000_0200",
   "name": "Rossnowlagh",
   "status": "Excellent",
-  "result_date": "2026-08-19",
-  "e_coli": "148",
-  "intestinal_enterococci": "54",
+  "result_date": "2026-08-12",
+  "e_coli": "30",
+  "intestinal_enterococci": "3",
   "county": "Donegal",
   "local_authority": "Donegal County Council",
-  "updated_at": "2026-08-25T20:22:25Z"
+  "updated_at": "2026-08-26T08:36:50Z"
 }
