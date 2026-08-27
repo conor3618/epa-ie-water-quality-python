@@ -1,11 +1,11 @@
 {
   "beach_id": "IENWBWT220_0400_0100",
   "name": "Lady's Bay, Buncrana",
-  "status": "Poor",
-  "result_date": "2026-08-19",
-  "e_coli": "2755",
-  "intestinal_enterococci": ">250",
+  "status": "Good",
+  "result_date": "2026-08-21",
+  "e_coli": "272",
+  "intestinal_enterococci": "13",
   "county": "Donegal",
   "local_authority": "Donegal County Council",
-  "updated_at": "2026-08-26T22:40:20Z"
+  "updated_at": "2026-08-27T18:45:53Z"
 }

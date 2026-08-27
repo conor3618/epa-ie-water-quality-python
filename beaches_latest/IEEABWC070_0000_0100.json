@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC070_0000_0100",
   "name": "Sutton, Burrow Beach",
   "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "98",
-  "intestinal_enterococci": "32",
+  "result_date": "2026-08-24",
+  "e_coli": "41",
+  "intestinal_enterococci": "15",
   "county": "Dublin",
   "local_authority": "Fingal County Council",
-  "updated_at": "2026-08-26T22:40:20Z"
+  "updated_at": "2026-08-27T18:45:53Z"
 }
