@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC140_0000_0200",
   "name": "Brittas Bay South",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "10",
+  "result_date": "2026-08-24",
+  "e_coli": "<10",
   "intestinal_enterococci": "1",
   "county": "Wicklow",
   "local_authority": "Wicklow County Council",
-  "updated_at": "2026-08-28T04:00:06Z"
+  "updated_at": "2026-08-28T19:51:31Z"
 }
