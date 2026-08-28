@@ -1,11 +1,11 @@
 {
   "beach_id": "IENWBWC190_0000_0100",
   "name": "Downings",
-  "status": "Good",
-  "result_date": "2026-08-18",
-  "e_coli": "383",
-  "intestinal_enterococci": "22",
+  "status": "Excellent",
+  "result_date": "2026-08-12",
+  "e_coli": "121",
+  "intestinal_enterococci": "10",
   "county": "Donegal",
   "local_authority": "Donegal County Council",
-  "updated_at": "2026-08-27T18:45:53Z"
+  "updated_at": "2026-08-28T04:00:06Z"
 }

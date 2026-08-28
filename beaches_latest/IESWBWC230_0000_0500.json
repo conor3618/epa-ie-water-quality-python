@@ -2,10 +2,10 @@
   "beach_id": "IESWBWC230_0000_0500",
   "name": "Cúas Crom",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "10",
-  "intestinal_enterococci": "<1",
+  "result_date": "2026-08-24",
+  "e_coli": "<10",
+  "intestinal_enterococci": "2",
   "county": "Kerry",
   "local_authority": "Kerry County Council",
-  "updated_at": "2026-08-27T18:45:54Z"
+  "updated_at": "2026-08-28T04:00:07Z"
 }

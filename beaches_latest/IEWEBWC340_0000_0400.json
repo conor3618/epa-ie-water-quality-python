@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC340_0000_0400",
   "name": "Carrowmore Beach, Louisburgh",
   "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "40",
-  "intestinal_enterococci": "3",
+  "result_date": "2026-08-10",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<1",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-08-27T18:45:53Z"
+  "updated_at": "2026-08-28T04:00:06Z"
 }

@@ -2,10 +2,10 @@
   "beach_id": "BPNBF330000250001",
   "name": "Kilmore Quay Small Beach",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "10",
-  "intestinal_enterococci": "3",
+  "result_date": "2026-08-24",
+  "e_coli": "53",
+  "intestinal_enterococci": "13",
   "county": "Wexford",
   "local_authority": "Wexford County Council",
-  "updated_at": "2026-08-27T18:45:53Z"
+  "updated_at": "2026-08-28T04:00:07Z"
 }
