@@ -2,10 +2,10 @@
   "beach_id": "IESEBWC050_0000_0100",
   "name": "Ardmore Beach",
   "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "<10",
-  "intestinal_enterococci": "4",
+  "result_date": "2026-08-24",
+  "e_coli": "20",
+  "intestinal_enterococci": "12",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-08-28T19:51:31Z"
+  "updated_at": "2026-08-29T02:39:41Z"
 }
