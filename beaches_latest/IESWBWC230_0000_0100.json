@@ -2,10 +2,10 @@
   "beach_id": "IESWBWC230_0000_0100",
   "name": "Fionntrá (Ventry)",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "<10",
-  "intestinal_enterococci": "4",
+  "result_date": "2026-08-24",
+  "e_coli": "10",
+  "intestinal_enterococci": "<1",
   "county": "Kerry",
   "local_authority": "Kerry County Council",
-  "updated_at": "2026-08-30T13:28:57Z"
+  "updated_at": "2026-08-30T17:52:56Z"
 }

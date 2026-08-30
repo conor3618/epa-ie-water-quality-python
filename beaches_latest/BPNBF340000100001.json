@@ -2,10 +2,10 @@
   "beach_id": "BPNBF340000100001",
   "name": "Wicklow Harbour bathing area",
   "status": "Excellent",
-  "result_date": "2026-07-13",
-  "e_coli": "243",
-  "intestinal_enterococci": "16",
+  "result_date": "2026-08-24",
+  "e_coli": "30",
+  "intestinal_enterococci": "52",
   "county": "Wicklow",
   "local_authority": "Wicklow County Council",
-  "updated_at": "2026-08-30T13:28:57Z"
+  "updated_at": "2026-08-30T17:52:56Z"
 }

@@ -2,10 +2,10 @@
   "beach_id": "BPNBF220000190001",
   "name": "Srah Beach",
   "status": "Excellent",
-  "result_date": "2026-07-20",
+  "result_date": "2026-08-10",
   "e_coli": "<10",
-  "intestinal_enterococci": "1",
+  "intestinal_enterococci": "<1",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-08-30T13:28:57Z"
+  "updated_at": "2026-08-30T17:52:56Z"
 }

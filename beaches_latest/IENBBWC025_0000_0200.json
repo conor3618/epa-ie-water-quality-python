@@ -1,11 +1,11 @@
 {
   "beach_id": "IENBBWC025_0000_0200",
   "name": "Clogherhead",
-  "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "<10",
-  "intestinal_enterococci": "4",
+  "status": "Good",
+  "result_date": "2026-08-25",
+  "e_coli": "479",
+  "intestinal_enterococci": "65",
   "county": "Louth",
   "local_authority": "Louth County Council",
-  "updated_at": "2026-08-30T13:28:57Z"
+  "updated_at": "2026-08-30T17:52:56Z"
 }

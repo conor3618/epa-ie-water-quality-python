@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC020_0000_0400",
   "name": "Loughshinny Beach",
   "status": "Excellent",
-  "result_date": "2026-06-15",
+  "result_date": "2026-08-24",
   "e_coli": "<10",
-  "intestinal_enterococci": "2",
+  "intestinal_enterococci": "3",
   "county": "Dublin",
   "local_authority": "Fingal County Council",
-  "updated_at": "2026-08-30T13:28:57Z"
+  "updated_at": "2026-08-30T17:52:56Z"
 }

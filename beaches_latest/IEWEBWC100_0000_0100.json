@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC100_0000_0100",
   "name": "Trá na bhForbacha, Na Forbacha",
   "status": "Excellent",
-  "result_date": "2026-07-06",
-  "e_coli": "41",
-  "intestinal_enterococci": "9",
+  "result_date": "2026-08-24",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<2",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-08-30T13:28:57Z"
+  "updated_at": "2026-08-30T17:52:56Z"
 }

@@ -2,10 +2,10 @@
   "beach_id": "IESHBWL25_191a_0300",
   "name": "Ballycuggeran",
   "status": "Excellent",
-  "result_date": "2026-07-21",
-  "e_coli": "<10",
+  "result_date": "2026-08-25",
+  "e_coli": "10",
   "intestinal_enterococci": "<10",
   "county": "Clare",
   "local_authority": "Clare County Council",
-  "updated_at": "2026-08-30T13:28:57Z"
+  "updated_at": "2026-08-30T17:52:56Z"
 }
