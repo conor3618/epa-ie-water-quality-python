@@ -2,10 +2,10 @@
   "beach_id": "IESHBWL27_72_0100",
   "name": "Ballyallia Lake, Ennis",
   "status": "Excellent",
-  "result_date": "2026-08-25",
-  "e_coli": "246",
-  "intestinal_enterococci": "<10",
+  "result_date": "2026-07-21",
+  "e_coli": "171",
+  "intestinal_enterococci": "10",
   "county": "Clare",
   "local_authority": "Clare County Council",
-  "updated_at": "2026-08-29T22:13:53Z"
+  "updated_at": "2026-08-30T13:28:57Z"
 }

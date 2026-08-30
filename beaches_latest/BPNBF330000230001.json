@@ -2,10 +2,10 @@
   "beach_id": "BPNBF330000230001",
   "name": "St Helens Bay",
   "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "42",
-  "intestinal_enterococci": "1",
+  "result_date": "2026-08-17",
+  "e_coli": "10",
+  "intestinal_enterococci": "6",
   "county": "Wexford",
   "local_authority": "Wexford County Council",
-  "updated_at": "2026-08-29T22:13:53Z"
+  "updated_at": "2026-08-30T13:28:57Z"
 }

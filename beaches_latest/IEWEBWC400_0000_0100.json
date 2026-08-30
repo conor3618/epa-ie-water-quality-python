@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC400_0000_0100",
   "name": "Rinroe Beach, Carrowtigue",
   "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "10",
+  "result_date": "2026-07-20",
+  "e_coli": "<10",
   "intestinal_enterococci": "<1",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-08-29T22:13:53Z"
+  "updated_at": "2026-08-30T13:28:57Z"
 }

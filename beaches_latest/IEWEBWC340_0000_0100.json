@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC340_0000_0100",
   "name": "Clare Island, Louisburgh",
   "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "<10",
-  "intestinal_enterococci": "36",
+  "result_date": "2026-07-20",
+  "e_coli": "120",
+  "intestinal_enterococci": "33",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-08-29T22:13:53Z"
+  "updated_at": "2026-08-30T13:28:57Z"
 }

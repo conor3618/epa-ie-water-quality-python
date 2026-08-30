@@ -2,10 +2,10 @@
   "beach_id": "IESEBWC140_0000_0100",
   "name": "Clonea Beach",
   "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "20",
-  "intestinal_enterococci": "11",
+  "result_date": "2026-07-17",
+  "e_coli": "10",
+  "intestinal_enterococci": "37",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-08-29T22:13:53Z"
+  "updated_at": "2026-08-30T13:28:57Z"
 }

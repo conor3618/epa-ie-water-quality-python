@@ -2,10 +2,10 @@
   "beach_id": "BPNBF340000070001",
   "name": "Arklow South Beach",
   "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "10",
-  "intestinal_enterococci": "2",
+  "result_date": "2026-07-06",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<1",
   "county": "Wicklow",
   "local_authority": "Wicklow County Council",
-  "updated_at": "2026-08-29T22:13:53Z"
+  "updated_at": "2026-08-30T13:28:57Z"
 }
