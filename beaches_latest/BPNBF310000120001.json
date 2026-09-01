@@ -2,10 +2,10 @@
   "beach_id": "BPNBF310000120001",
   "name": "Ballyvooney",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "10",
-  "intestinal_enterococci": "8",
+  "result_date": "2026-07-20",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<1",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-08-31T23:34:37Z"
+  "updated_at": "2026-09-01T12:59:39Z"
 }

@@ -2,10 +2,10 @@
   "beach_id": "BPNBF130000190001",
   "name": "Littor beach",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "150",
-  "intestinal_enterococci": "42",
+  "result_date": "2026-07-27",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<1",
   "county": "Kerry",
   "local_authority": "Kerry County Council",
-  "updated_at": "2026-08-31T23:34:37Z"
+  "updated_at": "2026-09-01T12:59:39Z"
 }
