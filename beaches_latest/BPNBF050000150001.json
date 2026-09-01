@@ -2,10 +2,10 @@
   "beach_id": "BPNBF050000150001",
   "name": "Galley Cove",
   "status": "Excellent",
-  "result_date": "2026-07-13",
-  "e_coli": "86",
+  "result_date": "2026-08-10",
+  "e_coli": "<10",
   "intestinal_enterococci": "1",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-09-01T12:59:39Z"
+  "updated_at": "2026-09-01T17:32:25Z"
 }

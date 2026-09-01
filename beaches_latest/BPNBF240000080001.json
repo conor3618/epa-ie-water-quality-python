@@ -2,10 +2,10 @@
   "beach_id": "BPNBF240000080001",
   "name": "Lough Major - the beach",
   "status": "Excellent",
-  "result_date": "2026-07-13",
-  "e_coli": "80",
-  "intestinal_enterococci": "27",
+  "result_date": "2026-08-17",
+  "e_coli": "30",
+  "intestinal_enterococci": "14",
   "county": "Monaghan",
   "local_authority": "Monaghan County Council",
-  "updated_at": "2026-09-01T12:59:39Z"
+  "updated_at": "2026-09-01T17:32:25Z"
 }
