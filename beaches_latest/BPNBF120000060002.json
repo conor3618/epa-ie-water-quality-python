@@ -2,10 +2,10 @@
   "beach_id": "BPNBF120000060002",
   "name": "Clifden Beach",
   "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "183",
-  "intestinal_enterococci": "15",
+  "result_date": "2026-07-15",
+  "e_coli": "<10",
+  "intestinal_enterococci": "2",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-09-01T22:19:48Z"
+  "updated_at": "2026-09-02T12:28:56Z"
 }
