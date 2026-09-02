@@ -2,10 +2,10 @@
   "beach_id": "BPNBF070000020002",
   "name": "Merrion Strand",
   "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "98",
-  "intestinal_enterococci": "7",
+  "result_date": "2026-08-30",
+  "e_coli": "173",
+  "intestinal_enterococci": "53",
   "county": "Dublin",
   "local_authority": "Dublin City Council",
-  "updated_at": "2026-09-02T12:28:56Z"
+  "updated_at": "2026-09-02T17:34:19Z"
 }
