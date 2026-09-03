@@ -2,10 +2,10 @@
   "beach_id": "IESHBWC070_0000_0400",
   "name": "Kilkee",
   "status": "Excellent",
-  "result_date": "2026-08-24",
+  "result_date": "2026-09-01",
   "e_coli": "<10",
-  "intestinal_enterococci": "<10",
+  "intestinal_enterococci": "10",
   "county": "Clare",
   "local_authority": "Clare County Council",
-  "updated_at": "2026-09-03T12:30:59Z"
+  "updated_at": "2026-09-03T17:28:17Z"
 }
