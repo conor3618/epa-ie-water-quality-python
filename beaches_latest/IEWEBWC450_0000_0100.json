@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC450_0000_0100",
   "name": "Rosses Point Beach",
   "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "<10",
-  "intestinal_enterococci": "<1",
+  "result_date": "2026-08-31",
+  "e_coli": "85",
+  "intestinal_enterococci": "2",
   "county": "Sligo",
   "local_authority": "Sligo County Council",
-  "updated_at": "2026-09-02T22:17:28Z"
+  "updated_at": "2026-09-03T12:30:59Z"
 }
