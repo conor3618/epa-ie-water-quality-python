@@ -2,10 +2,10 @@
   "beach_id": "BPNBF310000130001",
   "name": "Boatstrand",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "52",
-  "intestinal_enterococci": "24",
+  "result_date": "2026-07-20",
+  "e_coli": "<10",
+  "intestinal_enterococci": "2",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-09-03T17:28:17Z"
+  "updated_at": "2026-09-03T22:10:30Z"
 }

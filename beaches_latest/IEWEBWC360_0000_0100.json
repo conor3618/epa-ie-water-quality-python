@@ -1,11 +1,11 @@
 {
   "beach_id": "IEWEBWC360_0000_0100",
   "name": "Mullaghroe Beach, Belmullet",
-  "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "20",
-  "intestinal_enterococci": "1",
+  "status": "Good",
+  "result_date": "2026-08-10",
+  "e_coli": "360",
+  "intestinal_enterococci": "37",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-09-03T17:28:17Z"
+  "updated_at": "2026-09-03T22:10:30Z"
 }
