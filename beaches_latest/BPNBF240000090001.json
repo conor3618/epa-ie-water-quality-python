@@ -2,10 +2,10 @@
   "beach_id": "BPNBF240000090001",
   "name": "Gortnawinney Lake",
   "status": "Excellent",
-  "result_date": "2025-09-22",
-  "e_coli": "<10",
-  "intestinal_enterococci": "3",
+  "result_date": "2026-08-17",
+  "e_coli": "20",
+  "intestinal_enterococci": "18",
   "county": "Monaghan",
   "local_authority": "Monaghan County Council",
-  "updated_at": "2026-09-03T22:10:31Z"
+  "updated_at": "2026-09-04T12:27:08Z"
 }

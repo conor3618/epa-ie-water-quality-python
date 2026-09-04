@@ -2,10 +2,10 @@
   "beach_id": "BPNBF120000240001",
   "name": "Trá Poll na gCaorach Inis Oirr",
   "status": "Excellent",
-  "result_date": "2026-07-13",
-  "e_coli": "<10",
-  "intestinal_enterococci": "0",
+  "result_date": "2026-08-10",
+  "e_coli": "10",
+  "intestinal_enterococci": "<2",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-09-03T22:10:30Z"
+  "updated_at": "2026-09-04T12:27:08Z"
 }

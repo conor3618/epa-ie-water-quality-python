@@ -2,10 +2,10 @@
   "beach_id": "IESWBWC100_0000_0100",
   "name": "Inchydoney West Beach",
   "status": "Excellent",
-  "result_date": "2026-06-22",
-  "e_coli": "20",
-  "intestinal_enterococci": "1",
+  "result_date": "2026-09-01",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<1",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-09-03T22:10:30Z"
+  "updated_at": "2026-09-04T12:27:08Z"
 }
