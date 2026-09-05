@@ -8,7 +8,7 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-09-05T16:29:56Z"
+    "updated_at": "2026-09-05T21:51:32Z"
   },
   {
     "beach_id": "IESEBWC050_0000_0235",
@@ -19,7 +19,62 @@
     "intestinal_enterococci": "3",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-09-05T16:29:56Z"
+    "updated_at": "2026-09-05T21:51:32Z"
+  },
+  {
+    "beach_id": "IESEBWC050_0000_0235",
+    "name": "Baginbun",
+    "status": "Excellent",
+    "result_date": "2026-08-17",
+    "e_coli": "10",
+    "intestinal_enterococci": "3",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-09-05T21:51:32Z"
+  },
+  {
+    "beach_id": "IESEBWC050_0000_0235",
+    "name": "Baginbun",
+    "status": "Excellent",
+    "result_date": "2026-08-10",
+    "e_coli": "10",
+    "intestinal_enterococci": "8",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-09-05T21:51:32Z"
+  },
+  {
+    "beach_id": "IESEBWC050_0000_0235",
+    "name": "Baginbun",
+    "status": "Excellent",
+    "result_date": "2026-08-04",
+    "e_coli": "10",
+    "intestinal_enterococci": "3",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-09-05T21:51:32Z"
+  },
+  {
+    "beach_id": "IESEBWC050_0000_0235",
+    "name": "Baginbun",
+    "status": "Excellent",
+    "result_date": "2026-07-27",
+    "e_coli": "10",
+    "intestinal_enterococci": "6",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-09-05T21:51:32Z"
+  },
+  {
+    "beach_id": "IESEBWC050_0000_0235",
+    "name": "Baginbun",
+    "status": "Excellent",
+    "result_date": "2026-07-20",
+    "e_coli": "10",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-09-05T21:51:32Z"
   },
   {
     "beach_id": "IESEBWC050_0000_0235",
@@ -30,7 +85,18 @@
     "intestinal_enterococci": "2",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-09-05T16:29:56Z"
+    "updated_at": "2026-09-05T21:51:32Z"
+  },
+  {
+    "beach_id": "IESEBWC050_0000_0235",
+    "name": "Baginbun",
+    "status": "Excellent",
+    "result_date": "2026-07-06",
+    "e_coli": "10",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-09-05T21:51:32Z"
   },
   {
     "beach_id": "IESEBWC050_0000_0235",
@@ -41,7 +107,18 @@
     "intestinal_enterococci": "4",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-09-05T16:29:56Z"
+    "updated_at": "2026-09-05T21:51:32Z"
+  },
+  {
+    "beach_id": "IESEBWC050_0000_0235",
+    "name": "Baginbun",
+    "status": "Excellent",
+    "result_date": "2026-06-22",
+    "e_coli": "10",
+    "intestinal_enterococci": "3",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-09-05T21:51:32Z"
   },
   {
     "beach_id": "IESEBWC050_0000_0235",
@@ -52,7 +129,7 @@
     "intestinal_enterococci": "5",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-09-05T16:29:56Z"
+    "updated_at": "2026-09-05T21:51:32Z"
   },
   {
     "beach_id": "IESEBWC050_0000_0235",
@@ -63,7 +140,18 @@
     "intestinal_enterococci": "1",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-09-05T16:29:56Z"
+    "updated_at": "2026-09-05T21:51:32Z"
+  },
+  {
+    "beach_id": "IESEBWC050_0000_0235",
+    "name": "Baginbun",
+    "status": "Excellent",
+    "result_date": "2026-06-02",
+    "e_coli": "10",
+    "intestinal_enterococci": "1",
+    "county": "Wexford",
+    "local_authority": "Wexford County Council",
+    "updated_at": "2026-09-05T21:51:32Z"
   },
   {
     "beach_id": "IESEBWC050_0000_0235",
@@ -74,6 +162,6 @@
     "intestinal_enterococci": "10",
     "county": "Wexford",
     "local_authority": "Wexford County Council",
-    "updated_at": "2026-09-05T16:29:56Z"
+    "updated_at": "2026-09-05T21:51:32Z"
   }
 ]
