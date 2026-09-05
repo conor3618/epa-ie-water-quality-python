@@ -2,10 +2,10 @@
   "beach_id": "IESHBWC070_0000_0200",
   "name": "White Strand, Miltown Malbay",
   "status": "Excellent",
-  "result_date": "2026-09-01",
-  "e_coli": "10",
-  "intestinal_enterococci": "<10",
+  "result_date": "2026-08-24",
+  "e_coli": "<10",
+  "intestinal_enterococci": "20",
   "county": "Clare",
   "local_authority": "Clare County Council",
-  "updated_at": "2026-09-05T11:33:36Z"
+  "updated_at": "2026-09-05T16:29:56Z"
 }

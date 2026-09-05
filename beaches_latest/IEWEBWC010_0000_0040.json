@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC010_0000_0040",
   "name": "Aillebrack/Silverhill Beach",
   "status": "Excellent",
-  "result_date": "2026-08-10",
+  "result_date": "2026-07-13",
   "e_coli": "<10",
-  "intestinal_enterococci": "<2",
+  "intestinal_enterococci": "1",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-09-05T11:33:36Z"
+  "updated_at": "2026-09-05T16:29:56Z"
 }
