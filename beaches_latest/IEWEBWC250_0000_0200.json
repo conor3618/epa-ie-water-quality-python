@@ -1,11 +1,11 @@
 {
   "beach_id": "IEWEBWC250_0000_0200",
   "name": "Keel Beach, Achill Island",
-  "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "<10",
-  "intestinal_enterococci": "<1",
+  "status": "Good",
+  "result_date": "2026-09-02",
+  "e_coli": "270",
+  "intestinal_enterococci": "16",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-09-06T21:55:02Z"
+  "updated_at": "2026-09-07T13:53:53Z"
 }
