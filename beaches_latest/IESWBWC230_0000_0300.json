@@ -2,10 +2,10 @@
   "beach_id": "IESWBWC230_0000_0300",
   "name": "Rossbeigh, White Strand",
   "status": "Excellent",
-  "result_date": "2026-08-24",
+  "result_date": "2026-08-17",
   "e_coli": "<10",
-  "intestinal_enterococci": "2",
+  "intestinal_enterococci": "<1",
   "county": "Kerry",
   "local_authority": "Kerry County Council",
-  "updated_at": "2026-09-08T17:42:20Z"
+  "updated_at": "2026-09-08T22:18:41Z"
 }

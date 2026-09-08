@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC350_0000_0100",
   "name": "Bertra Beach, Murrisk",
   "status": "Excellent",
-  "result_date": "2026-09-02",
-  "e_coli": "20",
-  "intestinal_enterococci": "12",
+  "result_date": "2026-08-24",
+  "e_coli": "<10",
+  "intestinal_enterococci": "1",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-09-08T17:42:20Z"
+  "updated_at": "2026-09-08T22:18:41Z"
 }

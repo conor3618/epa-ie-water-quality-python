@@ -1,11 +1,11 @@
 {
   "beach_id": "BPNBF310000190001",
   "name": "Whiting Bay",
-  "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "<10",
-  "intestinal_enterococci": "3",
+  "status": "Good",
+  "result_date": "2026-08-17",
+  "e_coli": "86",
+  "intestinal_enterococci": "200",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-09-08T17:42:20Z"
+  "updated_at": "2026-09-08T22:18:41Z"
 }
