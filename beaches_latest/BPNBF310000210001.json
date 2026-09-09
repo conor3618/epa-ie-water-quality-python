@@ -2,10 +2,10 @@
   "beach_id": "BPNBF310000210001",
   "name": "Stradbally",
   "status": "Excellent",
-  "result_date": "2026-06-29",
-  "e_coli": "85",
-  "intestinal_enterococci": "18",
+  "result_date": "2026-08-24",
+  "e_coli": "20",
+  "intestinal_enterococci": "6",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-09-08T22:18:41Z"
+  "updated_at": "2026-09-09T12:40:03Z"
 }

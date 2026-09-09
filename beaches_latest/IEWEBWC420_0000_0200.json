@@ -1,11 +1,11 @@
 {
   "beach_id": "IEWEBWC420_0000_0200",
   "name": "Ross Beach, Killala",
-  "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "<10",
-  "intestinal_enterococci": "3",
+  "status": "Poor",
+  "result_date": "2026-09-02",
+  "e_coli": "1650",
+  "intestinal_enterococci": ">1000",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-09-08T22:18:41Z"
+  "updated_at": "2026-09-09T12:40:03Z"
 }
