@@ -1,11 +1,11 @@
 {
   "beach_id": "IEWEBWC250_0000_0300",
   "name": "Dooega Beach, Achill Island",
-  "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "10",
-  "intestinal_enterococci": "<1",
+  "status": "Sufficient",
+  "result_date": "2026-09-02",
+  "e_coli": "530",
+  "intestinal_enterococci": "31",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-09-09T17:29:23Z"
+  "updated_at": "2026-09-09T22:11:25Z"
 }

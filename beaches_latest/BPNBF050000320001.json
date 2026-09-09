@@ -2,10 +2,10 @@
   "beach_id": "BPNBF050000320001",
   "name": "Rocky Bay",
   "status": "Excellent",
-  "result_date": "2026-07-20",
-  "e_coli": "<10",
-  "intestinal_enterococci": "2",
+  "result_date": "2026-09-01",
+  "e_coli": "10",
+  "intestinal_enterococci": "4",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-09-09T17:29:23Z"
+  "updated_at": "2026-09-09T22:11:26Z"
 }

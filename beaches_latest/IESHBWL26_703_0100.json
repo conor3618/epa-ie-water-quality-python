@@ -2,10 +2,10 @@
   "beach_id": "IESHBWL26_703_0100",
   "name": "Portnashangan, Lough Owel",
   "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "<1",
-  "intestinal_enterococci": "<1",
+  "result_date": "2026-09-07",
+  "e_coli": "2",
+  "intestinal_enterococci": "10",
   "county": "Westmeath",
   "local_authority": "Westmeath County Council",
-  "updated_at": "2026-09-09T17:29:23Z"
+  "updated_at": "2026-09-09T22:11:25Z"
 }
