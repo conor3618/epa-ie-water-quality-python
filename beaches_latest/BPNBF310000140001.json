@@ -2,10 +2,10 @@
   "beach_id": "BPNBF310000140001",
   "name": "Curragh",
   "status": "Excellent",
-  "result_date": "2026-08-17",
+  "result_date": "2025-08-21",
   "e_coli": "<10",
-  "intestinal_enterococci": "<1",
+  "intestinal_enterococci": "1",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-09-09T12:40:03Z"
+  "updated_at": "2026-09-09T17:29:23Z"
 }

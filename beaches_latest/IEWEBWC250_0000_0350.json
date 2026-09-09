@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC250_0000_0350",
   "name": "Carrowniskey, Louisburgh",
   "status": "Excellent",
-  "result_date": "2026-09-02",
+  "result_date": "2026-08-24",
   "e_coli": "<10",
-  "intestinal_enterococci": "8",
+  "intestinal_enterococci": "<1",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-09-09T12:40:03Z"
+  "updated_at": "2026-09-09T17:29:23Z"
 }

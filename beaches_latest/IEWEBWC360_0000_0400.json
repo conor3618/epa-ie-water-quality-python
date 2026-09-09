@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC360_0000_0400",
   "name": "Dugort Beach, Achill Island",
   "status": "Excellent",
-  "result_date": "2026-09-02",
-  "e_coli": "40",
-  "intestinal_enterococci": "2",
+  "result_date": "2026-08-24",
+  "e_coli": "<10",
+  "intestinal_enterococci": "1",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-09-09T12:40:02Z"
+  "updated_at": "2026-09-09T17:29:23Z"
 }

@@ -2,10 +2,10 @@
   "beach_id": "BPNBF240000060001",
   "name": "Creevy Lake",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "10",
-  "intestinal_enterococci": "5",
+  "result_date": "2026-06-02",
+  "e_coli": "<10",
+  "intestinal_enterococci": "12",
   "county": "Monaghan",
   "local_authority": "Monaghan County Council",
-  "updated_at": "2026-09-09T12:40:03Z"
+  "updated_at": "2026-09-09T17:29:23Z"
 }
