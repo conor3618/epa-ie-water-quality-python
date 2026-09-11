@@ -1,11 +1,11 @@
 {
   "beach_id": "BPNBF070000060001",
   "name": "Shelley Banks",
-  "status": "Excellent",
-  "result_date": "2026-08-31",
-  "e_coli": "226",
-  "intestinal_enterococci": "18",
+  "status": "Sufficient",
+  "result_date": "2026-09-08",
+  "e_coli": "703",
+  "intestinal_enterococci": "105",
   "county": "Dublin",
   "local_authority": "Dublin City Council",
-  "updated_at": "2026-09-10T22:12:56Z"
+  "updated_at": "2026-09-11T12:31:52Z"
 }

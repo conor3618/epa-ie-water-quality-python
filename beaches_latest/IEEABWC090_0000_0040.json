@@ -1,11 +1,11 @@
 {
   "beach_id": "IEEABWC090_0000_0040",
   "name": "Forty Foot Bathing Place",
-  "status": "Excellent",
-  "result_date": "2026-08-31",
-  "e_coli": "10",
-  "intestinal_enterococci": "2",
+  "status": "Good",
+  "result_date": "2026-09-07",
+  "e_coli": "408",
+  "intestinal_enterococci": "14",
   "county": "Dublin",
   "local_authority": "Dun Laoghaire Rathdown County Council",
-  "updated_at": "2026-09-10T22:12:56Z"
+  "updated_at": "2026-09-11T12:31:52Z"
 }

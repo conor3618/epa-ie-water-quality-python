@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC020_0000_0700",
   "name": "Laytown/Bettystown",
   "status": "Excellent",
-  "result_date": "2026-08-31",
-  "e_coli": "63",
-  "intestinal_enterococci": "41",
+  "result_date": "2026-09-07",
+  "e_coli": "75",
+  "intestinal_enterococci": "8",
   "county": "Meath",
   "local_authority": "Meath County Council",
-  "updated_at": "2026-09-10T22:12:55Z"
+  "updated_at": "2026-09-11T12:31:52Z"
 }

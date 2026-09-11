@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC020_0000_0200",
   "name": "Portrane, the Brook Beach",
   "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "<10",
-  "intestinal_enterococci": "<1",
+  "result_date": "2026-09-07",
+  "e_coli": "41",
+  "intestinal_enterococci": "45",
   "county": "Dublin",
   "local_authority": "Fingal County Council",
-  "updated_at": "2026-09-10T22:12:55Z"
+  "updated_at": "2026-09-11T12:31:52Z"
 }

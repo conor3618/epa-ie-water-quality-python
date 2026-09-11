@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC020_0000_0350",
   "name": "Rush North Beach",
   "status": "Excellent",
-  "result_date": "2026-08-31",
-  "e_coli": "31",
-  "intestinal_enterococci": "15",
+  "result_date": "2026-09-07",
+  "e_coli": "<10",
+  "intestinal_enterococci": "5",
   "county": "Dublin",
   "local_authority": "Fingal County Council",
-  "updated_at": "2026-09-10T22:12:56Z"
+  "updated_at": "2026-09-11T12:31:52Z"
 }

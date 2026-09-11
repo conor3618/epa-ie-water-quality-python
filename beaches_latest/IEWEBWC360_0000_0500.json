@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC360_0000_0500",
   "name": "Belmullet Tidal Pool  & Shore Road Bathing Area",
   "status": "Excellent",
-  "result_date": "2026-09-02",
-  "e_coli": "<10",
-  "intestinal_enterococci": "20",
+  "result_date": "2026-09-07",
+  "e_coli": "20",
+  "intestinal_enterococci": "2",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-09-10T22:12:56Z"
+  "updated_at": "2026-09-11T12:31:52Z"
 }

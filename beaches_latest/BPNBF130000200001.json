@@ -2,10 +2,10 @@
   "beach_id": "BPNBF130000200001",
   "name": "Waterville Town Beach",
   "status": "Excellent",
-  "result_date": "2026-08-17",
-  "e_coli": "20",
-  "intestinal_enterococci": "1",
+  "result_date": "2026-09-07",
+  "e_coli": "75",
+  "intestinal_enterococci": "7",
   "county": "Kerry",
   "local_authority": "Kerry County Council",
-  "updated_at": "2026-09-10T22:12:56Z"
+  "updated_at": "2026-09-11T12:31:52Z"
 }

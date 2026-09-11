@@ -2,10 +2,10 @@
   "beach_id": "BPNBF120000180001",
   "name": "An Trá Mór, Gorumna Island",
   "status": "Excellent",
-  "result_date": "2026-08-10",
-  "e_coli": "<10",
-  "intestinal_enterococci": "1",
+  "result_date": "2026-09-07",
+  "e_coli": "41",
+  "intestinal_enterococci": "12",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-09-10T22:12:56Z"
+  "updated_at": "2026-09-11T12:31:52Z"
 }

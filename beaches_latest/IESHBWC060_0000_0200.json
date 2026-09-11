@@ -2,10 +2,10 @@
   "beach_id": "IESHBWC060_0000_0200",
   "name": "Ballybunnion North ",
   "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "<10",
-  "intestinal_enterococci": "5",
+  "result_date": "2026-09-07",
+  "e_coli": "20",
+  "intestinal_enterococci": "2",
   "county": "Kerry",
   "local_authority": "Kerry County Council",
-  "updated_at": "2026-09-10T22:12:56Z"
+  "updated_at": "2026-09-11T12:31:52Z"
 }
