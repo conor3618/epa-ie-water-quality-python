@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC070_0000_0200",
   "name": "Portmarnock, Velvet Strand Beach",
   "status": "Excellent",
-  "result_date": "2026-09-07",
-  "e_coli": "<10",
-  "intestinal_enterococci": "3",
+  "result_date": "2026-09-09",
+  "e_coli": "10",
+  "intestinal_enterococci": "9",
   "county": "Dublin",
   "local_authority": "Fingal County Council",
-  "updated_at": "2026-09-12T11:55:56Z"
+  "updated_at": "2026-09-12T16:42:09Z"
 }
