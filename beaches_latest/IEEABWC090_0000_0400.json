@@ -1,11 +1,11 @@
 {
   "beach_id": "IEEABWC090_0000_0400",
   "name": "Dollymount Strand",
-  "status": "Sufficient",
-  "result_date": "2026-09-09",
-  "e_coli": "722",
-  "intestinal_enterococci": "82",
+  "status": "Excellent",
+  "result_date": "2026-09-11",
+  "e_coli": "72",
+  "intestinal_enterococci": "12",
   "county": "Dublin",
   "local_authority": "Dublin City Council",
-  "updated_at": "2026-09-13T22:02:52Z"
+  "updated_at": "2026-09-14T14:40:04Z"
 }
