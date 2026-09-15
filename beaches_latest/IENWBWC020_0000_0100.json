@@ -1,11 +1,11 @@
 {
   "beach_id": "IENWBWC020_0000_0100",
   "name": "Bundoran",
-  "status": "Excellent",
-  "result_date": "2026-09-09",
-  "e_coli": "52",
-  "intestinal_enterococci": "14",
+  "status": "Good",
+  "result_date": "2026-08-19",
+  "e_coli": "271",
+  "intestinal_enterococci": "60",
   "county": "Donegal",
   "local_authority": "Donegal County Council",
-  "updated_at": "2026-09-15T17:54:12Z"
+  "updated_at": "2026-09-15T22:39:44Z"
 }
