@@ -8,29 +8,7 @@
     "intestinal_enterococci": "14",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
-  },
-  {
-    "beach_id": "IESHBWL25_191a_0190",
-    "name": "Dromineer Beach",
-    "status": "Excellent",
-    "result_date": "2026-08-17",
-    "e_coli": "153",
-    "intestinal_enterococci": "19",
-    "county": "Tipperary",
-    "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
-  },
-  {
-    "beach_id": "IESHBWL25_191a_0190",
-    "name": "Dromineer Beach",
-    "status": "Excellent",
-    "result_date": "2026-07-20",
-    "e_coli": "55",
-    "intestinal_enterococci": "19",
-    "county": "Tipperary",
-    "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
   },
   {
     "beach_id": "IESHBWL25_191a_0190",
@@ -41,7 +19,7 @@
     "intestinal_enterococci": "24",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
   },
   {
     "beach_id": "IESHBWL25_191a_0190",
@@ -52,7 +30,7 @@
     "intestinal_enterococci": "11",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
   },
   {
     "beach_id": "IESHBWL25_191a_0190",
@@ -63,7 +41,18 @@
     "intestinal_enterococci": "29",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
+  },
+  {
+    "beach_id": "IESHBWL25_191a_0190",
+    "name": "Dromineer Beach",
+    "status": "Good",
+    "result_date": "2025-09-01",
+    "e_coli": "330",
+    "intestinal_enterococci": "30",
+    "county": "Tipperary",
+    "local_authority": "Tipperary County Council",
+    "updated_at": "2026-09-19T16:58:56Z"
   },
   {
     "beach_id": "IESHBWL25_191a_0190",
@@ -74,7 +63,7 @@
     "intestinal_enterococci": "114",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
   },
   {
     "beach_id": "IESHBWL25_191a_0190",
@@ -85,40 +74,40 @@
     "intestinal_enterococci": "84",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
+  },
+  {
+    "beach_id": "IESHBWL25_191a_0190",
+    "name": "Dromineer Beach",
+    "status": "Good",
+    "result_date": "2025-07-21",
+    "e_coli": "384",
+    "intestinal_enterococci": "76",
+    "county": "Tipperary",
+    "local_authority": "Tipperary County Council",
+    "updated_at": "2026-09-19T16:58:56Z"
   },
   {
     "beach_id": "IESHBWL25_191a_0190",
     "name": "Dromineer Beach",
     "status": "Excellent",
-    "result_date": "2025-07-07",
-    "e_coli": "32",
-    "intestinal_enterococci": "26",
+    "result_date": "2025-06-23",
+    "e_coli": "35",
+    "intestinal_enterococci": "74",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
   },
   {
     "beach_id": "IESHBWL25_191a_0190",
     "name": "Dromineer Beach",
     "status": "Excellent",
-    "result_date": "2025-06-09",
-    "e_coli": "16",
-    "intestinal_enterococci": "12",
+    "result_date": "2024-09-11",
+    "e_coli": "10",
+    "intestinal_enterococci": "1",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
-  },
-  {
-    "beach_id": "IESHBWL25_191a_0190",
-    "name": "Dromineer Beach",
-    "status": "Excellent",
-    "result_date": "2025-05-26",
-    "e_coli": "40",
-    "intestinal_enterococci": "2",
-    "county": "Tipperary",
-    "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
   },
   {
     "beach_id": "IESHBWL25_191a_0190",
@@ -129,18 +118,18 @@
     "intestinal_enterococci": "277",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
   },
   {
     "beach_id": "IESHBWL25_191a_0190",
     "name": "Dromineer Beach",
     "status": "Excellent",
-    "result_date": "2024-08-19",
-    "e_coli": "23",
-    "intestinal_enterococci": "<1",
+    "result_date": "2024-08-06",
+    "e_coli": "11",
+    "intestinal_enterococci": "8",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
   },
   {
     "beach_id": "IESHBWL25_191a_0190",
@@ -151,18 +140,18 @@
     "intestinal_enterococci": "20",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
   },
   {
     "beach_id": "IESHBWL25_191a_0190",
     "name": "Dromineer Beach",
     "status": "Excellent",
-    "result_date": "2024-07-08",
-    "e_coli": "135",
-    "intestinal_enterococci": "6",
+    "result_date": "2024-06-24",
+    "e_coli": "97",
+    "intestinal_enterococci": "8",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
   },
   {
     "beach_id": "IESHBWL25_191a_0190",
@@ -173,6 +162,17 @@
     "intestinal_enterococci": "8",
     "county": "Tipperary",
     "local_authority": "Tipperary County Council",
-    "updated_at": "2026-09-19T12:13:39Z"
+    "updated_at": "2026-09-19T16:58:56Z"
+  },
+  {
+    "beach_id": "IESHBWL25_191a_0190",
+    "name": "Dromineer Beach",
+    "status": "Excellent",
+    "result_date": "2024-05-22",
+    "e_coli": "169",
+    "intestinal_enterococci": "52",
+    "county": "Tipperary",
+    "local_authority": "Tipperary County Council",
+    "updated_at": "2026-09-19T16:58:56Z"
   }
 ]

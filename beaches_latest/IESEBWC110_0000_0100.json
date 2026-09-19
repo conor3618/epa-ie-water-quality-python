@@ -2,10 +2,10 @@
   "beach_id": "IESEBWC110_0000_0100",
   "name": "Tramore Beach",
   "status": "Excellent",
-  "result_date": "2026-08-24",
-  "e_coli": "<10",
-  "intestinal_enterococci": "1",
+  "result_date": "2026-09-07",
+  "e_coli": "20",
+  "intestinal_enterococci": "9",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-09-19T12:13:39Z"
+  "updated_at": "2026-09-19T16:58:55Z"
 }
