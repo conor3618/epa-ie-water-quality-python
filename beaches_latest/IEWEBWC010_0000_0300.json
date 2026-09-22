@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC010_0000_0300",
   "name": "An Trá Mór, Coill Rua, Indreabhán",
   "status": "Excellent",
-  "result_date": "2026-08-24",
+  "result_date": "2026-09-14",
   "e_coli": "<10",
-  "intestinal_enterococci": "<2",
+  "intestinal_enterococci": "7",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-09-22T13:01:30Z"
+  "updated_at": "2026-09-22T17:53:48Z"
 }

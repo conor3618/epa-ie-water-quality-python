@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC430_0000_0100",
   "name": "Streedagh Beach",
   "status": "Excellent",
-  "result_date": "2026-08-31",
-  "e_coli": "41",
-  "intestinal_enterococci": "<1",
+  "result_date": "2026-09-14",
+  "e_coli": "<10",
+  "intestinal_enterococci": "5",
   "county": "Sligo",
   "local_authority": "Sligo County Council",
-  "updated_at": "2026-09-22T13:01:30Z"
+  "updated_at": "2026-09-22T17:53:48Z"
 }
