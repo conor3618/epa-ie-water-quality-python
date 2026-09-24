@@ -1,11 +1,11 @@
 {
   "beach_id": "BPNBF070000040003",
   "name": "North Bull Wall",
-  "status": "Excellent",
-  "result_date": "2026-09-08",
-  "e_coli": "211",
-  "intestinal_enterococci": "47",
+  "status": "Poor",
+  "result_date": "2026-09-21",
+  "e_coli": "1658",
+  "intestinal_enterococci": "660",
   "county": "Dublin",
   "local_authority": "Dublin City Council",
-  "updated_at": "2026-09-23T22:38:34Z"
+  "updated_at": "2026-09-24T13:07:02Z"
 }
