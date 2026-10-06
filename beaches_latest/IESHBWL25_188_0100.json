@@ -1,11 +1,11 @@
 {
   "beach_id": "IESHBWL25_188_0100",
   "name": "Lilliput, Lough Ennell",
-  "status": "Poor",
-  "result_date": "2026-09-17",
-  "e_coli": "1120",
-  "intestinal_enterococci": "406",
+  "status": "Excellent",
+  "result_date": "2026-10-01",
+  "e_coli": "10",
+  "intestinal_enterococci": "17",
   "county": "Westmeath",
   "local_authority": "Westmeath County Council",
-  "updated_at": "2026-10-06T01:04:59Z"
+  "updated_at": "2026-10-06T14:41:54Z"
 }
