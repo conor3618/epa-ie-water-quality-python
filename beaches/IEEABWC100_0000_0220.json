@@ -8,7 +8,7 @@
     "intestinal_enterococci": "2",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -19,40 +19,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "IEEABWC100_0000_0220",
-    "name": "The Cove Greystones",
-    "status": "Excellent",
-    "result_date": "2026-08-17",
-    "e_coli": "51",
-    "intestinal_enterococci": "<1",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "IEEABWC100_0000_0220",
-    "name": "The Cove Greystones",
-    "status": "Excellent",
-    "result_date": "2026-08-10",
-    "e_coli": "<10",
-    "intestinal_enterococci": "3",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "IEEABWC100_0000_0220",
-    "name": "The Cove Greystones",
-    "status": "Excellent",
-    "result_date": "2026-07-27",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -63,51 +30,7 @@
     "intestinal_enterococci": "3",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "IEEABWC100_0000_0220",
-    "name": "The Cove Greystones",
-    "status": "Excellent",
-    "result_date": "2026-07-06",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "IEEABWC100_0000_0220",
-    "name": "The Cove Greystones",
-    "status": "Excellent",
-    "result_date": "2026-06-29",
-    "e_coli": "52",
-    "intestinal_enterococci": "2",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "IEEABWC100_0000_0220",
-    "name": "The Cove Greystones",
-    "status": "Excellent",
-    "result_date": "2026-06-15",
-    "e_coli": "10",
-    "intestinal_enterococci": "2",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "IEEABWC100_0000_0220",
-    "name": "The Cove Greystones",
-    "status": "Excellent",
-    "result_date": "2026-05-25",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -118,7 +41,7 @@
     "intestinal_enterococci": "9",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -129,7 +52,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -140,7 +63,7 @@
     "intestinal_enterococci": "6",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -151,7 +74,7 @@
     "intestinal_enterococci": "4",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -162,7 +85,7 @@
     "intestinal_enterococci": "1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -173,18 +96,7 @@
     "intestinal_enterococci": "8",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "IEEABWC100_0000_0220",
-    "name": "The Cove Greystones",
-    "status": "Excellent",
-    "result_date": "2025-07-07",
-    "e_coli": "10",
-    "intestinal_enterococci": "5",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -195,7 +107,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -206,18 +118,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "IEEABWC100_0000_0220",
-    "name": "The Cove Greystones",
-    "status": "Excellent",
-    "result_date": "2025-05-26",
-    "e_coli": "<10",
-    "intestinal_enterococci": "1",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -228,7 +129,7 @@
     "intestinal_enterococci": "1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -239,29 +140,18 @@
     "intestinal_enterococci": "6",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
     "name": "The Cove Greystones",
     "status": "Excellent",
-    "result_date": "2024-08-12",
-    "e_coli": "<10",
-    "intestinal_enterococci": "2",
+    "result_date": "2024-07-30",
+    "e_coli": "10",
+    "intestinal_enterococci": "6",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "IEEABWC100_0000_0220",
-    "name": "The Cove Greystones",
-    "status": "Excellent",
-    "result_date": "2024-08-06",
-    "e_coli": "<10",
-    "intestinal_enterococci": "4",
-    "county": "Wicklow",
-    "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -272,7 +162,7 @@
     "intestinal_enterococci": "1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -283,7 +173,7 @@
     "intestinal_enterococci": "<1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -294,7 +184,7 @@
     "intestinal_enterococci": "1",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -305,7 +195,7 @@
     "intestinal_enterococci": "23",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "IEEABWC100_0000_0220",
@@ -316,6 +206,6 @@
     "intestinal_enterococci": "2",
     "county": "Wicklow",
     "local_authority": "Wicklow County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   }
 ]

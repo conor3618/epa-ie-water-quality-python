@@ -8,51 +8,7 @@
     "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "BPNBF230000030001",
-    "name": "Gormanston Beach",
-    "status": "Excellent",
-    "result_date": "2026-08-17",
-    "e_coli": "31",
-    "intestinal_enterococci": "<1",
-    "county": "Meath",
-    "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "BPNBF230000030001",
-    "name": "Gormanston Beach",
-    "status": "Excellent",
-    "result_date": "2026-07-27",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<1",
-    "county": "Meath",
-    "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "BPNBF230000030001",
-    "name": "Gormanston Beach",
-    "status": "Excellent",
-    "result_date": "2026-07-06",
-    "e_coli": "<10",
-    "intestinal_enterococci": "1",
-    "county": "Meath",
-    "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "BPNBF230000030001",
-    "name": "Gormanston Beach",
-    "status": "Good",
-    "result_date": "2026-06-15",
-    "e_coli": "285",
-    "intestinal_enterococci": "60",
-    "county": "Meath",
-    "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "BPNBF230000030001",
@@ -63,18 +19,7 @@
     "intestinal_enterococci": "2",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "BPNBF230000030001",
-    "name": "Gormanston Beach",
-    "status": "Excellent",
-    "result_date": "2025-09-08",
-    "e_coli": "183",
-    "intestinal_enterococci": "52",
-    "county": "Meath",
-    "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "BPNBF230000030001",
@@ -85,7 +30,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "BPNBF230000030001",
@@ -96,18 +41,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
-  },
-  {
-    "beach_id": "BPNBF230000030001",
-    "name": "Gormanston Beach",
-    "status": "Excellent",
-    "result_date": "2025-07-07",
-    "e_coli": "20",
-    "intestinal_enterococci": "<1",
-    "county": "Meath",
-    "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "BPNBF230000030001",
@@ -118,18 +52,18 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "BPNBF230000030001",
     "name": "Gormanston Beach",
     "status": "Excellent",
-    "result_date": "2025-05-26",
-    "e_coli": "31",
-    "intestinal_enterococci": "6",
+    "result_date": "2024-09-09",
+    "e_coli": "<10",
+    "intestinal_enterococci": "1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "BPNBF230000030001",
@@ -140,7 +74,18 @@
     "intestinal_enterococci": "22",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
+  },
+  {
+    "beach_id": "BPNBF230000030001",
+    "name": "Gormanston Beach",
+    "status": "Excellent",
+    "result_date": "2024-07-30",
+    "e_coli": "31",
+    "intestinal_enterococci": "1",
+    "county": "Meath",
+    "local_authority": "Meath County Council",
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "BPNBF230000030001",
@@ -151,7 +96,7 @@
     "intestinal_enterococci": "17",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "BPNBF230000030001",
@@ -162,7 +107,7 @@
     "intestinal_enterococci": "<1",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   },
   {
     "beach_id": "BPNBF230000030001",
@@ -173,6 +118,6 @@
     "intestinal_enterococci": "15",
     "county": "Meath",
     "local_authority": "Meath County Council",
-    "updated_at": "2026-10-07T15:01:45Z"
+    "updated_at": "2026-10-07T23:59:01Z"
   }
 ]
