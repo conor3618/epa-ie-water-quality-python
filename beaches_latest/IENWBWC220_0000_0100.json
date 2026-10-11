@@ -2,10 +2,10 @@
   "beach_id": "IENWBWC220_0000_0100",
   "name": "Lisfannon",
   "status": "Excellent",
-  "result_date": "2026-09-08",
-  "e_coli": "135",
-  "intestinal_enterococci": "17",
+  "result_date": "2026-08-25",
+  "e_coli": "75",
+  "intestinal_enterococci": "40",
   "county": "Donegal",
   "local_authority": "Donegal County Council",
-  "updated_at": "2026-10-10T23:09:21Z"
+  "updated_at": "2026-10-11T14:35:46Z"
 }
