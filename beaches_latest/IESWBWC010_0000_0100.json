@@ -1,11 +1,11 @@
 {
   "beach_id": "IESWBWC010_0000_0100",
   "name": "Tragumna",
-  "status": "Sufficient",
-  "result_date": "2025-07-14",
-  "e_coli": "556",
-  "intestinal_enterococci": "160",
+  "status": "Excellent",
+  "result_date": "2026-09-07",
+  "e_coli": "31",
+  "intestinal_enterococci": "1",
   "county": "Cork",
   "local_authority": "Cork County Council",
-  "updated_at": "2026-10-19T15:14:33Z"
+  "updated_at": "2026-10-19T23:15:55Z"
 }

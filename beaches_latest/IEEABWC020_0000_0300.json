@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC020_0000_0300",
   "name": "Rush, South Beach",
   "status": "Excellent",
-  "result_date": "2026-07-27",
-  "e_coli": "<10",
-  "intestinal_enterococci": "5",
+  "result_date": "2026-09-07",
+  "e_coli": "52",
+  "intestinal_enterococci": "20",
   "county": "Dublin",
   "local_authority": "Fingal County Council",
-  "updated_at": "2026-10-19T15:14:33Z"
+  "updated_at": "2026-10-19T23:15:55Z"
 }
