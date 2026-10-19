@@ -2,10 +2,10 @@
   "beach_id": "IEWEBWC360_0000_0200",
   "name": "Elly Bay, Belmullet",
   "status": "Excellent",
-  "result_date": "2026-09-02",
-  "e_coli": "190",
-  "intestinal_enterococci": "22",
+  "result_date": "2026-08-10",
+  "e_coli": "30",
+  "intestinal_enterococci": "1",
   "county": "Mayo",
   "local_authority": "Mayo County Council",
-  "updated_at": "2026-10-18T22:12:09Z"
+  "updated_at": "2026-10-19T15:14:33Z"
 }

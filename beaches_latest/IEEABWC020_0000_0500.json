@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC020_0000_0500",
   "name": "Skerries, South Beach",
   "status": "Excellent",
-  "result_date": "2026-09-07",
-  "e_coli": "20",
-  "intestinal_enterococci": "3",
+  "result_date": "2026-07-27",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<1",
   "county": "Dublin",
   "local_authority": "Fingal County Council",
-  "updated_at": "2026-10-18T22:12:09Z"
+  "updated_at": "2026-10-19T15:14:33Z"
 }
