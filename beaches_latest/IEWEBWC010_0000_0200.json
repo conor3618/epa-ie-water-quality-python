@@ -1,11 +1,11 @@
 {
   "beach_id": "IEWEBWC010_0000_0200",
   "name": "Cill Mhuirbhigh, Inis Mór",
-  "status": "Good",
-  "result_date": "2026-07-29",
-  "e_coli": "97",
-  "intestinal_enterococci": "125",
+  "status": "Excellent",
+  "result_date": "2026-08-17",
+  "e_coli": "<10",
+  "intestinal_enterococci": "<2",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-10-23T13:02:44Z"
+  "updated_at": "2026-10-23T18:04:52Z"
 }
