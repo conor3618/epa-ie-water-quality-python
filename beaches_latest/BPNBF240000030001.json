@@ -1,11 +1,11 @@
 {
   "beach_id": "BPNBF240000030001",
   "name": "Lough Muckno Bathing Area",
-  "status": "Poor",
-  "result_date": "2026-08-17",
-  "e_coli": "120",
-  "intestinal_enterococci": "570",
+  "status": "Excellent",
+  "result_date": "2026-09-07",
+  "e_coli": "210",
+  "intestinal_enterococci": "40",
   "county": "Monaghan",
   "local_authority": "Monaghan County Council",
-  "updated_at": "2026-10-24T22:13:26Z"
+  "updated_at": "2026-10-25T12:55:52Z"
 }
