@@ -8,7 +8,18 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
+  },
+  {
+    "beach_id": "BPNBF120000190001",
+    "name": "Mannin Bay, Ballyconneely",
+    "status": "Excellent",
+    "result_date": "2026-07-13",
+    "e_coli": "<10",
+    "intestinal_enterococci": "0",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -19,7 +30,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -30,7 +41,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -41,7 +52,7 @@
     "intestinal_enterococci": "3",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -52,18 +63,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
-  },
-  {
-    "beach_id": "BPNBF120000190001",
-    "name": "Mannin Bay, Ballyconneely",
-    "status": "Excellent",
-    "result_date": "2025-06-09",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -74,7 +74,7 @@
     "intestinal_enterococci": "29",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -85,7 +85,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -96,18 +96,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
-  },
-  {
-    "beach_id": "BPNBF120000190001",
-    "name": "Mannin Bay, Ballyconneely",
-    "status": "Excellent",
-    "result_date": "2024-06-17",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -118,7 +107,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -129,7 +118,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -140,7 +129,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -151,7 +140,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -162,29 +151,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
-  },
-  {
-    "beach_id": "BPNBF120000190001",
-    "name": "Mannin Bay, Ballyconneely",
-    "status": "Excellent",
-    "result_date": "2022-08-08",
-    "e_coli": "<10",
-    "intestinal_enterococci": "5",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
-  },
-  {
-    "beach_id": "BPNBF120000190001",
-    "name": "Mannin Bay, Ballyconneely",
-    "status": "Excellent",
-    "result_date": "2022-07-18",
-    "e_coli": "<10",
-    "intestinal_enterococci": "6",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -195,7 +162,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -206,7 +173,7 @@
     "intestinal_enterococci": "4",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -217,7 +184,7 @@
     "intestinal_enterococci": "7",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -228,7 +195,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -239,7 +206,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -250,7 +217,7 @@
     "intestinal_enterococci": "4",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -261,7 +228,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -272,7 +239,7 @@
     "intestinal_enterococci": "7",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -283,7 +250,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -294,7 +261,18 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
+  },
+  {
+    "beach_id": "BPNBF120000190001",
+    "name": "Mannin Bay, Ballyconneely",
+    "status": "Excellent",
+    "result_date": "2019-08-06",
+    "e_coli": "<10",
+    "intestinal_enterococci": "7",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -305,7 +283,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -316,7 +294,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -327,7 +305,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -338,7 +316,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -349,7 +327,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -360,7 +338,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -371,18 +349,7 @@
     "intestinal_enterococci": "3",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
-  },
-  {
-    "beach_id": "BPNBF120000190001",
-    "name": "Mannin Bay, Ballyconneely",
-    "status": "Excellent",
-    "result_date": "2017-08-14",
-    "e_coli": "10",
-    "intestinal_enterococci": "2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -393,7 +360,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -404,7 +371,18 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
+  },
+  {
+    "beach_id": "BPNBF120000190001",
+    "name": "Mannin Bay, Ballyconneely",
+    "status": "Excellent",
+    "result_date": "2017-05-22",
+    "e_coli": "<10",
+    "intestinal_enterococci": "3",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -415,7 +393,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -426,7 +404,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -437,7 +415,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -448,7 +426,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -459,7 +437,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -470,7 +448,7 @@
     "intestinal_enterococci": "3",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -481,7 +459,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -492,18 +470,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
-  },
-  {
-    "beach_id": "BPNBF120000190001",
-    "name": "Mannin Bay, Ballyconneely",
-    "status": "Excellent",
-    "result_date": "2014-08-18",
-    "e_coli": "20",
-    "intestinal_enterococci": "3",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -514,7 +481,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -525,7 +492,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   },
   {
     "beach_id": "BPNBF120000190001",
@@ -536,6 +503,6 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-25T12:55:52Z"
+    "updated_at": "2026-10-25T17:23:02Z"
   }
 ]
