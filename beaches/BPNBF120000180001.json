@@ -8,7 +8,7 @@
     "intestinal_enterococci": "12",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -19,7 +19,7 @@
     "intestinal_enterococci": "1",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -30,7 +30,7 @@
     "intestinal_enterococci": "0",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -41,7 +41,7 @@
     "intestinal_enterococci": "9",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -52,7 +52,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -63,7 +63,7 @@
     "intestinal_enterococci": "12",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -74,7 +74,7 @@
     "intestinal_enterococci": "13",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -85,7 +85,18 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF120000180001",
+    "name": "An Trá Mór, Gorumna Island",
+    "status": "Excellent",
+    "result_date": "2025-06-09",
+    "e_coli": "<10",
+    "intestinal_enterococci": "6",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -96,7 +107,7 @@
     "intestinal_enterococci": "30",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -107,7 +118,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -118,7 +129,7 @@
     "intestinal_enterococci": "63",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -129,7 +140,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -140,7 +151,40 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF120000180001",
+    "name": "An Trá Mór, Gorumna Island",
+    "status": "Excellent",
+    "result_date": "2024-05-27",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<2",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF120000180001",
+    "name": "An Trá Mór, Gorumna Island",
+    "status": "Excellent",
+    "result_date": "2023-09-06",
+    "e_coli": "10",
+    "intestinal_enterococci": "97",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF120000180001",
+    "name": "An Trá Mór, Gorumna Island",
+    "status": "Excellent",
+    "result_date": "2023-08-09",
+    "e_coli": "20",
+    "intestinal_enterococci": "<2",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -151,7 +195,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -162,7 +206,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -173,7 +217,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -184,29 +228,40 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
     "name": "An Trá Mór, Gorumna Island",
     "status": "Excellent",
-    "result_date": "2022-07-13",
-    "e_coli": "20",
-    "intestinal_enterococci": "24",
+    "result_date": "2022-08-10",
+    "e_coli": "10",
+    "intestinal_enterococci": "3",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
     "name": "An Trá Mór, Gorumna Island",
     "status": "Excellent",
-    "result_date": "2021-09-01",
+    "result_date": "2022-06-15",
     "e_coli": "<10",
-    "intestinal_enterococci": "1",
+    "intestinal_enterococci": "6",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF120000180001",
+    "name": "An Trá Mór, Gorumna Island",
+    "status": "Excellent",
+    "result_date": "2022-05-26",
+    "e_coli": "10",
+    "intestinal_enterococci": "2",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -217,18 +272,18 @@
     "intestinal_enterococci": "5",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
     "name": "An Trá Mór, Gorumna Island",
     "status": "Excellent",
-    "result_date": "2021-07-07",
+    "result_date": "2021-06-16",
     "e_coli": "<10",
-    "intestinal_enterococci": "<2",
+    "intestinal_enterococci": "1",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -239,7 +294,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -250,18 +305,18 @@
     "intestinal_enterococci": "90",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
     "name": "An Trá Mór, Gorumna Island",
     "status": "Excellent",
-    "result_date": "2020-07-08",
+    "result_date": "2020-08-10",
     "e_coli": "<10",
-    "intestinal_enterococci": "7",
+    "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -272,7 +327,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -283,29 +338,18 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
     "name": "An Trá Mór, Gorumna Island",
     "status": "Excellent",
-    "result_date": "2019-09-04",
+    "result_date": "2019-08-08",
     "e_coli": "<10",
-    "intestinal_enterococci": "8",
+    "intestinal_enterococci": "5",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
-  },
-  {
-    "beach_id": "BPNBF120000180001",
-    "name": "An Trá Mór, Gorumna Island",
-    "status": "Excellent",
-    "result_date": "2019-07-10",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -316,7 +360,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -327,7 +371,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -338,7 +382,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -349,7 +393,18 @@
     "intestinal_enterococci": "5",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF120000180001",
+    "name": "An Trá Mór, Gorumna Island",
+    "status": "Excellent",
+    "result_date": "2018-07-11",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<2",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -360,7 +415,7 @@
     "intestinal_enterococci": "5",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -371,7 +426,7 @@
     "intestinal_enterococci": "19",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -382,7 +437,18 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF120000180001",
+    "name": "An Trá Mór, Gorumna Island",
+    "status": "Excellent",
+    "result_date": "2017-08-24",
+    "e_coli": "31",
+    "intestinal_enterococci": "57",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -393,7 +459,7 @@
     "intestinal_enterococci": "8",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -404,7 +470,7 @@
     "intestinal_enterococci": "260",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -415,7 +481,7 @@
     "intestinal_enterococci": "6",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -426,7 +492,7 @@
     "intestinal_enterococci": "3",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -437,18 +503,7 @@
     "intestinal_enterococci": "60",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
-  },
-  {
-    "beach_id": "BPNBF120000180001",
-    "name": "An Trá Mór, Gorumna Island",
-    "status": "Excellent",
-    "result_date": "2016-08-04",
-    "e_coli": "41",
-    "intestinal_enterococci": "50",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -459,7 +514,7 @@
     "intestinal_enterococci": "4",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -470,7 +525,7 @@
     "intestinal_enterococci": "51",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -481,29 +536,7 @@
     "intestinal_enterococci": "10",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
-  },
-  {
-    "beach_id": "BPNBF120000180001",
-    "name": "An Trá Mór, Gorumna Island",
-    "status": "Excellent",
-    "result_date": "2015-09-02",
-    "e_coli": "41",
-    "intestinal_enterococci": "11",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
-  },
-  {
-    "beach_id": "BPNBF120000180001",
-    "name": "An Trá Mór, Gorumna Island",
-    "status": "Excellent",
-    "result_date": "2015-08-17",
-    "e_coli": "<10",
-    "intestinal_enterococci": "3",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -514,7 +547,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -525,7 +558,7 @@
     "intestinal_enterococci": "350",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -536,29 +569,7 @@
     "intestinal_enterococci": "90",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
-  },
-  {
-    "beach_id": "BPNBF120000180001",
-    "name": "An Trá Mór, Gorumna Island",
-    "status": "Excellent",
-    "result_date": "2015-06-17",
-    "e_coli": "<10",
-    "intestinal_enterococci": "36",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
-  },
-  {
-    "beach_id": "BPNBF120000180001",
-    "name": "An Trá Mór, Gorumna Island",
-    "status": "Excellent",
-    "result_date": "2015-05-27",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -569,7 +580,7 @@
     "intestinal_enterococci": "1",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -580,7 +591,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -591,7 +602,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -602,7 +613,7 @@
     "intestinal_enterococci": "6",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF120000180001",
@@ -613,6 +624,6 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   }
 ]

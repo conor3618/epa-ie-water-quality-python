@@ -4,8 +4,8 @@
   "status": "Excellent",
   "result_date": "2026-09-07",
   "e_coli": "<10",
-  "intestinal_enterococci": "<2",
+  "intestinal_enterococci": "1",
   "county": "Galway",
   "local_authority": "Galway County Council",
-  "updated_at": "2026-10-28T23:50:36Z"
+  "updated_at": "2026-10-29T14:55:25Z"
 }

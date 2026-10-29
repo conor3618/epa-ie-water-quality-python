@@ -8,7 +8,7 @@
     "intestinal_enterococci": "4",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -19,7 +19,7 @@
     "intestinal_enterococci": "39",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -30,7 +30,18 @@
     "intestinal_enterococci": "2",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF310000150001",
+    "name": "Goat Island",
+    "status": "Excellent",
+    "result_date": "2026-06-22",
+    "e_coli": "10",
+    "intestinal_enterococci": "<1",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -41,7 +52,7 @@
     "intestinal_enterococci": "1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -52,7 +63,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -63,7 +74,7 @@
     "intestinal_enterococci": "5",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -74,7 +85,18 @@
     "intestinal_enterococci": "5",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF310000150001",
+    "name": "Goat Island",
+    "status": "Excellent",
+    "result_date": "2025-06-09",
+    "e_coli": "97",
+    "intestinal_enterococci": "4",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -85,7 +107,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -96,7 +118,7 @@
     "intestinal_enterococci": "10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -107,7 +129,7 @@
     "intestinal_enterococci": "11",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -118,7 +140,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -129,7 +151,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -140,7 +162,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -151,7 +173,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -162,7 +184,7 @@
     "intestinal_enterococci": "60",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -173,7 +195,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -184,7 +206,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -195,7 +217,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -206,7 +228,7 @@
     "intestinal_enterococci": "30",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -217,18 +239,18 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
     "name": "Goat Island",
     "status": "Excellent",
-    "result_date": "2022-07-11",
-    "e_coli": "52",
+    "result_date": "2022-05-25",
+    "e_coli": "<10",
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -239,7 +261,7 @@
     "intestinal_enterococci": "41",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -250,7 +272,29 @@
     "intestinal_enterococci": "10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF310000150001",
+    "name": "Goat Island",
+    "status": "Excellent",
+    "result_date": "2021-07-13",
+    "e_coli": "10",
+    "intestinal_enterococci": "<10",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF310000150001",
+    "name": "Goat Island",
+    "status": "Excellent",
+    "result_date": "2021-06-14",
+    "e_coli": "<10",
+    "intestinal_enterococci": "10",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -261,7 +305,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -272,18 +316,29 @@
     "intestinal_enterococci": "10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
     "name": "Goat Island",
     "status": "Excellent",
-    "result_date": "2020-07-13",
-    "e_coli": "31",
-    "intestinal_enterococci": "<10",
+    "result_date": "2020-08-17",
+    "e_coli": "145",
+    "intestinal_enterococci": "73",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF310000150001",
+    "name": "Goat Island",
+    "status": "Excellent",
+    "result_date": "2020-08-10",
+    "e_coli": "41",
+    "intestinal_enterococci": "10",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -294,7 +349,7 @@
     "intestinal_enterococci": "10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -305,7 +360,7 @@
     "intestinal_enterococci": "<10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -316,29 +371,7 @@
     "intestinal_enterococci": "4",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
-  },
-  {
-    "beach_id": "BPNBF310000150001",
-    "name": "Goat Island",
-    "status": "Excellent",
-    "result_date": "2019-07-10",
-    "e_coli": "<10",
-    "intestinal_enterococci": "2",
-    "county": "Waterford",
-    "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
-  },
-  {
-    "beach_id": "BPNBF310000150001",
-    "name": "Goat Island",
-    "status": "Good",
-    "result_date": "2019-07-08",
-    "e_coli": "150",
-    "intestinal_enterococci": "140",
-    "county": "Waterford",
-    "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -349,7 +382,7 @@
     "intestinal_enterococci": "1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -360,7 +393,7 @@
     "intestinal_enterococci": "36",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -371,7 +404,7 @@
     "intestinal_enterococci": "1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -382,7 +415,18 @@
     "intestinal_enterococci": "1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF310000150001",
+    "name": "Goat Island",
+    "status": "Excellent",
+    "result_date": "2018-07-09",
+    "e_coli": "<10",
+    "intestinal_enterococci": "2",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -393,7 +437,7 @@
     "intestinal_enterococci": "10",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -404,7 +448,18 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF310000150001",
+    "name": "Goat Island",
+    "status": "Excellent",
+    "result_date": "2017-09-04",
+    "e_coli": "111",
+    "intestinal_enterococci": "22",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -415,7 +470,7 @@
     "intestinal_enterococci": "3",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -426,7 +481,18 @@
     "intestinal_enterococci": "6",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
+  },
+  {
+    "beach_id": "BPNBF310000150001",
+    "name": "Goat Island",
+    "status": "Excellent",
+    "result_date": "2017-05-24",
+    "e_coli": "<10",
+    "intestinal_enterococci": "7",
+    "county": "Waterford",
+    "local_authority": "Waterford City & County Council",
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -437,18 +503,7 @@
     "intestinal_enterococci": "3",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
-  },
-  {
-    "beach_id": "BPNBF310000150001",
-    "name": "Goat Island",
-    "status": "Excellent",
-    "result_date": "2016-08-08",
-    "e_coli": "10",
-    "intestinal_enterococci": "1",
-    "county": "Waterford",
-    "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -459,7 +514,7 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -470,18 +525,18 @@
     "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
     "name": "Goat Island",
     "status": "Excellent",
-    "result_date": "2015-09-07",
-    "e_coli": "10",
-    "intestinal_enterococci": "3",
+    "result_date": "2016-05-23",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -492,18 +547,7 @@
     "intestinal_enterococci": "4",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
-  },
-  {
-    "beach_id": "BPNBF310000150001",
-    "name": "Goat Island",
-    "status": "Excellent",
-    "result_date": "2015-06-15",
-    "e_coli": "10",
-    "intestinal_enterococci": "<1",
-    "county": "Waterford",
-    "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -514,7 +558,7 @@
     "intestinal_enterococci": "2",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -525,7 +569,7 @@
     "intestinal_enterococci": "1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -536,7 +580,7 @@
     "intestinal_enterococci": "11",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -547,7 +591,7 @@
     "intestinal_enterococci": "2",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -558,7 +602,7 @@
     "intestinal_enterococci": "84",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   },
   {
     "beach_id": "BPNBF310000150001",
@@ -569,6 +613,6 @@
     "intestinal_enterococci": "1",
     "county": "Waterford",
     "local_authority": "Waterford City & County Council",
-    "updated_at": "2026-10-28T23:50:36Z"
+    "updated_at": "2026-10-29T14:55:25Z"
   }
 ]
