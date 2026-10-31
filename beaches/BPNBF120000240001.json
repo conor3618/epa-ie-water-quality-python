@@ -8,7 +8,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -19,7 +19,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -30,7 +30,7 @@
     "intestinal_enterococci": "0",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -41,7 +41,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -52,7 +52,18 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
+  },
+  {
+    "beach_id": "BPNBF120000240001",
+    "name": "Trá Poll na gCaorach Inis Oirr",
+    "status": "Excellent",
+    "result_date": "2025-09-01",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<2",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -63,7 +74,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -74,7 +85,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -85,7 +96,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -96,7 +107,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -107,7 +118,7 @@
     "intestinal_enterococci": "10",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -118,18 +129,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
-  },
-  {
-    "beach_id": "BPNBF120000240001",
-    "name": "Trá Poll na gCaorach Inis Oirr",
-    "status": "Excellent",
-    "result_date": "2024-07-08",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -140,7 +140,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -151,7 +151,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -162,7 +162,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -173,18 +173,18 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
     "name": "Trá Poll na gCaorach Inis Oirr",
     "status": "Excellent",
-    "result_date": "2023-06-15",
+    "result_date": "2023-07-12",
     "e_coli": "<10",
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -195,7 +195,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -206,7 +206,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -217,7 +217,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -228,40 +228,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
-  },
-  {
-    "beach_id": "BPNBF120000240001",
-    "name": "Trá Poll na gCaorach Inis Oirr",
-    "status": "Excellent",
-    "result_date": "2022-06-15",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
-  },
-  {
-    "beach_id": "BPNBF120000240001",
-    "name": "Trá Poll na gCaorach Inis Oirr",
-    "status": "Excellent",
-    "result_date": "2022-05-27",
-    "e_coli": "<10",
-    "intestinal_enterococci": "2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
-  },
-  {
-    "beach_id": "BPNBF120000240001",
-    "name": "Trá Poll na gCaorach Inis Oirr",
-    "status": "Excellent",
-    "result_date": "2021-09-01",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -272,7 +239,7 @@
     "intestinal_enterococci": "1",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -283,7 +250,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -294,7 +261,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -305,7 +272,7 @@
     "intestinal_enterococci": "2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -316,7 +283,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -327,7 +294,7 @@
     "intestinal_enterococci": "27",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -338,7 +305,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -349,7 +316,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -360,7 +327,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -371,7 +338,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -382,7 +349,18 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
+  },
+  {
+    "beach_id": "BPNBF120000240001",
+    "name": "Trá Poll na gCaorach Inis Oirr",
+    "status": "Excellent",
+    "result_date": "2019-07-11",
+    "e_coli": "<10",
+    "intestinal_enterococci": "<2",
+    "county": "Galway",
+    "local_authority": "Galway County Council",
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -393,7 +371,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -404,7 +382,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -415,18 +393,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
-  },
-  {
-    "beach_id": "BPNBF120000240001",
-    "name": "Trá Poll na gCaorach Inis Oirr",
-    "status": "Excellent",
-    "result_date": "2018-08-08",
-    "e_coli": "10",
-    "intestinal_enterococci": "3",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -437,7 +404,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -448,7 +415,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -459,18 +426,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
-  },
-  {
-    "beach_id": "BPNBF120000240001",
-    "name": "Trá Poll na gCaorach Inis Oirr",
-    "status": "Excellent",
-    "result_date": "2017-09-06",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -481,18 +437,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
-  },
-  {
-    "beach_id": "BPNBF120000240001",
-    "name": "Trá Poll na gCaorach Inis Oirr",
-    "status": "Excellent",
-    "result_date": "2017-08-09",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -503,7 +448,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -514,7 +459,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -525,7 +470,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -536,7 +481,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -547,18 +492,18 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
     "name": "Trá Poll na gCaorach Inis Oirr",
     "status": "Excellent",
-    "result_date": "2016-07-13",
+    "result_date": "2016-06-22",
     "e_coli": "<10",
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -569,7 +514,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -580,7 +525,7 @@
     "intestinal_enterococci": "1",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -591,7 +536,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -602,7 +547,7 @@
     "intestinal_enterococci": "1",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -613,7 +558,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -624,7 +569,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -635,18 +580,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
-  },
-  {
-    "beach_id": "BPNBF120000240001",
-    "name": "Trá Poll na gCaorach Inis Oirr",
-    "status": "Excellent",
-    "result_date": "2014-08-06",
-    "e_coli": "<10",
-    "intestinal_enterococci": "<2",
-    "county": "Galway",
-    "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -657,7 +591,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -668,7 +602,7 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   },
   {
     "beach_id": "BPNBF120000240001",
@@ -679,6 +613,6 @@
     "intestinal_enterococci": "<2",
     "county": "Galway",
     "local_authority": "Galway County Council",
-    "updated_at": "2026-10-30T23:27:11Z"
+    "updated_at": "2026-10-31T14:15:40Z"
   }
 ]
