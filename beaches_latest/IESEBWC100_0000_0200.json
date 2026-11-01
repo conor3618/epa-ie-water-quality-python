@@ -2,10 +2,10 @@
   "beach_id": "IESEBWC100_0000_0200",
   "name": "Dunmore Strand, Dunmore East",
   "status": "Excellent",
-  "result_date": "2026-07-27",
-  "e_coli": "10",
-  "intestinal_enterococci": "15",
+  "result_date": "2026-09-07",
+  "e_coli": "<10",
+  "intestinal_enterococci": "2",
   "county": "Waterford",
   "local_authority": "Waterford City & County Council",
-  "updated_at": "2026-10-31T23:00:36Z"
+  "updated_at": "2026-11-01T14:41:51Z"
 }
