@@ -2,10 +2,10 @@
   "beach_id": "IENBBWC025_0000_0100",
   "name": "Seapoint (Louth)",
   "status": "Excellent",
-  "result_date": "2026-09-01",
-  "e_coli": "20",
-  "intestinal_enterococci": "2",
+  "result_date": "2026-08-18",
+  "e_coli": "<10",
+  "intestinal_enterococci": "1",
   "county": "Louth",
   "local_authority": "Louth County Council",
-  "updated_at": "2026-11-11T00:23:31Z"
+  "updated_at": "2026-11-11T15:48:37Z"
 }
