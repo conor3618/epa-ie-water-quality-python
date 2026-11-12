@@ -2,10 +2,10 @@
   "beach_id": "IEEABWC090_0000_0350",
   "name": "Half Moon",
   "status": "Excellent",
-  "result_date": "2026-09-21",
-  "e_coli": "86",
-  "intestinal_enterococci": "26",
+  "result_date": "2026-11-04",
+  "e_coli": "98",
+  "intestinal_enterococci": "13",
   "county": "Dublin",
   "local_authority": "Dublin City Council",
-  "updated_at": "2026-11-11T15:48:37Z"
+  "updated_at": "2026-11-12T01:46:25Z"
 }
